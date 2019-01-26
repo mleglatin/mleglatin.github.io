@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C-K on Mario LE GLATIN</title>
+    <link>https://mleglatin.github.io/tags/c-k/</link>
+    <description>Recent content in C-K on Mario LE GLATIN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright>
+    <lastBuildDate>Sun, 01 Jul 2018 17:29:19 +0100</lastBuildDate>
+    
+	<atom:link href="https://mleglatin.github.io/tags/c-k/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Designing Decisions in the Unknown: A Generative Model</title>
+      <link>https://mleglatin.github.io/publication/pub-lemasson2018/</link>
+      <pubDate>Sun, 01 Jul 2018 17:29:19 +0100</pubDate>
+      
+      <guid>https://mleglatin.github.io/publication/pub-lemasson2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

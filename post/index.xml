@@ -12,5 +12,17 @@
 	<atom:link href="https://mleglatin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Hello World, a very first post</title>
+      <link>https://mleglatin.github.io/2019/01/26/hello-world-a-very-first-post/</link>
+      <pubDate>Sat, 26 Jan 2019 17:54:08 +0100</pubDate>
+      
+      <guid>https://mleglatin.github.io/2019/01/26/hello-world-a-very-first-post/</guid>
+      <description> Hello World!
+It&amp;rsquo;s a start We will see where it goes.
+ The point is to upload my thesis, synthesize it, share it. Share some thoughts on projects . Showcase some academic writings .  Work in progress&amp;hellip;
+</description>
+    </item>
+    
   </channel>
 </rss>

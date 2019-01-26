@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>update on Mario LE GLATIN</title>
+    <link>https://mleglatin.github.io/tags/update/</link>
+    <description>Recent content in update on Mario LE GLATIN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright>
+    <lastBuildDate>Sat, 26 Jan 2019 17:54:08 +0100</lastBuildDate>
+    
+	<atom:link href="https://mleglatin.github.io/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World, a very first post</title>
+      <link>https://mleglatin.github.io/2019/01/26/hello-world-a-very-first-post/</link>
+      <pubDate>Sat, 26 Jan 2019 17:54:08 +0100</pubDate>
+      
+      <guid>https://mleglatin.github.io/2019/01/26/hello-world-a-very-first-post/</guid>
+      <description> Hello World!
+It&amp;rsquo;s a start We will see where it goes.
+ The point is to upload my thesis, synthesize it, share it. Share some thoughts on projects . Showcase some academic writings .  Work in progress&amp;hellip;
+</description>
+    </item>
+    
+  </channel>
+</rss>
