@@ -11,5 +11,32 @@
 	<atom:link href="https://mleglatin.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Benoit Weil</title>
+      <link>https://mleglatin.github.io/authors/benoit-weil/</link>
+      <pubDate>Sun, 16 Oct 2016 12:00:00 +0100</pubDate>
+      
+      <guid>https://mleglatin.github.io/authors/benoit-weil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mario Le Glatin</title>
+      <link>https://mleglatin.github.io/authors/mario-le-glatin/</link>
+      <pubDate>Sun, 16 Oct 2016 12:00:00 +0100</pubDate>
+      
+      <guid>https://mleglatin.github.io/authors/mario-le-glatin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pascal Le Masson</title>
+      <link>https://mleglatin.github.io/authors/pascal-le-masson/</link>
+      <pubDate>Sun, 16 Oct 2016 12:00:00 +0100</pubDate>
+      
+      <guid>https://mleglatin.github.io/authors/pascal-le-masson/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

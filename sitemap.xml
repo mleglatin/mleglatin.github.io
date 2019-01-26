@@ -28,7 +28,24 @@
     
     <url>
     
+      <loc>https://mleglatin.github.io/publication/pub-leglatin2016/</loc>
+      <lastmod>2016-10-16T12:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://mleglatin.github.io/author/admin/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mleglatin.github.io/publication_types/1/</loc>
+      <lastmod>2016-10-16T12:00:00+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -44,6 +61,15 @@
     <url>
     
       <loc>https://mleglatin.github.io/authors/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mleglatin.github.io/authors/benoit-weil/</loc>
+      <lastmod>2016-10-16T12:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -68,7 +94,26 @@
     
     <url>
     
+      <loc>https://mleglatin.github.io/authors/mario-le-glatin/</loc>
+      <lastmod>2016-10-16T12:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mleglatin.github.io/authors/pascal-le-masson/</loc>
+      <lastmod>2016-10-16T12:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://mleglatin.github.io/publication_types/</loc>
+      <lastmod>2016-10-16T12:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -77,6 +122,60 @@
     <url>
     
       <loc>https://mleglatin.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mleglatin.github.io/tags/creativity/</loc>
+      <lastmod>2016-10-16T12:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mleglatin.github.io/tags/design-theory/</loc>
+      <lastmod>2016-10-16T12:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mleglatin.github.io/tags/design-thinking/</loc>
+      <lastmod>2016-10-16T12:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mleglatin.github.io/tags/management/</loc>
+      <lastmod>2016-10-16T12:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mleglatin.github.io/tags/organization/</loc>
+      <lastmod>2016-10-16T12:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mleglatin.github.io/tags/routine/</loc>
+      <lastmod>2016-10-16T12:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
