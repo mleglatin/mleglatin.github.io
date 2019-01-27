@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhD Dissertation on Mario LE GLATIN</title>
+    <link>https://mleglatin.github.io/phd/</link>
+    <description>Recent content in PhD Dissertation on Mario LE GLATIN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://mleglatin.github.io/phd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>https://mleglatin.github.io/phd/chapter1/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://mleglatin.github.io/phd/chapter1/</guid>
+      <description>In this document (wiki), I will present my PhD Dissertation.
+Work in progress&amp;hellip;
+Tip 1 &amp;hellip;
+Tip 2 &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>https://mleglatin.github.io/phd/chapter2/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://mleglatin.github.io/phd/chapter2/</guid>
+      <description>In this document (wiki), I will present my PhD Dissertation.
+Work in progress&amp;hellip;
+Tip 1 &amp;hellip;
+Tip 2 &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 3</title>
+      <link>https://mleglatin.github.io/phd/chapter3/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://mleglatin.github.io/phd/chapter3/</guid>
+      <description>In this document (wiki), I will present my PhD Dissertation.
+Work in progress&amp;hellip;
+Tip 1 &amp;hellip;
+Tip 2 &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://mleglatin.github.io/phd/introduction/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://mleglatin.github.io/phd/introduction/</guid>
+      <description>In this document (wiki), I will present my PhD Dissertation.
+Work in progress&amp;hellip;
+Tip 1 &amp;hellip;
+Tip 2 &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
