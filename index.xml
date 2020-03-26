@@ -5,12 +5,70 @@
     <link>https://mleglatin.github.io/</link>
       <atom:link href="https://mleglatin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mario LE GLATIN</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright><lastBuildDate>Thu, 26 Mar 2020 17:04:40 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright><lastBuildDate>Thu, 26 Mar 2020 17:57:02 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Mario LE GLATIN</title>
       <link>https://mleglatin.github.io/</link>
     </image>
+    
+    <item>
+      <title>Decision design and re-ordering preferences: the case of an exploration project in a large firms</title>
+      <link>https://mleglatin.github.io/publication/pub-leglatin2017/</link>
+      <pubDate>Thu, 26 Mar 2020 17:57:02 +0100</pubDate>
+      <guid>https://mleglatin.github.io/publication/pub-leglatin2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Decision Theory</title>
+      <link>https://mleglatin.github.io/project/designing-decision-theory/</link>
+      <pubDate>Thu, 26 Mar 2020 17:55:41 +0100</pubDate>
+      <guid>https://mleglatin.github.io/project/designing-decision-theory/</guid>
+      <description>&lt;p&gt;A collection of related academic publications and posts on the topic of &lt;strong&gt;decision-making&lt;/strong&gt; and &lt;strong&gt;design theory&lt;/strong&gt; as studied and managed in organizations.&lt;/p&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    Work in Progress&amp;hellip;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ambidexterity: Exploration and Exploitation</title>
+      <link>https://mleglatin.github.io/project/ambidexterity-exploration-exploitation/</link>
+      <pubDate>Thu, 26 Mar 2020 17:54:07 +0100</pubDate>
+      <guid>https://mleglatin.github.io/project/ambidexterity-exploration-exploitation/</guid>
+      <description>&lt;p&gt;A collection of related academic publications and posts on the topic of &lt;strong&gt;ambidexterity&lt;/strong&gt; as studied and managed in organizations.&lt;/p&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    Work in Progress&amp;hellip;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design Thinking for Innovation Management</title>
+      <link>https://mleglatin.github.io/project/design-thinking-for-innovation-management/</link>
+      <pubDate>Thu, 26 Mar 2020 17:51:59 +0100</pubDate>
+      <guid>https://mleglatin.github.io/project/design-thinking-for-innovation-management/</guid>
+      <description>&lt;p&gt;A collection of related academic publications and posts on the topic of &lt;strong&gt;design thinking&lt;/strong&gt; as studied and managed in organizations.&lt;/p&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    Work in Progress&amp;hellip;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Measuring the generative power of an organisational routine with design theories: the case of design thinking in a large firm</title>
+      <link>https://mleglatin.github.io/publication/pub-leglatin2016/</link>
+      <pubDate>Thu, 26 Mar 2020 17:45:49 +0100</pubDate>
+      <guid>https://mleglatin.github.io/publication/pub-leglatin2016/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Website Announcement &amp; Content Roadmap</title>
