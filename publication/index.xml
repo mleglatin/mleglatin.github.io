@@ -5,12 +5,44 @@
     <link>https://mleglatin.github.io/publication/</link>
       <atom:link href="https://mleglatin.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright><lastBuildDate>Thu, 26 Mar 2020 17:57:02 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright><lastBuildDate>Thu, 26 Mar 2020 18:18:52 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://mleglatin.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Designing Decisions in the Unknown: A Generative Model</title>
+      <link>https://mleglatin.github.io/publication/pub-lemasson2018/</link>
+      <pubDate>Thu, 26 Mar 2020 18:18:52 +0100</pubDate>
+      <guid>https://mleglatin.github.io/publication/pub-lemasson2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can organisational ambidexterity kill innovation? A case for non-expected utility decision making</title>
+      <link>https://mleglatin.github.io/publication/pub-leglatin2018a/</link>
+      <pubDate>Thu, 26 Mar 2020 18:17:09 +0100</pubDate>
+      <guid>https://mleglatin.github.io/publication/pub-leglatin2018a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Paradigm in innovation management - analysing and extending design thinking methods with design theory</title>
+      <link>https://mleglatin.github.io/publication/pub-leglatin2018/</link>
+      <pubDate>Thu, 26 Mar 2020 18:15:23 +0100</pubDate>
+      <guid>https://mleglatin.github.io/publication/pub-leglatin2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative action and preference reversal in exploratory project management</title>
+      <link>https://mleglatin.github.io/publication/pub-leglatin2017a/</link>
+      <pubDate>Thu, 26 Mar 2020 18:13:10 +0100</pubDate>
+      <guid>https://mleglatin.github.io/publication/pub-leglatin2017a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Decision design and re-ordering preferences: the case of an exploration project in a large firms</title>

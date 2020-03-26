@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Armand Hatchuel on Mario LE GLATIN</title>
+    <title>Armand Hatchuel | Mario LE GLATIN</title>
     <link>https://mleglatin.github.io/authors/armand-hatchuel/</link>
-    <description>Recent content in Armand Hatchuel on Mario LE GLATIN</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright>
-    <lastBuildDate>Sun, 01 Jul 2018 17:29:19 +0100</lastBuildDate>
-    
-	<atom:link href="https://mleglatin.github.io/authors/armand-hatchuel/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://mleglatin.github.io/authors/armand-hatchuel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Armand Hatchuel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright><lastBuildDate>Thu, 26 Mar 2020 18:18:52 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Armand Hatchuel</title>
+      <link>https://mleglatin.github.io/authors/armand-hatchuel/</link>
+    </image>
     
     <item>
       <title>Designing Decisions in the Unknown: A Generative Model</title>
       <link>https://mleglatin.github.io/publication/pub-lemasson2018/</link>
-      <pubDate>Sun, 01 Jul 2018 17:29:19 +0100</pubDate>
-      
+      <pubDate>Thu, 26 Mar 2020 18:18:52 +0100</pubDate>
       <guid>https://mleglatin.github.io/publication/pub-lemasson2018/</guid>
       <description></description>
     </item>
