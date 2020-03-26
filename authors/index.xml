@@ -1,52 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Mario LE GLATIN</title>
+    <title>Authors | Mario LE GLATIN</title>
     <link>https://mleglatin.github.io/authors/</link>
-    <description>Recent content in Authors on Mario LE GLATIN</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright>
-    <lastBuildDate>Sun, 01 Jul 2018 17:29:19 +0100</lastBuildDate>
-    
-	<atom:link href="https://mleglatin.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Armand Hatchuel</title>
-      <link>https://mleglatin.github.io/authors/armand-hatchuel/</link>
-      <pubDate>Sun, 01 Jul 2018 17:29:19 +0100</pubDate>
-      
-      <guid>https://mleglatin.github.io/authors/armand-hatchuel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Benoit Weil</title>
-      <link>https://mleglatin.github.io/authors/benoit-weil/</link>
-      <pubDate>Sat, 26 Jan 2019 17:28:57 +0100</pubDate>
-      
-      <guid>https://mleglatin.github.io/authors/benoit-weil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mario Le Glatin</title>
-      <link>https://mleglatin.github.io/authors/mario-le-glatin/</link>
-      <pubDate>Sat, 26 Jan 2019 17:54:08 +0100</pubDate>
-      
-      <guid>https://mleglatin.github.io/authors/mario-le-glatin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pascal Le Masson</title>
-      <link>https://mleglatin.github.io/authors/pascal-le-masson/</link>
-      <pubDate>Sat, 26 Jan 2019 17:28:57 +0100</pubDate>
-      
-      <guid>https://mleglatin.github.io/authors/pascal-le-masson/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://mleglatin.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright><lastBuildDate>Thu, 26 Mar 2020 17:04:40 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>https://mleglatin.github.io/authors/</link>
+    </image>
     
   </channel>
 </rss>

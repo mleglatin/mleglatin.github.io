@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Mario LE GLATIN</title>
+    <title>Categories | Mario LE GLATIN</title>
     <link>https://mleglatin.github.io/categories/</link>
-    <description>Recent content in Categories on Mario LE GLATIN</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright>
-    
-	<atom:link href="https://mleglatin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>blog</title>
-      <link>https://mleglatin.github.io/categories/blog/</link>
-      <pubDate>Sat, 26 Jan 2019 17:54:08 +0100</pubDate>
-      
-      <guid>https://mleglatin.github.io/categories/blog/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://mleglatin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright><lastBuildDate>Thu, 26 Mar 2020 17:04:40 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Categories</title>
+      <link>https://mleglatin.github.io/categories/</link>
+    </image>
     
   </channel>
 </rss>

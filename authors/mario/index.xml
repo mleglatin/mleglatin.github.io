@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Mario LE GLATIN</title>
-    <link>https://mleglatin.github.io/post/</link>
-      <atom:link href="https://mleglatin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>Mario | Mario LE GLATIN</title>
+    <link>https://mleglatin.github.io/authors/mario/</link>
+      <atom:link href="https://mleglatin.github.io/authors/mario/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mario</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright><lastBuildDate>Thu, 26 Mar 2020 17:04:40 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Posts</title>
-      <link>https://mleglatin.github.io/post/</link>
+      <title>Mario</title>
+      <link>https://mleglatin.github.io/authors/mario/</link>
     </image>
     
     <item>
