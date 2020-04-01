@@ -5,7 +5,7 @@
     <link>https://mleglatin.github.io/post/</link>
       <atom:link href="https://mleglatin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright><lastBuildDate>Thu, 26 Mar 2020 17:04:40 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright><lastBuildDate>Wed, 01 Apr 2020 17:32:59 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
@@ -13,11 +13,56 @@
     </image>
     
     <item>
+      <title>Notes_to_myself</title>
+      <link>https://mleglatin.github.io/post/notes_to_myself/</link>
+      <pubDate>Wed, 01 Apr 2020 17:32:59 +0200</pubDate>
+      <guid>https://mleglatin.github.io/post/notes_to_myself/</guid>
+      <description>&lt;p&gt;Some notes to myself when it comes to updating committing to github.io, but also converting&lt;/p&gt;
+&lt;h1 id=&#34;git-commit-to-publish-website&#34;&gt;Git commit to publish website&lt;/h1&gt;
+&lt;p&gt;Of course, go the public folder of your newly hugo-built website. Then:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-git&#34;&gt;git add .
+git commit -m &amp;quot;Build website again&amp;quot;
+git push origin master
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Voilà!&lt;/p&gt;
+&lt;h1 id=&#34;from-latex-to-pandoc-to-hugoacademic&#34;&gt;From Latex to Pandoc to Hugo/Academic&lt;/h1&gt;
+&lt;h2 id=&#34;bib-file-with-tex-file&#34;&gt;Bib file with .tex file&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-yaml&#34;&gt;---
+title : &amp;quot;Title&amp;quot;
+editable: false
+
+date : 2018-09-09T00:00:00
+# lastmod : 2018-09-09T00:00:00
+
+toc : true  # Show table of contents? true/false
+#needed bit
+bibliography : [./myreferences.bib]
+csl: [./chicago-author-date.csl]
+reference-section-title: References
+link-citations: true
+---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;convert-to-a-draft-md&#34;&gt;Convert to a draft .md&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;pandoc -f latex yourlatex.tex -t markdown -o draftfile.md
+pandoc --filter pandoc-citeprox draftfile.md -t markdown_mmd draftfile_withBellsAndWhistles.md
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;add-it-to-the-content-of-your-target-md-file&#34;&gt;Add it to the content of your target .md file&lt;/h2&gt;
+&lt;p&gt;Voilà.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Website Announcement &amp; Content Roadmap</title>
       <link>https://mleglatin.github.io/post/website-announcement/</link>
       <pubDate>Thu, 26 Mar 2020 17:04:40 +0100</pubDate>
       <guid>https://mleglatin.github.io/post/website-announcement/</guid>
-      <description></description>
+      <description>&lt;p&gt;A new start for my personal website.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First clean up the website, template and format&lt;/li&gt;
+&lt;li&gt;Upload and convert the original PhD Dissertation from December 2018 (LateX) into a readable document type in Markdown, through Hugo/Academic.&lt;/li&gt;
+&lt;li&gt;We will see then how it goes&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

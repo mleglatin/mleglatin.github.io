@@ -17,7 +17,13 @@
       <link>https://mleglatin.github.io/post/website-announcement/</link>
       <pubDate>Thu, 26 Mar 2020 17:04:40 +0100</pubDate>
       <guid>https://mleglatin.github.io/post/website-announcement/</guid>
-      <description></description>
+      <description>&lt;p&gt;A new start for my personal website.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First clean up the website, template and format&lt;/li&gt;
+&lt;li&gt;Upload and convert the original PhD Dissertation from December 2018 (LateX) into a readable document type in Markdown, through Hugo/Academic.&lt;/li&gt;
+&lt;li&gt;We will see then how it goes&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>
