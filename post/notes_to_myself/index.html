@@ -700,7 +700,7 @@ link-citations: true
 </code></pre>
 <h2 id="convert-to-a-draft-md">Convert to a draft .md</h2>
 <pre><code>pandoc -f latex yourlatex.tex -t markdown -o draftfile.md
-pandoc --filter pandoc-citeprox draftfile.md -t markdown_mmd draftfile_withBellsAndWhistles.md
+pandoc --filter pandoc-citeproc draftfile.md -t markdown_mmd -o draftfile_withBellsAndWhistles.md
 </code></pre>
 <h2 id="add-it-to-the-content-of-your-target-md-file">Add it to the content of your target .md file</h2>
 <p>Voilà.</p>

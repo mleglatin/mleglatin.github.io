@@ -1,0 +1,1433 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Mario LE GLATIN">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="In this chapter, we propose to synthesize the anomalies highlighted by the cases’ results of the previous chapter before listing the requirements to design a new model extending the literature models of non-mutual conditioning between exploration and exploitation, in order to understand the observed phenomena.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://mleglatin.github.io/phd/part3/chapter7/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="rgb(251, 191, 183)">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono%7CLora:400,700%7CRoboto:400,700&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://mleglatin.github.io/phd/part3/chapter7/">
+
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@LeGlatinMario">
+  <meta property="twitter:creator" content="@LeGlatinMario">
+  
+  <meta property="og:site_name" content="Mario LE GLATIN">
+  <meta property="og:url" content="https://mleglatin.github.io/phd/part3/chapter7/">
+  <meta property="og:title" content="Chapter 7 - Management anomaly specification | Mario LE GLATIN">
+  <meta property="og:description" content="In this chapter, we propose to synthesize the anomalies highlighted by the cases’ results of the previous chapter before listing the requirements to design a new model extending the literature models of non-mutual conditioning between exploration and exploitation, in order to understand the observed phenomena."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2018-09-09T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2018-09-09T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Chapter 7 - Management anomaly specification | Mario LE GLATIN</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Mario LE GLATIN</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Mario LE GLATIN</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/phd/"><span>PhD Dissertation</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+  
+    
+  
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+
+  
+  
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/phd/">0 PhD Thesis Overview &amp; Foreword</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/phd/part0/">Introduction</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/phd/part1/">Part 1 - Back to the roots of ambidexterity and its limitations in the unknown</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/phd/part1/chapter1/">Chapter 1 - Elucidating models of ambidexterity and their boundaries for innovation management</a>
+      </li>
+      
+      <li >
+        <a href="/phd/part1/chapter2/">Chapter 2 - Managing the unknown: exploration project management and its impact for organizational studies</a>
+      </li>
+      
+      <li >
+        <a href="/phd/part1/chapter3/">Chapter 3 - Research Questions</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/phd/part2/">Part 2 - Research methodology</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/phd/part2/chapter4/">Chapter 4 - Methodological approach and research journey</a>
+      </li>
+      
+      <li >
+        <a href="/phd/part2/chapter5/">Chapter 5 - Presentation of the research field and justification of case studies</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/phd/part3/">Part 3 - Anomaly detection - when ambidexterity tears organizations apart</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/phd/part3/chapter6/">Chapter 6 - Results</a>
+      </li>
+      
+      <li class="active">
+        <a href="/phd/part3/chapter7/">Chapter 7 - Management anomaly specification</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/phd/part4/">Part 4 - Modelling and testing decisional ambidexterity</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/phd/part4/chapter8/">Chapter 8 - Modelling and testing decisional ambidexterity</a>
+      </li>
+      
+      <li >
+        <a href="/phd/part4/chapter9/">Chapter 9 - Organizing and testing decisional ambidexterity</a>
+      </li>
+      
+      <li >
+        <a href="/phd/part4/chapter10/">Chapter 10 - Test cases: the Lower Deck and the Connected Cabin</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/phd/part5/">Part 5 - Intervention and complementary testing</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/phd/part5/chapter11/">Chapter 11 - Intervention and steering committee</a>
+      </li>
+      
+      <li >
+        <a href="/phd/part5/chapter12/">Chapter 12 - Validation by peers: quality management system contributions</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/phd/part6/">Part 6 - General conclusion and discussion</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/phd/part6/chapter13/">Chapter 13 - Main contributions and results synthesis</a>
+      </li>
+      
+      <li >
+        <a href="/phd/part6/chapter14/">Chapter 14 - Discussion and perspectives for decisional ambidexterity</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/phd/appendix/">Appendix</a>
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#generativity-biased-by-explorationexploitation-dichotomy">Generativity biased by exploration/exploitation dichotomy</a></li>
+    <li><a href="#killing-sustained-innovation-capabilities">Killing sustained innovation capabilities</a></li>
+    <li><a href="#ignoring-organization-design-and-its-engineering-design-mirror">Ignoring organization design and its engineering design mirror</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#generative-process-and-ambidexterity-micro-foundations">Generative process and ambidexterity micro-foundations</a></li>
+    <li><a href="#generative-processes-and-organization-design">Generative processes and organization design</a></li>
+  </ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          <h1>Chapter 7 - Management anomaly specification</h1>
+
+          <div class="article-style">
+            <p>In this chapter, we propose to synthesize the anomalies highlighted by
+the cases’ results of the previous chapter before listing the
+requirements to design a new model extending the literature models of
+non-mutual conditioning between exploration and exploitation, in order
+to understand the observed phenomena.
+The first feature raised through the descriptors and the comparison
+between models’ prediction is perhaps the continuity and orthogonality
+of exploration/exploitation that is dealt at different levels:
+generative processes, coordination mechanisms, environment cognition and
+organization design. So, we confirm the nuances expressed in (Gupta,
+Smith, and Shalley 
+<a href="#ref-Gupta2006">2006</a>). What is perhaps more
+surprising and natural at the same time is the fact that exploration can
+be based on exploitation characteristics. However, the cases show these
+can be beneficial or counter-productive for innovation management, thus
+requiring an careful management to counter the forces of traditional
+models of ambidexterity.
+The second aspect is that we can assert that ambidexterity kills
+innovation. It is of course a bold statement, but the meta-language of
+exploration/exploitation tends to ignore the micro-foundations of
+collective action such as decision-making and generative processes
+(Birkinshaw and Gupta 
+<a href="#ref-Birkinshaw2013">2013</a>). The actual
+implementation of ambidexterity, be it contextual, structural or
+sequential, induces numerous complications dealing with
+exploration/exploitation regime separation for practice. More
+specifically, it appears to be incompatible with practices where the
+unknown is effectively managed.
+The cases show they follow organizational ambidexterity, but at the same
+time, have mitigated efficiency when it comes to exploration or
+exploitation standalone. Radical innovation is not really achieved for
+the originally intended exploration project, despite having several
+other valuable takeaways (Elmquist and Le Masson
+
+<a href="#ref-Elmquist2009">2009</a>). There is tendency to leave exploitation
+routines as a static reference point, as a fixation effect, and let
+exploration free float in other directions without carefully managing
+the search and generation directions.
+Organization design being constricted by certification and market
+constraints, generative processes and organization ambidexterity clashes
+to support this enclosed change calling for a support of organizational
+metabolism and potential <em>regenerative dynamic capabilities</em> (Ambrosini,
+Bowman, and Collier 
+<a href="#ref-Ambrosini2009">2009</a>). Despite appropriate
+interactionism, we have seen that practices are not sufficient to
+sustain generative processes into a full settlement organizations. At
+best, in the case of the icing conditions detection, the settlement is
+partial as the alignment with BU management and Engineering department
+remains controversial. Consequently, reconsidering organization design
+supported/supporting generative processes appears crucial, as it
+probably implies considering the mirroring of the engineering efforts.</p>
+<p>Consequently, we would propose some requirements extending the
+literature models presented previously. These where limited to
+non-mutual conditioning of exploration and exploitation. This extension
+is crucial since the observed phenomena tends to show dynamics sustained
+at the level of engineering design practices challenging the
+coordination of exploration/exploitation conditioning and the management
+of its innovation potential of attraction.</p>
+<p>We propose to simply name this extended model by considering the
+<strong>mutual conditioning between exploration and exploitation</strong> as a means
+to overcome the fixation effects which are managed at the engineering
+design, organizational and environment levels.</p>
+<h1 id="synthesis-of-anomalies">Synthesis of anomalies</h1>
+<p>The three cases presented in the previous chapter have insisted on
+different limitations of the three proposed literature models of
+non-mutual conditioning between exploration and exploitation:</p>
+<ul>
+<li>
+<p><strong>Adaptive model:</strong> the search-based assumption of exploration is
+overstretched by generative processes of different nature and locus.
+Exploration is guided by uncertain or unknown (i.e. to be designed)
+exploitation constraints as cleverly managed in the icing conditions
+detection case. Whereas, it can also be a lock-in despite valuable
+generativity on the user experience domain, as several fixation
+effects of existing business units are not revisited as presented in
+the ADT’s cases.</p>
+</li>
+<li>
+<p><strong>Interactive model:</strong> creation of meaning and value circulation
+among (silent) designers around meetings and prototypes are not
+sufficient to sustain radical innovation and the associate unknown
+gradual shaping. The business class seat platform shows the
+interference and conflicts arising from the exploration/exploitation
+handover and agenda differences. It would require a management of
+deeper learning mechanisms. Exploration and exploitation are
+unfortunately both jeopardized.</p>
+</li>
+<li>
+<p><strong>Encapsulated model:</strong> As already stressed in the literature on
+project-based management, the need to link project trajectories with
+underlying organizational ties, resources and routines is even more
+critical at the light of exploration projects searching for
+exploitation landing fields. Learning and change management tend to
+be dissociated in exploration and exploitation regimes.</p>
+</li>
+</ul>
+<p>Below, we stress the anomalies raised by the cases compared to the
+synthetic model portrait in the research questions chapter (p.). As the
+reader will notice, some anomalies are reformulations further specifying
+the limitations already raised in the literature.</p>
+<p>Then, we come back on the different observed anomalies based on the
+models predictions by comparison with the actual course of actions. We
+start then disentangling these anomalies before formulating our new
+model requirements.</p>
+<p>to 1</p>
+<p>&amp; <strong>Non-mutual conditioning</strong> &amp; <strong>Mutual conditioning</strong> results</p>
+<p><strong>Model of coordination and collective action</strong> &amp; 1. Not necessarily on
+the same continuum, exploration and exploitation call for two dissociate
+action regimes. Balancing is left as a paradox at different levels of
+analysis: structure (centralization, distribution), time and
+individuals.</p>
+<p>&amp; 1. Exploration is driven by exploitation characteristics, sometimes
+with loss of control. . Leaving the balancing as a paradox leaves
+innovation unmanaged. Balancing exploration and exploitation can be
+managed through sensemaking around prototypes and meetings, but does not
+address the change management properly (partial or dynamic mirroring)</p>
+<p><strong>Generative processes</strong> &amp; 3. The nature of generative processes
+supporting exploration appears quite free, random and sometimes even
+foolishness-based. . Generativity of the product development may not be
+sustained by (temporary) organizations (floating issue).. The
+performance and reference is light structured: reduced to a selection
+issue or sometimes to complex interactionist phenomenon.</p>
+<p>&amp; 3. Generative processes are partly directed if not biased by
+exploitation constraints and not necessarily managed carefully. .
+Generativity may indeed require radical organizational learning and
+change but is not properly managed at the engineering design practice
+level. . Performance is not necessarily discussed nor sanctioned but
+appears as a conscious struggle that goes beyond selection process or
+sensemaking</p>
+<p><strong>Environment cognition</strong> &amp; 6. One-way interaction: Environment to
+Organization. . The environment structures the response, nature and
+distribution of generative processes.. The environment is used to
+augment the product development requirements.</p>
+<p>&amp; 6. The environment may be actively managed to legitimize the
+innovation potential.. Generative processes do not (systematically)
+address and leverage fixations by the environment.. The environment
+awareness does augment design requirements but struggles in identifying
+the mirroring organization change.</p>
+<p><strong>Organization design</strong> &amp; 9. Organization design is pre-conceived or
+uncontrolled. . Organization design creates gaps for managing generative
+processes and the dynamics of their organizational ties. &amp; 9.
+Organizational ambidexterity conflicts with design and engineering
+organizational mirroring.. Organization design is isolated by
+exploration/exploitation dichotomy.</p>
+<h2 id="generativity-biased-by-explorationexploitation-dichotomy">Generativity biased by exploration/exploitation dichotomy</h2>
+<p>First of all, it is important to note again that our research agenda set
+from the beginning was to use advances in design reasoning and theory to
+understand how generative processes and associated management of unknown
+allows revisiting innovation management and the major construct of
+ambidexterity. The cases presented earlier show how the models black-box
+the nature of generative processes and their interferences with several
+managerial dimensions such as: coordination mechanisms, environment
+cognition and organization design.
+Angela Dumas with Henry Mintzberg (Dumas and Mintzberg
+
+<a href="#ref-Dumas1989">1989</a>) had stressed the importance of <em>silent design</em>
+occurring across the organization. The cases reveal how these
+distributed design activities can be framed and segregated by what
+exploration and exploitation are in an ambidextrous organization.</p>
+<p>In the cases of the business class seat and ADT, the generative
+processes had used clear exploitation characteristics to base their
+exploration: seat packaging, integration and certification issues, and
+user pains. It is used as a reference point, but at the same time when
+balancing out exploration/exploitation, the generative processes require
+an extreme adaption to exploitation organizational constraints despite
+having made a strong effort on the cognitive and interactive dimensions.
+The exploitation is conducted as if a simple extended or new list of
+requirements had been given to the engineering departments. Risks can be
+assessed, as well as maturity, but these registers are unfortunately
+rather static. They may not capture and manage <em>epistemic
+interdependencies</em> accordingly (Puranam, Raveendran, and Knudsen
+
+<a href="#ref-Puranam2012a">2012</a>).
+Exploration efforts are then potentially biased by the non-mutual
+conditioning. And inversely, the exploitation is heavily burdened by
+exploration features that lack articulation with generated novelties.</p>
+<h2 id="killing-sustained-innovation-capabilities">Killing sustained innovation capabilities</h2>
+<p>The nature of unknown, its management and generativity have been
+underestimated in how they collide with adaptive, interactive and
+encapsulated models. They stretch the boundaries of these management
+models and challenge their viewpoint of collective action. The radical
+innovation intent is severed by their limitations.
+For instance, among the expected capabilities, the role of leadership,
+top management and governance is stressed as being crucial. However, the
+actual practice and implementation is rarely discussed in detail. The
+different cases showed how management layers took an active role in
+projects trajectories. Valuable practices were implemented ranging from
+sensemaking, decision-making to sponsorship. These were meant to balance
+the contradictions of exploration/exploitation trade-offs and the
+results are partially successful and riddled by controversies.
+The icing condition detection case creates a critical tension between
+its business environment legitimacy and BU strategy and Engineering
+appropriation. Following the retirement of the R&amp;T manager, the
+researcher had relayed his idea of licensing the technology to an
+external firm capable (adequate cost-structure) to develop and
+industrialize it for small aircrafts. This move would be a means to
+actually set a foot on the aviation market, make a case for it before
+fully demonstrating its usefulness for heavier aircrafts enhancing
+flight safety. Again, such emergent strategy would be possible by fully
+considering separation nor balance of both, as they explore and exploit
+interconnected fields.</p>
+<h2 id="ignoring-organization-design-and-its-engineering-design-mirror">Ignoring organization design and its engineering design mirror</h2>
+<p>Organizational ambidexterity had highlighted ways of structuring the
+balancing of exploration/exploitation adding different typologies on how
+to sustain a competitive advantage. Oddly, separating it in space, time
+or leaving it in context, brings some organization design into play but
+only by sketching the organic dimension of it. For example, the
+centralization of ADT at the group level or creation of a standalone R&amp;T
+team are fully prescribed. It still leaves numerous ties among members
+with exploitation activities and extended environment constraints.
+However the black-boxing of generative practices into these organic
+systems ignores the risks associated with the potential need for
+reconfiguration of stakeholders ties. Thus, the dynamics induced by
+design practices require, not only a partial-mirroring by organizations,
+but rather a mirroring dynamic.
+For instance, the required adjustments, in terms of engineering
+capabilities to engineer a seat platform architecture, require a
+mirroring organization (Colfer and Baldwin 
+<a href="#ref-Colfer2016">2016</a>). The
+change is not addressed within generative process and with <em>integrators</em>
+contributing to <em>interdependence shift</em> (Stan and Puranam
+
+<a href="#ref-Stan2017">2017</a>). The managers in charge of the projects were
+acting as integrators. In the case of the seat platform, they a priori
+managed to articulate the integration for the Engineering Department and
+were later called back for further support. The same goes for ADT:
+numerous sessions were organized during the exploration but also after
+concept selection to follow up and adapt the preliminary designs trying
+to facilitate the integration. As specified in the limitations section
+(Stan and Puranam 
+<a href="#ref-Stan2017">2017</a>, 1058): <em>A significant weakness
+of this study is that it does not provide direct evidence for the
+micro-mechanisms of how integrators help to cope with interdependence
+shifts—only that they do (and that these effects are visible even at
+intermediate performance stages).</em>
+The idea of a triple-loop of organizational learning (Leifer and
+Steinert 
+<a href="#ref-Leifer2011">2011</a>; McClory, Read, and Labib
+
+<a href="#ref-McClory2017">2017</a>), and the regenerative capabilities point in
+that direction. But as they engage in a recursive pattern, as discussed
+in the literature review, it appears crucial in the case studies to
+frame the organization of collective action with practices that are
+tightly linked to generative processes. In a more successful way, the
+icing conditions detection case shows how future exploitation
+constraints (regulation and norms) are shaped to support the technology
+search and selection.</p>
+<h1 id="specifying-requirements-for-a-new-model-of-ambidexterity">Specifying requirements for a new model of ambidexterity</h1>
+<p>Coming back to our research questions (p.), we have stressed how
+organizational ambidexterity can severe radical innovation practices
+embodied by different generative processes. One could say that it is the
+fault of organizational culture, but we have pointed in ZA’s
+presentation (see p.), there are no signs of bad intentions raising
+barriers again these radical innovation in the cases presentation and
+results. Several practices and management tools were used to circulate
+emergent value among stakeholders, including collective decision and
+co-design workshops.
+So, our first assumption would be to put the emphasis on the
+micro-foundations. The nuts and bolts of generative processes and
+interactions with value management, action and decision-making would be
+absolutely critical to embody ambidextrous management. It fits the
+behavioural foundations of March’s agenda (Gavetti, Levinthal, and
+Ocasio 
+<a href="#ref-Gavetti2007">2007</a>) and it lies at the crossroads of design
+theory and reasoning which can be understood as science extending
+H.Simon’s work (Simon 
+<a href="#ref-Simon1996">1996</a>; Hatchuel
+
+<a href="#ref-Hatchuel2001a">2001</a>). Considering everyone as a designer in its
+own way and practice, generating actions, interacting with other
+(silent) designers and artefacts, could be a means to think of
+generative processes among all of these organs and processes, which call
+for a meta-process such as metabolism (Hatchuel, Weil, and Le Masson
+
+<a href="#ref-Hatchuel2006">2006</a>; Segrestin et al. 
+<a href="#ref-Segrestin2017">2017</a>).</p>
+<p>Among our descriptors, we could then propose to consider what could be
+explained by a metabolism. We consequently need to target what
+contributes to such phenomenon that is neither structure nor traditional
+process. Deriving from our observed and justified anomalies, we propose
+to recentre organizational ambidexterity around decision-making by
+bringing in the teachings of design theory at that level as well as
+organizational design. We would then embed some sort hacking of the
+constraints and biases induced by exploitation/exploration non-mutual
+conditioning. Moreover, it will bring a dynamic mirroring hypothesis as
+a means to reflect the organizational change supporting the generative
+engineering design.</p>
+<h2 id="generative-process-and-ambidexterity-micro-foundations">Generative process and ambidexterity micro-foundations</h2>
+<p>From the beginning of our literature review up to the cases analyses, we
+have discussed the course of action, decision-making and generative
+processes. We have justified how organization ambidexterity can kill
+sustained innovation management.</p>
+<p>So, we have to come back to foundations of the exploration versus
+exploitation model whilst also keeping in mind the limitations and
+perspectives identified in the interactive and encapsulated models.
+The model’s extension we propose to address in the following part
+(<a href="#part:modelling" data-reference-type="ref" data-reference="part:modelling">[part:modelling]</a>,
+p.), should then almost start from a similar reasoning introduced in the
+foundational paper (March 
+<a href="#ref-March1991">1991</a>). However, the
+dichotomy of exploration and exploitation should be fully revisited by
+considering <strong>a mutual conditioning</strong> of both regimes as it was sketched
+by the practices highlighted in the projects’ trajectories.
+The nature of problems, their (re-)formulation and solving should be
+reworked around the uncertainty and unknown management. Decision and
+problem management should be enhanced by generative processes. For
+instance, in (Le Glatin, Le Masson, and Weil 
+<a href="#ref-LeGlatin2017a">2017</a>)
+(appendix
+<a href="#chap:paper2" data-reference-type="ref" data-reference="chap:paper2">[chap:paper2]</a>,
+p.), we associate the possibility to deliberately play around the
+reversal of preferences to push decision-making into the unknown. We
+have proposed to call such pattern <strong>decisional ambidexterity</strong>.
+Such practice should aim at identifying fixation effects and their
+(epistemic) interdependencies. This <strong>technology of organizing</strong> should
+support creation of meaning, value management, engineering and a
+baseline for coordination and collective action.</p>
+<h2 id="generative-processes-and-organization-design">Generative processes and organization design</h2>
+<p>The free-floating of exploration projects, as they look for
+organizational ties, should also think through the lens of design theory
+and reasoning. The idea of design-oriented organization (Hatchuel, Weil,
+and Le Masson 
+<a href="#ref-Hatchuel2006">2006</a>) already pointed in that
+direction. We need to specify with more clarity the organization design,
+as we have seen that assumptions of temporary organization or
+project-based organization tend to hide the complexities of changing
+engineering design briefs in exploration project management.
+Design theories and reasoning are usually discussed for products and
+services, but one could consider the organization, its resources and
+routines as concept-enabling-knowledge for design. So, the key
+requirement of the model is to avoid black-boxing generative processes,
+as we have seen they expand onto several management dimensions. We
+should then put the emphasis on potential <strong>organization design
+fixation</strong> that are not naturally part of the engineering design
+practice, nor traditional project management. These are usually
+discussed in change (project) management and organizational change but
+would probably benefit from richer synergies if embedded in actual
+project management (Pollack 
+<a href="#ref-Pollack2017">2017</a>; Hornstein
+
+<a href="#ref-Hornstein2015">2015</a>).
+Consequently, our <strong>model of mutual conditioning between exploration and
+exploitation</strong> should also aim at managing an organizational metabolism
+necessary to sustain organization re-design as a necessary condition
+supporting the innovation potential of attraction of - so far
+black-boxed - generative processes in exploration project management.</p>
+<h1 id="chapter-synthesis">Chapter synthesis</h1>
+<p>Thanks to the previous chapter, we were able to identify literature
+models’ weaknesses and several hints given by the case studies. The
+synthesis of results reveals, through tracking of generative processes
+in projects trajectories, that there is in fact a conditioning managed
+or left uncontrolled between exploration and exploitation.</p>
+<p>First, we propose to return to the micro-foundations of organizational
+ambidexterity as generative processes interfere with several management
+dimensions depending on their generativity. Some are indeed more or less
+fixated by exploitation constraints, and some are actually actively used
+to generate concepts. Therefore, focusing on the model of action,
+decision-making and generative processes would be a means to specify how
+managers, individual and (silent) designers should interact with such
+constraints to manage the generativity of their practice embedded in
+projects.</p>
+<p>Second, the case studies results encourage to focus on the dynamics of
+the mirroring hypothesis, as the generative processes may challenge to
+some extent interdependencies that can be catastrophic to exploration
+value and subsequent exploitation. Radical innovation fostered by
+generative processes may indeed be fixated by organization design, thus
+winking at bringing organization design as concept enabling knowledge
+supporting product design practices. Change management could be then
+brought at the level of product project management and the underlying
+generative mechanisms.</p>
+<p>Finally, we have a requirements baseline to continue our journey to
+design a <strong>model of mutual conditioning between exploration and
+exploitation</strong>. We have new grounds extending the studied literature
+models and reconnecting ambidexterity with its behavioural foundations
+at the light of the teachings of design theory and thinking.</p>
+<h1 id="references-bibliography">References [bibliography]</h1>
+<div id="refs" class="references hanging-indent" markdown="1">
+<div id="ref-Ambrosini2009" markdown="1">
+<p>Ambrosini, Véronique, Cliff Bowman, and Nardine Collier. 2009. “Dynamic
+Capabilities: An Exploration of How Firms Renew their Resource Base.”
+<em>British Journal of Management</em> 20 (SUPP. 1): S9–S24.
+<a href="https://doi.org/10.1111/j.1467-8551.2008.00610.x">https://doi.org/10.1111/j.1467-8551.2008.00610.x</a>.</p>
+</div>
+<div id="ref-Birkinshaw2013" markdown="1">
+<p>Birkinshaw, Julian, and Kamini Gupta. 2013. “Clarifying the distinctive
+contribution of ambidexterity to the field of organization studies.”
+<em>The Academy of Management Perspectives</em> 27 (4): 287–98.</p>
+</div>
+<div id="ref-Colfer2016" markdown="1">
+<p>Colfer, Lyra J., and Carliss Y. Baldwin. 2016. “The mirroring
+hypothesis: Theory, evidence, and exceptions.” <em>Industrial and Corporate
+Change</em> 25 (5): 709–38. <a href="https://doi.org/10.1093/icc/dtw027">https://doi.org/10.1093/icc/dtw027</a>.</p>
+</div>
+<div id="ref-Dumas1989" markdown="1">
+<p>Dumas, Angela, and Henry Mintzberg. 1989. “Managing Design Designing
+Management.” <em>Design Management Journal (Former Series)</em> 1 (1): 37–43.
+<a href="https://doi.org/10.1111/j.1948-7169.1989.tb00519.x">https://doi.org/10.1111/j.1948-7169.1989.tb00519.x</a>.</p>
+</div>
+<div id="ref-Elmquist2009" markdown="1">
+<p>Elmquist, Maria, and Pascal Le Masson. 2009. “The value of a ’failed’
+R&amp;D project: An emerging evaluation framework for building innovative
+capabilities.” <em>R and D Management</em> 39 (2): 136–52.
+<a href="https://doi.org/10.1111/j.1467-9310.2009.00546.x">https://doi.org/10.1111/j.1467-9310.2009.00546.x</a>.</p>
+</div>
+<div id="ref-Gavetti2007" markdown="1">
+<p>Gavetti, Giovanni, Daniel A. Levinthal, and William Ocasio. 2007.
+“Neo-Carnegie: The Carnegie school’s past, present, and reconstructing
+for the future.” <em>Organization Science</em> 18 (3): 523–36.
+<a href="https://doi.org/10.1287/orsc.1070.0277">https://doi.org/10.1287/orsc.1070.0277</a>.</p>
+</div>
+<div id="ref-Gupta2006" markdown="1">
+<p>Gupta, Anil K, Ken G Smith, and Christina E Shalley. 2006. “The
+Interplay Between Exploration and Exploitation.” <em>Academy of Management
+Journal</em> 49 (4): 693–706. <a href="https://doi.org/10.5465/amj.2006.22083026">https://doi.org/10.5465/amj.2006.22083026</a>.</p>
+</div>
+<div id="ref-Hatchuel2001a" markdown="1">
+<p>Hatchuel, Armand. 2001. “Towards Design Theory and Expandable
+Rationality: The Unfinished Program of Herbert Simon.” <em>Journal of
+Management and Governance</em> 5 (3-4): 260–73.
+<a href="https://doi.org/10.1023/A:1014044305704">https://doi.org/10.1023/A:1014044305704</a>.</p>
+</div>
+<div id="ref-Hatchuel2006" markdown="1">
+<p>Hatchuel, Armand, Benoît Weil, and Pascal Le Masson. 2006. “Building
+innovation capabilities. The development of design-oriented
+organizations.” In <em>Innovation, Learning and Macro Institutional Change:
+Patterns of Knowledge Changes</em>, edited by J T Hage, 1–26. Oxford,
+England: Oxford University Press.</p>
+</div>
+<div id="ref-Hornstein2015" markdown="1">
+<p>Hornstein, Henry A. 2015. “The integration of project management and
+organizational change management is now a necessity.” <em>International
+Journal of Project Management</em> 33 (2): 291–98.
+<a href="https://doi.org/10.1016/j.ijproman.2014.08.005">https://doi.org/10.1016/j.ijproman.2014.08.005</a>.</p>
+</div>
+<div id="ref-LeGlatin2017a" markdown="1">
+<p>Le Glatin, Mario, Pascal Le Masson, and Benoît Weil. 2017. “Generative
+action and preference reversal in exploratory project management.” <em>CERN
+IdeaSquare Journal of Experimental Innovation</em> 1 (2): 39–46.
+<a href="https://doi.org/10.5170/cij.2017.539">https://doi.org/10.5170/cij.2017.539</a>.</p>
+</div>
+<div id="ref-Leifer2011" markdown="1">
+<p>Leifer, Larry, and Martin Steinert. 2011. “Dancing with Ambiguity:
+Causality Behavior, Design Thinking, and Triple-Loop-Learning.” In
+<em>Management of the Fuzzy Front End of Innovation</em>, 10:151–78. 1. Cham:
+Springer International Publishing.
+<a href="https://doi.org/10.1007/978-3-319-01056-4_11">https://doi.org/10.1007/978-3-319-01056-4_11</a>.</p>
+</div>
+<div id="ref-March1991" markdown="1">
+<p>March, James G. 1991. “Exploration and exploitation in organizational
+learning.” <em>Organization Science</em> 2: 71–87.</p>
+</div>
+<div id="ref-McClory2017" markdown="1">
+<p>McClory, Sue, Martin Read, and Ashraf Labib. 2017. “Conceptualising the
+lessons-learned process in project management: Towards a triple-loop
+learning framework.” <em>International Journal of Project Management</em> 35
+(7): 1322–35. <a href="https://doi.org/10.1016/j.ijproman.2017.05.006">https://doi.org/10.1016/j.ijproman.2017.05.006</a>.</p>
+</div>
+<div id="ref-Pollack2017" markdown="1">
+<p>Pollack, Julien. 2017. “Change Management as an Organizational and
+Project Capability.” In <em>Cambridge Handbook of Organizational Project
+Management</em>, edited by Shankar Sankaran, Ralf Muller, and Nathalie
+Drouin, 236–49. Cambridge: Cambridge University Press.
+<a href="https://doi.org/10.1017/9781316662243.021">https://doi.org/10.1017/9781316662243.021</a>.</p>
+</div>
+<div id="ref-Puranam2012a" markdown="1">
+<p>Puranam, Phanish, Marlo Raveendran, and Thorbjørn Knudsen. 2012.
+“Organization Design: The Epistemic Interdependence Perspective.”
+<em>Academy of Management Review</em> 37 (3): 419–40.
+<a href="https://doi.org/10.5465/amr.2010.0535">https://doi.org/10.5465/amr.2010.0535</a>.</p>
+</div>
+<div id="ref-Segrestin2017" markdown="1">
+<p>Segrestin, Blanche, Franck Aggeri, Albert David, and Pascal Le Masson.
+2017. “Armand Hatchuel and the Refoundation of Management Research:
+Design Theory and the Epistemology of Collective Action.” In <em>The
+Palgrave Handbook of Organizational Change Thinkers</em>, 1–15.
+<a href="https://doi.org/10.1007/978-3-319-49820-1">https://doi.org/10.1007/978-3-319-49820-1</a>.</p>
+</div>
+<div id="ref-Simon1996" markdown="1">
+<p>Simon, Herbert A. 1996. <em>The sciences of the artificial</em>. MIT press.</p>
+</div>
+<div id="ref-Stan2017" markdown="1">
+<p>Stan, Mihaela, and Phanish Puranam. 2017. “Organizational adaptation to
+interdependence shifts: The role of integrator structures.” <em>Strategic
+Management Journal</em> 38 (5): 1041–61. <a href="https://doi.org/10.1002/smj.2546">https://doi.org/10.1002/smj.2546</a>.</p>
+</div>
+</div>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Previous</div>
+    <a href="/phd/part3/chapter6/" rel="next">Chapter 6 - Results</a>
+  </div>
+  
+  
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          <p>Last updated on Sep 9, 2018</p>
+
+          
+
+
+
+
+          
+
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.8/mermaid.min.js" integrity="sha256-lyWCDMnMeZiXRi7Zl54sZGKYmgQs4izcT7+tKc+KUBk=" crossorigin="anonymous" title="mermaid"></script>
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

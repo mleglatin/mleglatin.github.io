@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Mario LE GLATIN</title>
+    <link>https://mleglatin.github.io/publication_types/0/</link>
+      <atom:link href="https://mleglatin.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright><lastBuildDate>Mon, 27 Apr 2020 15:59:15 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>0</title>
+      <link>https://mleglatin.github.io/publication_types/0/</link>
+    </image>
+    
+    <item>
+      <title>Myphdresearchproject</title>
+      <link>https://mleglatin.github.io/publication/myphdresearchproject/</link>
+      <pubDate>Mon, 27 Apr 2020 15:59:15 +0200</pubDate>
+      <guid>https://mleglatin.github.io/publication/myphdresearchproject/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
