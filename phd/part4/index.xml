@@ -17,11 +17,555 @@
       <link>https://mleglatin.github.io/phd/part4/chapter10/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://mleglatin.github.io/phd/part4/chapter10/</guid>
-      <description>&lt;div class=&#34;alert alert-warning&#34;&gt;
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Everyone who designs devises a course of action aimed at changing
+existing situations into preferred ones.&lt;/em&gt;
+&lt;strong&gt;Herbert A. Simon&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We have established a new model to reconcile the original construct of
+ambidexterity with the evolutions innovation management. By revisiting
+the canonical model of decision-making with design theory, decisional
+ambidexterity allows us to endogenize the unknown within a technology of
+organizing collective action to metabolize innovation across the firm.
+The performance is supported by the interactions between
+decision-designers revealing interdependencies and their
+reconfiguration. The value management unfolds as the project trajectory
+may be manoeuvred away from technical, organizational and environmental
+fixations. Exploitation dimensions are used to sustain a generative and
+grounded exploration.&lt;/p&gt;
+&lt;p&gt;The model was first built on a simple agent-based foundation, and since
+we tasked ourselves several requirements defined in contrast with
+anomalies, we made use of the mirroring hypothesis to discuss the
+necessary organizational change. This transformational process we
+propose to link with organizational metabolism, is an embodiment of the
+recombination of routines or regenerative dynamic capabilities.&lt;/p&gt;
+&lt;p&gt;Therefore, it reflects the generative learning expected by (temporary)
+project-based organization and its boundaries with permanent
+organization. Otherwise, project will float across the organization.
+Consequently, we propose to test our model of mutual conditioning
+between exploration and exploitation. To do so, we use two case studies
+conducted at Zodiac Aerospace. We extend the preliminary testing and
+understanding gained in the two previous chapter when defining our
+model. The anomalies became understandable as the model of decisional
+ambidexterity gives a larger framework to make sense of decisions and
+concepts that are otherwise labelled as absurd or irrational.&lt;/p&gt;
+&lt;p&gt;The first project stems from the Design Case studies hosted by ADT we
+have analysed in the anomaly detection chapter. As explained, in the
+
+&lt;a href=&#34;https://mleglatin.github.io/phd/part2/chapter5/#lower-deck&#34;&gt;case presentation&lt;/a&gt;, the project was launched after ADT manager
+decided to further conceptualize the recurrent idea of using aircraft’s
+lower deck. It was also notified by the researcher in 2016 when
+presenting his first analysis of the design thinking cases.&lt;/p&gt;
+&lt;p&gt;The second project originates from two members of the ZSTC with a
+history of entrepreneurship and innovation. They had reasons to launch a
+project on aircraft connectivity given their experience on
+telecommunications, satellites, antennae and onboard computers. It was
+set as a proper MBU project justifying its value proposal to the ExCom
+(see 
+&lt;a href=&#34;https://mleglatin.github.io/phd/part2/chapter5/#connected-cabin&#34;&gt;case presentation&lt;/a&gt;).
+Both cases are comparable in the sense they were sponsored by the ExCom,
+offered budget and internal/external network support to find answers,
+contour their ill-defined problems and test the concepts (on slides,
+digital mock-ups and physical proof of concepts). We use the same
+analytical lens and descriptors introduced in our methodological
+chapters enhanced with the logics of decisional ambidexterity (decision
+categories, learning, organization design). Comparing these two cases
+will allow testing further our model by gaining an understanding that is
+missed with models of non-mutual conditioning between exploration and
+exploitation.&lt;/p&gt;
+&lt;p&gt;In the first section, we present the Lower Deck project, its trajectory
+and present the several patterns phased with decisional ambidexterity.
+In the second section, we discuss the Connected Cabin project, which,
+despite benefitting from an equivalent context and support, fails to
+sustain a decisional ambidexterity. The project unfortunately regresses
+towards biases of traditional models of ambidexterity, hence killing its
+innovation potential of attraction. These two case studies give us a
+richer understanding of what decisional ambidexterity can achieve in
+reconciliating logics of exploration project management with a renewed
+organizational learning and adaptation rooted in generative logics.&lt;/p&gt;
+&lt;p&gt;&amp;ndash;&lt;/p&gt;
+&lt;h2 id=&#34;lower-deck-from-design-feature-to-value-space&#34;&gt;Lower Deck: from design feature to value space&lt;/h2&gt;
+&lt;h3 id=&#34;trajectory-of-the-project&#34;&gt;Trajectory of the project&lt;/h3&gt;
+&lt;p&gt;As presented in our case presentation (see 
+&lt;a href=&#34;https://mleglatin.github.io/phd/part2/chapter5/#lower-deck&#34;&gt;section&lt;/a&gt;), the project of Lower
+Deck started due to the accumulation of concepts generated in several
+projects over two years at ADT. Among them, many had the recurrent idea
+of using the aircraft’s lower deck. A first provisional patent
+application process was started mid-2014 (see patent no.
+US20170233058A1). Late 2015, the patent was made public and made quite
+an impact with numerous critics coming from specialized blogs, magazines
+and newspapers&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. The Design Thinking case studies started in 2015 and
+what continued over 2016 also made use of the lower deck in various
+ways.&lt;/p&gt;
+&lt;p&gt;The researcher had identified the pivotal role of this a priori
+underused aircraft area to enable concepts that cross over BU
+boundaries. In parallel, ZA’s CEO, during an interview conducted in May
+2018 by the PhD candidate, told the concept had already been discussed
+during ExCom meetings previous to the project formalization. The case
+seemed justified to them as they had insights on the declining freight
+market: an increasing empty space in the lower deck was then available.
+Finally, a project was kicked off and took the concept on its own
+mid-2016 and directly managed by ADT manager.&lt;/p&gt;
+&lt;p&gt;Several dimensions were addressed simultaneously. Firstly, an underlying
+mechanical stress study was conducted: the CTO contracted an engineering
+consultancy firm to evaluate the technical and safety feasibility of
+using the lower deck for passengers seating and other airline ancillary
+revenues. Secondly, the support of group business development directors
+in charge of airlines accounts offered a way to engage talks with key
+airline representatives (&lt;em&gt;interpreters&lt;/em&gt; (Verganti and Dell’Era
+
+&lt;a href=&#34;#ref-Verganti2014&#34;&gt;2014&lt;/a&gt;)). It was the occasion to probe airlines
+interest and gradually contour client value. Thirdly, later 2016/early
+2017, the VP of Strategy (ADT manager’s director) contracted another
+consultancy firm to dig into the ticket pricing model (yield management)
+and airlines operation cycles in order to economically value lower
+deck’s use cases but also find time frames when the aircraft lower deck
+could be modified without disrupting aircraft’s operations. Finally, a
+last study was contracted internally with two business units familiar
+with tailored aircraft modification (VIP, movies, medical care, etc.)
+for a preliminary design and engineering specification to adapt the
+lower deck for the different use cases. Early 2018, a new patent
+application was made with more critical claims specifying the value of
+the concept refined over time (see patent no. WO2018037268A9). And the
+global concept was finally revealed to the public with Airbus as a
+sponsor and co-designer during Aircraft Interior Exposition in April
+2018. A partnership agreement was signed between Airbus and Zodiac
+Aerospace to develop the product.&lt;/p&gt;
+&lt;p&gt;What is rather surprising in this project trajectory is the fact that
+the lower deck feature was first used in several concepts and
+systematically discarded by BUs who participated to previous projects
+(including those supported by Design Thinking practice). Concepts were
+discarded despite having justified user and client value, and having
+raised some technical difficulties through complimentary meetings with
+engineers and designers. However, once the lower deck was turned into a
+proper value space looking for use cases, it gained much more momentum,
+specially from business unit managers. They indeed requested to host the
+project in their branch of activity.
+The figure
+&lt;a href=&#34;#fig:LWDTraj&#34; data-reference-type=&#34;ref&#34; data-reference=&#34;fig:LWDTraj&#34;&gt;1&lt;/a&gt;
+below gives a synthetic view of the project trajectory including the
+previous Design Thinking cases. Given the decisional ambidexterity model
+we can specify the nature of decisions designed.&lt;/p&gt;
+&lt;h4 id=&#34;problem-inversion-of-design-thinking-cases&#34;&gt;Problem inversion of Design Thinking cases&lt;/h4&gt;
+&lt;p&gt;Firstly, we can see that some decisions started from an enhanced
+optimization, moved towards hacking several choices extending concepts
+in between or outside BUs boundaries. Some of these were triggered by
+user input and &lt;em&gt;What If?&lt;/em&gt; scenarios. The Lower Deck feature was one of
+them ($d^*$). However, once the concepts are selected, ranked, sponsored
+and promoted to BUs, the generative effort is reduced to an
+optimization: finding the best fit for BUs without changing engineering
+capabilities, or at best marginally by incrementally modifying existing
+products (new requirement). The issue is also that this optimization and
+biased adaptation is mirrored by underlying interdependencies and
+fixations.&lt;/p&gt;
+&lt;p&gt;For instance, using a waste chute and sorting mechanisms in the lower
+deck could be developed by Zodiac Inserts who developed the trash
+compactor (a trolley locked into the galley area). The latter
+corresponds to a given certification and qualification process. Zodiac
+Galley could also have considered the product development given its
+specialty on panels and fixtures withstanding stress and loads, as well
+as water and electrical circuitry integration (also another
+certification/qualification process). Finally Zodiac Cargo, who develops
+containers would be appropriate to develop the relevant container lodged
+in the lower deck providing the sorting and extraction of waste. It is a
+potential multi-BU project which always calls for another requirement
+partly mastered by another BU. It could be developed by each BU
+individually as technologies are similar or at reach. The incentive to
+work together would only come if they had a real client demand and/or a
+change in certification and qualification. Moreover, the concept
+requires reconsidering airline operations and purchasing policy, so
+training and change of practice is required in the sales pitch.&lt;/p&gt;
+&lt;p&gt;Secondly, the induced organizational and environmental phenomena were
+not really addressed in the Lower Deck project premises. The problem was
+turned inside out to make the choice hacking more visible. So, instead
+of forcing the BU congruence, it gave a whole new flavour to the
+innovation potential of attraction as described in Table
+&lt;a href=&#34;#table:LWDtab&#34; data-reference-type=&#34;ref&#34; data-reference=&#34;table:LWDtab&#34;&gt;[table:LWDtab]&lt;/a&gt;
+below. Meetings held with the ExCom insisted heavily on the technical
+advantage that should be designed, since they were rather confident on
+the client value and market attractivity. The discussions were oriented
+to ensure the development of a turnkey solution as well as competitive
+advantage against the footprint of aircraft manufacturers. In other
+words, they shifted the concept towards having an empty shell. The value
+space guaranteed its technical feasibility, with the prospect of a
+separate qualification and certification process. Consequently, BUs
+could articulate their products in this new space, without worrying
+about their engineering and organization design fixations, and focus on
+regenerating their products for this new value space.&lt;/p&gt;
+&lt;h4 id=&#34;regenerative-capability-through-design-formulation&#34;&gt;Regenerative capability through design formulation&lt;/h4&gt;
+&lt;p&gt;The Lower Deck became rather modular and generic for several BUs who
+needed to develop new design capability to fit requirements evolution.
+It encouraged the adaptation to the newly designed environment. Instead
+of forcing the fit to each specific BUs, the problem inversion, allowed
+attracting them to provide use cases.&lt;/p&gt;
+&lt;p&gt;Decisional ambidexterity reveals the importance of project management
+and corporate entrepreneurship interactions steering the project
+trajectory where the novel value is not forced onto an a priori
+independent BU, but rather on formulating a concept design that attracts
+them to grow. It moves them away from their fixations by creating
+&lt;em&gt;generative fit&lt;/em&gt; (Avital and Te’eni 
+&lt;a href=&#34;#ref-Avital2009&#34;&gt;2009&lt;/a&gt;), thus
+supporting the regenerative capability expected from them. The
+organization design was not clearly discussed during project meetings,
+but the decisional ambidexterity allows us to formulate the idea that
+product engineering embedded how interdependencies could be unlocked.
+Otherwise, a non-mutual conditioning would focus only on numerous other
+explanations: leader as champion, acculturation to the lower deck
+prospect. Perhaps yes, but it does not make it manageable and does not
+give much directions to guide collective action and engineering design
+practice.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-from-a-feature-to-value-space-inversing-the-lower-deck-problem&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://mleglatin.github.io/img/LWDTraj.png&#34; data-caption=&#34;From a feature to value space: inversing the lower deck problem&#34;&gt;
+
+
+  &lt;img src=&#34;https://mleglatin.github.io/img/LWDTraj.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    From a feature to value space: inversing the lower deck problem
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;decisional-ambidexterity-analysis&#34;&gt;Decisional ambidexterity analysis&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Model descriptors&lt;/th&gt;
+&lt;th&gt;Non-mutual conditioning&lt;/th&gt;
+&lt;th&gt;Mutual conditioning extended model&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Model of coordination and collective action&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Lower deck exploration&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;could be fully conducted separately to create a new business unit.&lt;/td&gt;
+&lt;td&gt;Lower deck business case is tightly articulated around the unlocking of underlying interdependencies that were not addressed in previous projects. It allows preparing exploitation and coordinate BUs around a host concept and value space.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Generative processes&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Non applicable&lt;/td&gt;
+&lt;td&gt;The conceptualization builds upon limitations raised by BUs. Demonstrate value through actionable knowledge on how to exploit the concept (technical and use cases propositions). BUs don’t have to worry for the engineering of what could be common to other BUs, as the concept already determined those interdependencies.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Environment cognition&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Non applicable&lt;/td&gt;
+&lt;td&gt;The environment is managed with concept tested among potential clients, engineering qualification and certification to ensure passenger and cabin crew safety. The environment is shaped to welcome BUs future engineering effort. ExCom sponsored the engineering effort, qualification/certification constraints, and ensured the concept would crystallize and secure the market creation (technological advantage).&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Organization design&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;The new BU or spin-off is a possibility, &lt;strong&gt;but&lt;/strong&gt; pending discussions consider encouraging the regeneration of the cargo and container BU.&lt;/td&gt;
+&lt;td&gt;The organization design is integrated in the conceptual exploration as interdependencies and fixations ingrained in BUs are unlocked. BUs do not see it as a an &lt;em&gt;add-on&lt;/em&gt; to their existing products, but rather as a value space to project onto. The Lower Deck may be integrated by a BU (cargo and container) hosting the contributions of other BUs combined with engineering capabilities for aircraft modification BU. Relationships are now built around the knowledge of enabling the cargo area for a multitude of use cases.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;connected-cabin-project-mode-and-proof-of-concept&#34;&gt;Connected Cabin: project mode and proof of concept?&lt;/h2&gt;
+&lt;h3 id=&#34;trajectory-of-the-project-1&#34;&gt;Trajectory of the project&lt;/h3&gt;
+&lt;p&gt;The project was initiated by two members of the ZSTC (see 
+&lt;a href=&#34;https://mleglatin.github.io/phd/part2/chapter5/#connected-cabin&#34;&gt;case presentation&lt;/a&gt;) who started testing the idea of addressing the trending topic of Big
+Data and Aircraft Connectivity. The topic had already triggered the
+development of in-flight connectivity with satellite antennae and ground
+antennae, including the ongoing product development by Zodiac Data
+Systems specialized in providing tele-measurement devices for testing
+and monitoring. In September 2016, the first summit dedicated to
+aircraft connectivity, &lt;em&gt;Smart Plane&lt;/em&gt;, was hosted in parallel as a
+chapter of the major &lt;em&gt;World Satellite Business Week&lt;/em&gt; in Paris. The
+topics were gradually gaining importance in the industrial ecosystem.
+However, already in late 2015, during a ZSTC meeting, the two members
+pitched the idea on how Zodiac Aerospace, as a group, could set a foot
+on this emergent market.&lt;/p&gt;
+&lt;p&gt;As pictured in figure
+&lt;a href=&#34;#fig:IconnzTraj&#34; data-reference-type=&#34;ref&#34; data-reference=&#34;fig:IconnzTraj&#34;&gt;2&lt;/a&gt;
+below, they originally presented the idea of creating connectivity
+platform providing value-added service for predictive maintenance and
+airline operations. The claim was grounded on the fact that Zodiac
+Aerospace was a legitimate player to provide such integrated solution as
+the group covers the full extent of the cabin and several other key
+equipment in the aircraft systems. Their knowledge on tele-transmission
+with the products developed within Zodiac Inflight Innovations (fast
+growing player in the inflight entertainment market) allowed them to
+consider connectivity solutions between equipment so far isolated and
+managed by independent systems. The concept would thus overcome
+rigidities for airline operations and consequently passenger
+discontent.&lt;/p&gt;
+&lt;p&gt;Several meetings were held with the ExCom in order to have full support
+of top management so that middle management would allocate resources in
+order to demonstrate the value proposal and business case of such
+project. The discussions were complex and frustrating as the board of
+directors was asking for what would make Zodiac Aerospace legitimate
+beyond market footprint. They were asking for a technology
+differentiator, something that would ensure the market niche&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;. For
+instance, the CEO would have preferred to have Zodiac Data Systems to
+develop a technology (antenna, computer, etc.). In the end, the board
+was gradually convinced that the key was to be able to manage an
+ecosystem of industrial players rather than the hardware by making a
+direct comparison to Apple iPhone’s development. They allocated budget
+to the project so that BUs could allocate time to their engineers and
+managers. The former CEO also communicated to investors on the project’s
+kick-off.&lt;/p&gt;
+&lt;p&gt;Soon after late 2016, a whole project team was tasked by the ExCom to
+build a demonstrator for the following Aircraft Interior Exposition
+(AIX, April 2017). The design effort was driven towards making a
+&lt;em&gt;Minimum Viable Product&lt;/em&gt;: a scenario was drawn with several pieces of
+equipment showing the benefits of cabin connectivity for airline
+operations and passenger experience. The proof of concept embodied in a
+full scale mock-up was modelled to show integration capabilities and
+synergies. Numerous workshops were held in different location to stage
+gate the project and track the progress of sub-projects around the
+connectivity backbone.&lt;/p&gt;
+&lt;p&gt;During an internal show with airlines organized by of one the major
+cabin BU in California, they had the occasion to probe some potential
+clients to provide feedback to the ongoing demonstrator design. It was
+also used to narrow down the questionnaire used during AIX. The
+exposition was a success, leading airlines executives came to visit and
+experience the product along with ZA’s top management. Several critical
+comments came regarding known preoccupations in the market: data
+ownership, intellectual property, compatibility and standardization
+among industrial players.&lt;/p&gt;
+&lt;p&gt;What is quite impressive is AIX aftermath. Every BUs complimented each
+other, went back to their businesses. And several emails exchanged
+between project’s members, including R&amp;amp;T, Marketing and Engineering
+managers of respective BUs, revealed how perplex they were on the
+project’s termination. They wouldn’t understand why the ExCom and other
+BUs wouldn’t continue with the project. Several other factors can be
+taken into account: e.g. change of priorities for ExCom concerned with
+Safran’s acquisition (but it didn’t slow nor stop the lower deck
+project), and European funded projects on small connectivity technology
+block at BU-level but reduced scope.&lt;/p&gt;
+&lt;h4 id=&#34;regression-to-the-mean&#34;&gt;Regression to the mean&lt;/h4&gt;
+&lt;p&gt;By contrast with the lower deck project, and given the similar context,
+the project’s gained momentum raises the question of how efficient the
+project’s output was. Of course, pure continuity of the project cannot
+be always requested, but the takeaways are scarce. The major one still
+keeping a system thinking on the value chain can be seen for Zodiac
+Catering Equipment, but they already had an agenda on passenger
+experience, cabin crew and airline/caterer operations before the
+project.&lt;/p&gt;
+&lt;p&gt;The figure
+&lt;a href=&#34;#fig:IconnzTraj&#34; data-reference-type=&#34;ref&#34; data-reference=&#34;fig:IconnzTraj&#34;&gt;2&lt;/a&gt;
+shows how the genericity and platform concept was originally pushed
+forward in a newly managed environment. Decisional ambidexterity quickly
+reveals that there was some regression to the mean (Kahneman
+
+&lt;a href=&#34;#ref-Kahneman2011&#34;&gt;2011&lt;/a&gt;) or concept shifting towards a reference point
+(Heath, Larrick, and Wu 
+&lt;a href=&#34;#ref-Heath1999&#34;&gt;1999&lt;/a&gt;). This drift is
+unfortunately stuck due to organization fixation and interdependencies
+relatively to their product engineering and market segmentation.&lt;/p&gt;
+&lt;h4 id=&#34;proof-of-concept-to-trigger-a-full-scale-multi-bu-project&#34;&gt;Proof of concept to trigger a full-scale multi-BU project?&lt;/h4&gt;
+&lt;p&gt;As we also stress in table
+&lt;a href=&#34;#table:Iconnztab&#34; data-reference-type=&#34;ref&#34; data-reference=&#34;table:Iconnztab&#34;&gt;[table:Iconnztab]&lt;/a&gt;,
+the organization design was left aside and uncontrolled. So, each
+respective BU would work on recombining their engineering routines to
+think of the new platform for cabin connectivity. The proof of concept
+targeted the added requirement of using a communication bus and protocol
+(wired or wireless). The decisional ambidexterity highlights the need
+for an organization-design-oriented proof of concept supporting the
+original intent and sustaining the regeneration of capabilities among
+BU.&lt;/p&gt;
+&lt;p&gt;At some point, the CTO notified the researcher that the project was in
+&amp;ldquo;project mode&amp;rdquo;. This comment clearly criticizes the limitations of
+encapsulation and its tendency for not considering enough change
+management and organizational learning and design. Decisional
+ambidexterity can also be used to discuss the proof of concept activity
+embodied by the physical demonstrator, scenario/storytelling, and
+associated prototyping activities to embody the scenario/storytelling.&lt;/p&gt;
+&lt;p&gt;It allows indeed to formalise choice hacking, environment management,
+design of states of nature, designing by referring to BU
+(organizational) fixation effects. In the Connected Cabin demonstrator
+prototype, we can actually extrapolate what else could have been done to
+sustain the original concept. For instance, beyond the hardware add-one
+for existing products, exploiting the constraints of the connectivity
+topic could have been explored: bandwidth allocation and use, protocol,
+confidentiality and property. The hardware is of course important, but
+it corresponds to a retrofit activity, and it is made possible only
+after crossing qualification/certification/acceptation barriers. These
+are high-level and system constraints but they can easily shadow
+engineering ideas. Decisional ambidexterity proposes to generate and
+segregate alternatives to identify such control variables and actions to
+realize concepts.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-from-platform-management-and-ecosystem-reorganization-to-added-function&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://mleglatin.github.io/img/IconnzTraj.png&#34; data-caption=&#34;From platform management and ecosystem reorganization to added function&#34;&gt;
+
+
+  &lt;img src=&#34;https://mleglatin.github.io/img/IconnzTraj.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    From platform management and ecosystem reorganization to added function
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;decisional-ambidexterity-analysis-1&#34;&gt;Decisional ambidexterity analysis&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Model descriptors&lt;/th&gt;
+&lt;th&gt;Non-mutual conditioning&lt;/th&gt;
+&lt;th&gt;Mutual conditioning extended model&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Model of coordination and collective action&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Exploration is conducted by a temporary team relying on delegated resources.&lt;/td&gt;
+&lt;td&gt;Exploration initially targets a new platform approach for cabin equipment exploited in ZA. The equipment connectivity and associated system is used as an input to pool data in a centralized core system.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Generative processes&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;The purpose of the project drifts as the project’s main output becomes a proof of concept for AIX 2017.&lt;/td&gt;
+&lt;td&gt;Hacking all choices to wish for a new industrial ecosystem organized around ZA integration capabilities. New connectivity solution, services for airline operations.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Environment cognition&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;The demonstrator and prototyping activities do not overcome fixations and locked interdependencies.&lt;/td&gt;
+&lt;td&gt;Original intent is to act as a platform leader for the ZA equipment and competition. Request from ExCom to have a key technological advantage to secure the new market.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Organization design&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;The project gradually moves away from the concern of articulating the technology with BUs engineering capabilities as the proof of concept mainly emphasizes the need for an added connectivity feature to all pieces of equipment.&lt;/td&gt;
+&lt;td&gt;Original project’s mission was to federate a service platform for connectivity with BUs benefiting from added-value equipment enhanced by data. BUs would then need to regenerate their capabilities for&lt;em&gt;servitization&lt;/em&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;chapter-synthesis-a-reconciliatory-model-for-ambidexterity&#34;&gt;Chapter synthesis: a reconciliatory model for ambidexterity&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Work in progress&amp;hellip;
+    &lt;p&gt;In this model testing chapter, we have presented two comparable cases
+steered by the ExCom in the form of multi-BU projects. The mutual
+conditioning between exploration and exploitation in our model of
+decisional ambidexterity allows understanding the logics of generative
+processes and its innovation potential of attraction. They had similar
+coordination mechanisms as they were encapsulated into projects but the
+actions engaged to make a case for the proof of concept bended the
+project trajectory and organizational change in different ways.&lt;/p&gt;
+&lt;p&gt;The organization metabolism would not be activated given some constraints on
+engineering capabilities, standards and regulations as well as market
+segmentation. The literature models of non-mutual conditioning would
+indeed explain some patterns in the two cases. Consequently, we can
+formulate the result that the collective action of decision-designers
+requires to be organized on multiple levels with the appropriate
+heuristics and technology of organization. The common purpose, or task
+formulation, frames also the capabilities of the project, its reach and
+potential of attraction across organizations. We then back up the
+validity of our model of decisional ambidexterity.&lt;/p&gt;
+&lt;p&gt;The Lower Deck project had a strong emphasis on securing the concept feasibility and
+market access, the virtual mock-ups was rather a means to formalize,
+update the concept’s model and communicate. However, in the Connected
+Cabin project, the demonstrator became almost an end in itself up to a
+point the designed generic decisions where gradually biased by strong
+organizational fixations and locked interdependencies. It reduced the
+wishful platform engineering to simply adding a function requirement to
+each equipment. The one-stop shop for all aircraft equipment
+manufacturers was reduced to an isolated add-on feature for existing and
+fixated BU-engineered equipment.&lt;/p&gt;
+&lt;p&gt;The two presented cases had similar management sponsorship, and corporate entrepreneurship spirit. They
+reveal the subtleties of decisional ambidexterity and the nature of
+generative effort, its management to avoid the limitations of
+organizational ambidexterity. The interactions with designed decisions,
+designed artefacts and steering committees appears key to manoeuvre the
+project’s trajectory but also regenerate capabilities among BUs to
+support the project-based management.&lt;/p&gt;
+&lt;p&gt;In the &lt;a href=&#34;https://mleglatin.github.io/phd/part5/&#34;&gt;following part&lt;/a&gt;,
+we will address the contributions made by the researcher. Several
+opportunities were seized to test &lt;em&gt;in vivo&lt;/em&gt; decisional ambidexterity and
+further proof of validation were provided by interactions with peers
+within Zodiac Aerospace.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;div id=&#34;refs&#34; class=&#34;references hanging-indent&#34; markdown=&#34;1&#34;&gt;
+&lt;div id=&#34;ref-Avital2009&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Avital, Michel, and Dov Te’eni. 2009. “From generative fit to generative
+capacity: exploring an emerging dimension of information systems design
+and task performance.” &lt;em&gt;Information Systems Journal&lt;/em&gt; 19 (4): 345–67.
+&lt;a href=&#34;https://doi.org/10.1111/j.1365-2575.2007.00291.x&#34;&gt;https://doi.org/10.1111/j.1365-2575.2007.00291.x&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Heath1999&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Heath, Chip, Richard P. Larrick, and George Wu. 1999. “Goals as
+Reference Points.” &lt;em&gt;Cognitive Psychology&lt;/em&gt; 38 (1): 79–109.
+&lt;a href=&#34;https://doi.org/10.1006/cogp.1998.0708&#34;&gt;https://doi.org/10.1006/cogp.1998.0708&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Kahneman2011&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Kahneman, Daniel. 2011. &lt;em&gt;Thinking, fast and slow&lt;/em&gt;. London, England:
+Penguin.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Verganti2014&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Verganti, Roberto, and Claudio Dell’Era. 2014. “Design-Driven
+Innovation.” In &lt;em&gt;The Oxford Handbook of Innovation Management&lt;/em&gt;, 1–28.
+April 2018. &lt;a href=&#34;https://doi.org/10.1093/oxfordhb/9780199694945.013.006&#34;&gt;https://doi.org/10.1093/oxfordhb/9780199694945.013.006&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;For instance see DailyMail Online brief on December 8, 2015: &lt;em&gt;Just
+when you thought they couldn’t get any more seats on board:
+Aerospace company designs lower-deck cabin with vending machines and
+display screens instead of windows&lt;/em&gt;. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;this information was drawn from Multi-BU meeting minutes and CEO’s
+interview conducted on May 7, 2018 &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
     </item>
     
@@ -30,11 +574,721 @@
       <link>https://mleglatin.github.io/phd/part4/chapter8/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://mleglatin.github.io/phd/part4/chapter8/</guid>
-      <description>&lt;div class=&#34;alert alert-warning&#34;&gt;
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Laws should only provide a basis for self-fulfilment.&lt;/em&gt;
+&lt;strong&gt;Paul Klee&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In this first modelling chapter, in the same fashion as described in the
+beginning of our literature review, we propose to come back to a
+canonical model that requires to be enhanced by generative processes.
+James March in his seminal paper had consciously declared the boundaries
+of his model (March 
+&lt;a href=&#34;#ref-March1991&#34;&gt;1991&lt;/a&gt;); yet these very same edges
+are heavily challenged by the evolutions of innovation management which
+have gone beyond the perimeters of the ambidexterity models relying on
+the non-mutual conditioning between exploration/exploitation. Generative
+processes such as design practices taking place for radical innovation,
+ripple throughout decision-making, collective action, coordination
+mechanisms and organizations.&lt;/p&gt;
+&lt;p&gt;Based on the management anomaly specifications and the mirroring
+requirements needed to design a new model, we propose to synthesize the
+article published in the European Management Review (Le Masson et al.
+
+&lt;a href=&#34;#ref-LeMasson2018&#34;&gt;2018&lt;/a&gt;) (see 
+&lt;a href=&#34;https://mleglatin.github.io/publication/pub-lemasson2018/&#34;&gt;publication&lt;/a&gt;). The developed model allows clarifying the heuristics associated
+with &lt;strong&gt;decisional ambidexterity&lt;/strong&gt; (Le Glatin, Le Masson, and Weil
+
+&lt;a href=&#34;#ref-LeGlatin2017a&#34;&gt;2017&lt;/a&gt;) (see 
+&lt;a href=&#34;https://mleglatin.github.io/publication/pub-leglatin2017a/&#34;&gt;publication&lt;/a&gt;). Furthermore, it gives some grounds on the designing of decisions and to set a new frame for collective action.&lt;/p&gt;
+&lt;p&gt;We discuss which extensions are made on the traditional assumptions on
+problem-solving and rational theory of choice thanks to the teachings in
+design theory. We can then revisit some stimulating constructs
+previously identified in our literature review discussing the
+performance of the decision design relating to the &lt;em&gt;innovation potential
+of attraction&lt;/em&gt; and underlying useful methods and heuristics.&lt;/p&gt;
+&lt;p&gt;All along the modelling effort in the following section, we make several
+references to the previous detected anomalies. We do so in order to
+explain how the new model allows gaining new insights. We also refer to
+the gap-filling between former models and the new as we also tasked
+ourselves to keep coherence and a sense of continuity when coming from
+the known to the unknown.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Work in progress&amp;hellip;
+    &lt;p&gt;We start by coming back to the original model of (March
+&lt;a href=&#34;#ref-March1991&#34;&gt;1991&lt;/a&gt;) with its foundations in problem-solving and
+choice of alternatives. We extend the canonical framework of
+decision-making into the unknown with the support of C-K design theory.&lt;/p&gt;
+&lt;p&gt;Then, we discuss the performance of the decisions designed and made. It
+invites to think beyond traditional expected utility theories of choice.&lt;/p&gt;
+&lt;p&gt;The first partial representation of the model is pictured in &lt;a href=&#34;#model-synthesis&#34;&gt;table&lt;/a&gt; gives a comparison with the synthetic model of non-mutual
+conditioning between exploration and exploitation.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;designing-decisions-decisional-ambidexterity-for-organizational-metabolism&#34;&gt;Designing decisions: decisional ambidexterity for organizational metabolism&lt;/h2&gt;
+&lt;p&gt;In the introduction and premises of our literature review (see 
+&lt;a href=&#34;https://mleglatin.github.io/phd/part1/chapter1/&#34;&gt;chapter 1&lt;/a&gt;, we presented the trajectory of the agent-based model of James
+March, creating the construct of exploration and exploitation to sustain
+organization learning and fighting for supremacy (March
+
+&lt;a href=&#34;#ref-March1991&#34;&gt;1991&lt;/a&gt;). The starting point being problem-based - and
+consequently decision-making by adding a pinch of uncertainty - allows
+considering the bounded rationality of agents limited in their daily
+routines, and requiring exploration, i.e. search-based patterns looking
+out for overlooked alternatives already present in their decision
+space.&lt;/p&gt;
+&lt;p&gt;The issue of the decision creation is rather left aside by only
+promoting the garbage-can decision model and foolishness as a means to
+improve the generation of novelty, beyond pure selection issues. Without
+discarding altogether a potential contribution from foolishness and
+irrationality, starting from the canonical model of decision theory such
+as (Wald 
+&lt;a href=&#34;#ref-Wald1945a&#34;&gt;1945&lt;/a&gt;, 
+&lt;a href=&#34;#ref-Wald1949&#34;&gt;1949&lt;/a&gt;)&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; where an
+agent picks up an alternative among those offered to her, consequences
+$X$ are known depending on the outcome of the states of nature $\Theta$.&lt;/p&gt;
+&lt;p&gt;The (statistical) decisions ($d:s\in \Theta \rightarrow x\in X$,
+$d\in D$) are calculated based on costs of consequences
+($c:x\in X \rightarrow y\in\mathbb{R}^+$) and the states of nature
+weighted by degrees of probability $\mu$. The theory predicts the
+existence of an optimal choice minimizing costs.&lt;/p&gt;
+&lt;p&gt;Using design theory, such as C-K theory (Hatchuel and Weil
+
+&lt;a href=&#34;#ref-Hatchuel2009&#34;&gt;2009&lt;/a&gt;), for its generality can be used onto the
+canonical model $(D,\Theta,c,\mu)$ which can be complemented by
+statistical learning $L$ drawn from previous experiences and sampling
+$(D,\Theta,c,\mu,L)$. We also address the issue of simultaneous problem
+formulation and solving, conceptualized in need-solution pairs (Hippel
+and Krogh 
+&lt;a href=&#34;#ref-VonHippel2016&#34;&gt;2016&lt;/a&gt;) who encouraged the use of design
+theory to identify and generate these pairs.&lt;/p&gt;
+&lt;h3 id=&#34;mobilizing-design-theory-for-decision-paradigm&#34;&gt;Mobilizing design theory for decision paradigm&lt;/h3&gt;
+&lt;p&gt;The dominant design stemming from the decision problem is the optimum
+choice in the acknowledged set of choices, beliefs, states of nature and
+cost function. Using C-K theory gives a starting point formulated by a
+model of knowledge that can be considered as the state of the art, and
+the decision broken down into the given environment $\Theta$ and optimal
+decision maximising expected utility $d_{MEU}$ (minimizing costs). We
+then have a first branch on the concept space, and a first knowledge
+sub-space.&lt;/p&gt;
+&lt;p&gt;Naturally, the Wald’s model gives it own parameters that can be hacked
+by design. The set of decisions $D$ and the states of nature $\Theta$
+can be then re-designed. Generativity, like in the experiment where
+pigeons generate new action to solve a problem (Epstein et al.
+
+&lt;a href=&#34;#ref-Epstein1984&#34;&gt;1984&lt;/a&gt;; Epstein 
+&lt;a href=&#34;#ref-Epstein1990&#34;&gt;1990&lt;/a&gt;), will play
+on the generation of new decisions, as well as altering the states of
+nature. It differs from trial and error in the way that it deals with
+novelty, ill-defined problems, by matching stimuli and actual
+transformation of the behaviour required to deal with (generated) new
+situation.&lt;/p&gt;
+&lt;p&gt;In a very simple way, we are interested in managing the operators
+$D \rightarrow D^{* } $, which generates and reconfigures decisions, and
+$\Theta \rightarrow \Theta^*$ which integrates new states of nature,&lt;/p&gt;
+&lt;p&gt;changes the world’s description, semantics and changes the posture of
+the decision-maker with respect to these states. The cost function $c$,
+and beliefs $\mu$ will subsequently have to be redefined or simply
+extended to the new range.&lt;/p&gt;
+&lt;p&gt;Coming back to the figure show in the literature review (p.), copied
+below, we push the model beyond the Pareto front. As the operators
+generate new possibilities, revisiting performance criteria which are
+the tip of the iceberg of the transformations of $D$ and $\Theta$.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-schematics-of-behaviours&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://mleglatin.github.io/img/explorationregimes.png&#34; data-caption=&#34;Schematics of behaviours&#34;&gt;
+
+
+  &lt;img src=&#34;https://mleglatin.github.io/img/explorationregimes.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Schematics of behaviours
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;new-decision-categories&#34;&gt;New decision categories&lt;/h3&gt;
+&lt;p&gt;Firstly, beyond the optimum decision $d_{MEU}$, the decision-designer
+can try to push the optimization even further for a given chosen state
+of nature $\theta_i \in \Theta$. We have then a **new wishful decision by optimization** ($d_{opt}$). It could be a simple functional improvement added for one feature that could be constrained otherwise by the realization of one outcome in the spectrum of consequences.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Optimizing makes the assumption that a lot of parameters have been
+identified and locked, so that gap to be explore between what is
+boundedly known and what is yet to be known is clear. It could be
+considered as the simplest and predictive form of transitioning between
+exploration and exploitation.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Secondly, the uncertainty associated to the considered states of nature
+$\Theta$, the decision-designer can study the envelop of available
+alternatives $D$ so that he can add a new decision which minimizes costs
+for all contingencies: &lt;strong&gt;new wishful decision by genericity&lt;/strong&gt; ($d^{gen}$).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the Business Class seat, we can label some of their decisions aiming
+at developing a platform for a modular product line. The exploration of
+existing possibilities (benchmark) and the generation of new
+alternatives both encompass a new wishful decision by genericity.&lt;/p&gt;
+&lt;p&gt;We can also argue that when the client program selected the explored
+product design, the exploitation regime performs a regression towards
+optimizing as if the preliminary platform design would be robust enough
+for a full development and uncertainty reduction. Some knowledge areas
+had indeed not been fully uncovered. So, in a &lt;em&gt;post mortem&lt;/em&gt; analysis, we
+have a better understanding of what could have been managed differently
+to maintain the exploration and exploitation effort and their mutual
+conditioning.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Now switching to the design heuristics, instead of leaving $\Theta$
+fixated, we can work on redesigning the states of nature.
+Thirdly, we can try to change a single state of nature in order to force
+the redesign of decisions. Considering an unknown (i.e. out of the
+domain) state of nature that may have a devastating impact on
+consequences can be one way. Or one could simply just slightly shift a
+not very likely state of nature. The idea of the &lt;em&gt;What If?&lt;/em&gt; scenario in
+Design Thinking methodology addresses this perspective. However, one can
+also target the most certain knowledge which hides fixation effects; it
+tackles the &lt;em&gt;sure thing principle&lt;/em&gt; (Savage 
+&lt;a href=&#34;#ref-Savage1954&#34;&gt;1954&lt;/a&gt;, 21).&lt;/p&gt;
+&lt;p&gt;Following the same fashion, deliberately reversing preferences can force
+the design or the concern for an unknown state of nature which may
+favour the reversal; as discussed in our paper (Le Glatin, Le Masson,
+and Weil 
+&lt;a href=&#34;#ref-LeGlatin2017a&#34;&gt;2017&lt;/a&gt;), also in 
+&lt;a href=&#34;https://mleglatin.github.io/publication/pub-leglatin2017a/&#34;&gt;publication&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are then designing a &lt;strong&gt;new wishful decision by best choice hacking&lt;/strong&gt;
+($d^{alt}$). For example, if the decision problem was to choose between
+known several technologies and associated performance, one could try
+reversing the order and try to design a situation where it would work.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The Icing Conditions Detection case can be interpreted in that way since
+considering an unknown safety regulation evolution was to be shaped by
+the R&amp;amp;T manager to justify the new performance of the technology in the
+new spectrum.&lt;/p&gt;
+&lt;p&gt;Exploration effectively relies on exploitation constraints to generate
+new alternatives. It could be also considered as coming &lt;em&gt;out of the
+blue&lt;/em&gt;, in a serendipitous way, as an externality or as need-solution
+pair (Hippel and Krogh 
+&lt;a href=&#34;#ref-VonHippel2016&#34;&gt;2016&lt;/a&gt;). But at least, the
+model allows linking them back to the dominant designed decision, since
+we can play on the decision space and states of nature.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Finally, we can reproduce systematically all pieces of certain
+knowledge. By doing so, we explore the full extent of fixation effects
+considered on knowledge usually requested or made implicit in
+decision-making. So we end up with a &lt;strong&gt;new wishful decision by all
+choices hacking&lt;/strong&gt; ($d^{*}$).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the Design Thinking cases, shifting the concepts in aircraft areas,
+where BUs are not dealing with the design brief, falls into the category
+of all choices hacking. Clearly, it highlights that the exploration has
+gone out of the boundaries of what classical search-based model would
+have delivered. Such hacking insists on the fact that exploitation won’t
+be conducted nor balanced by ignoring the new created interplay.
+Frontier between product designs can be totally re-discussed to shape
+the new environment (e.g. lower deck, integration between equipment in
+galley area, passengers loading their luggage, etc.).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Overall, the different decision categories one can design, offers a new
+mapping for the decision-maker to envision the course of action. By
+becoming a decision-designer, the design reasoning on alternatives
+allows, not only understanding the consequences of avoiding the
+conditioning between exploration and exploitation, but also to envision
+the efforts required in terms of knowledge management. Consequently, it
+enables starting to reconciliate the risks of floating of exploration
+project management with the organizational learning originally hoped
+with (March &lt;a href=&#34;#ref-March1991&#34;&gt;1991&lt;/a&gt;) model.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;knowledge-value&#34;&gt;Knowledge value&lt;/h3&gt;
+&lt;p&gt;The different decisions categories, by simply relying on Wald’s
+canonical decision model, show the extension $D$ and $\Theta$ spaces.
+The transformation operated by design theory comes with consequences on
+the value $c$, beliefs $\mu$ and learning $L$. These are redefined by
+composition of $D \rightarrow D^{* }$ and/or
+$\Theta \rightarrow \Theta^{* }$.&lt;/p&gt;
+&lt;p&gt;The most stimulating feature from a standard statistical probability
+view is that adding a new decision, or new state of nature, flattens
+existing probability distributions. In other words, we &lt;strong&gt;increase global
+uncertainty&lt;/strong&gt;. And we do it so that it is even more accentuated that it
+could perturb a search-based model since we are extending the spaces we
+are relying on. From a rational choice theory, it is, of course,
+unacceptable but the operators in between the old and the new spaces
+take in the possibility of design, it is not an externality.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the Icing Conditions Detection project, when they reversed their
+preferences for a highly uncertain technology, they opened a new
+environment to be shaped. The potential risk was reallocated, raising
+uncertainties but also made former alternatives less interesting despite
+being more certain in a different setting.&lt;/p&gt;
+&lt;p&gt;Learning can be organized for such purpose. Seen from the development
+engineering department, the prototype tested on aircraft is not to be
+considered as a traditional exploitation. Instead, it should be seen as
+an &lt;em&gt;exploitation exploration&lt;/em&gt; where the unfinished engineering work
+offers the opportunity to acknowledge and reconfigure engineering rules
+around the new technology and system.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We consequently endogenize the unknown by design. Not only are we are
+building up awareness but also we are anticipating it by systematically
+designing and prospectively managing unknown decisions and states of
+nature. We are in line with the idea of bringing vigilance (Oury and
+Schmidt 
+&lt;a href=&#34;#ref-Oury1983&#34;&gt;1983&lt;/a&gt;), opportunism (Lumineau and Verbeke
+
+&lt;a href=&#34;#ref-Lumineau2016&#34;&gt;2016&lt;/a&gt;), reliability (Sutcliffe and Christianson
+
+&lt;a href=&#34;#ref-Sutcliffe2012&#34;&gt;2012&lt;/a&gt;) to the front seat, by turning the
+decision-maker into a decision-designer. The underlying assumptions have
+been weakened to leave room for design theory to unveil its potential on
+its sister theory.&lt;/p&gt;
+&lt;p&gt;The concept of &lt;em&gt;phronesis&lt;/em&gt; (Nonaka, Hirose, and Takeda
+
+&lt;a href=&#34;#ref-Nonaka2016&#34;&gt;2016&lt;/a&gt;), which we discussed in the literature review,
+could be then further substantiated with the way a manager makes and
+design decisions. It is a means of organizing collective action:
+creating simple coordination mechanisms around certain knowledge that
+can tweaked collectively by stakeholders, mobilizing (silent) designers
+around problems that can be systematically ill-defined by themselves,
+and simply overseeing the course of action with other reference points
+given by the decisional mapping.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the BC class seat platform project, the early stages of concept
+selection and generation with BU stakeholders were an actual case of
+blending the exploration with the exploitation constraints. However,
+this effort was biased when the project was transferred to program
+management as if fit for development. Instead, it could have been the
+occasion to continue exploitation knowing and managing learning for a
+continuing and parallel exploration. This awareness is however only
+realized in the aftermath and not along the transition nor the
+exploitation project management.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    This decisional ambidexterity consequently also gives an &lt;strong&gt;extended risk
+assessment&lt;/strong&gt; register, richer than traditional practices seen in project
+management. But, in the same fashion we did, we could manipulate the
+risk register which is used, transferred and adapted in between projects
+as a representation of the dominant decision design framing (a priori)
+collective action in project’s trajectory. The modelled technology of
+ambidexterity can give room to the stretching caused by encapsulated
+generative processes and still letting them be managed.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;performance-of-decision-design&#34;&gt;Performance of decision design&lt;/h2&gt;
+&lt;p&gt;The described approach of simply applying a generativity theory to a
+foundational canonical model puts the emphasis on the transformation
+operators rather than on the dichotomy of exploration and exploitation
+regimes. These operators offer a systematic way of exploring given
+exploitation references. The dichotomy and non-mutual conditioning are
+left aside by a constant articulation of interdependencies of
+exploration and exploitation. So, it is not the set of elements and
+their nature that counts, but rather the relationship engaged between
+them that is to be managed. In that regard, we move beyond duality of
+the regimes (Farjoun 
+&lt;a href=&#34;#ref-Farjoun2010&#34;&gt;2010&lt;/a&gt;).&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The performance of both exploration and exploitation will be dependent
+on the quality of the generative operators. It implies the collective
+effort of designing the fit of decisions, and identifying, acknowledging
+and managing fixations effects and underlying interdependencies. It is
+crucial to &lt;em&gt;measure&lt;/em&gt; and characterize the distance between what
+exploitation can achieve on its own path and the different explored and
+designed decisions can otherwise. Learning and adaptation take a
+different twist with the cognitive fit and design fixation effects.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;beyond-the-fit-moving-and-designing-target&#34;&gt;Beyond the fit: moving and designing target&lt;/h3&gt;
+&lt;p&gt;The paradoxes of opposing two competing objectives becomes rather
+secondary or even transparent, by adopting the design and elucidation of
+interdependencies between decisions and states of nature. All the ties
+justifying exploration can be derived from exploitation, and conversely
+the exploitation can be justified by a reference enlarged by
+exploitation.&lt;/p&gt;
+&lt;p&gt;The constant generative search is rooted in exploitation, and
+exploitation is inversely valued through exploration. The pattern is
+similar to the novelty-search algorithm (Nguyen, Yosinski, and Clune
+
+&lt;a href=&#34;#ref-Nguyen2015&#34;&gt;2015&lt;/a&gt;; Cully et al. 
+&lt;a href=&#34;#ref-Cully2015&#34;&gt;2015&lt;/a&gt;) designed
+for robots to improve their resilience, but we improve such heuristics
+by considering that the problem is also re-formulated, as if the
+underlying algebra was reconfigured.&lt;/p&gt;
+&lt;p&gt;For instance, not only has the robot a performance objective (reaching a
+given point in space), the novelty-search algorithm will generate new
+movements in two dimensions without knowing the terrain. But, it will
+only operate with the possible actuators available and their performance
+range. It is also crucial to reconsider the actuators framing the range
+and nature of alternatives. This is what we achieve with our
+operators.&lt;/p&gt;
+&lt;p&gt;Conditioning exploration by exploitation, can be considered actually
+quite natural but let us remember that numerous design and creativity
+methods encourage to liberate constraints and be careful with brief
+formulation. &lt;em&gt;Thinking out of the box&lt;/em&gt; also requires starting by
+defining the box itself.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the icing conditions detection project, opposing the technology
+alternatives imposes to value them against a given system, integration
+and regulations. Reversing the preferences, encourages to reconfigure
+the value framework: new system, new integration constraints and new
+regulations. The problem reformulation is built upon an exploitation
+constraint and target on the move. Consequently, a fraction of the
+project management is driven towards ensuring the target is managed to
+satisfy preferences reversal.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;overcoming-biases-and-fixation-effects&#34;&gt;Overcoming biases and fixation effects&lt;/h3&gt;
+&lt;p&gt;The performance of exploration will be seen through the generativity of
+the design practices. These will be valued relatively to reference
+points which can be previously generated decisions or potential
+decisions. But as the end game is to be able to decide and organize
+collective action for these, it would be even more practical to set the
+reference on exploration points.&lt;/p&gt;
+&lt;p&gt;We have discussed exploitation and &lt;em&gt;weak&lt;/em&gt; exploration natural
+reliability, path dependency, can not only be biased due to bounded
+rationality but also can be fixated due to lack of understanding of
+environment awareness, system thinking and organizational design.&lt;/p&gt;
+&lt;p&gt;Newly generated concepts may be indeed challenging epistemic
+interdependencies which will have to be carefully managed when these are
+revealed by directly concerned decision-makers. It is then preferable to
+have them actively dealing with the (re)-design practice of these
+interdependencies and their rationality that was contextually
+established and fixated.&lt;/p&gt;
+&lt;p&gt;As James March partly addressed it (see quotation below (March
+
+&lt;a href=&#34;#ref-March2006&#34;&gt;2006&lt;/a&gt;, 209)), he gave a few hints on how the produce of
+exploration, be it foolish or not, would eventually become rational and
+exploited could be used as a basis for exploration. We believe that our
+model allows elucidating this mutual conditioning and how to exploit it
+for exploration and vice-versa. This complement to the separation
+between exploration and exploitation had been omitted in the original
+model (March 
+&lt;a href=&#34;#ref-March1991&#34;&gt;1991&lt;/a&gt;) as noted in our literature review.
+It underlines the natural interaction between what makes exploration and
+exploitation. However, it doesn’t imply necessarily a continuum nor
+orthogonality, but rather multiple relationships to be surfaced and
+managed.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;It is argued that the link between rationality and conventional
+knowledge keeps rational technologies reliable but inhibits creative
+imagination. This characterization seems plausible, but it probably
+underestimates the potential contribution of rational technologies to
+foolishness and radical visions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In the Design Thinking cases, an external observer, unfamiliar with the
+history of aircraft cabin equipment and stringent standards &amp;amp;
+regulations, could easily consider product designs, interfaces and usage
+totally foolish. Different value networks taken from other user
+experience (passenger, cabin crew) will confront to rationally developed
+products and services.&lt;/p&gt;
+&lt;p&gt;Anchoring the exploration to exploitation provides a playground to
+relieve constraints faced by dominant designs, promoting new
+interactions with users, or even hacking altogether how things are done
+and envision a new environment (e.g. lower deck, passenger boarding).
+However, the learning associated with the defixation is to be further
+explained as it unlocks several interdependencies that are not
+self-evident when just showcasing concepts or prototypes.&lt;/p&gt;
+&lt;p&gt;The performance is discussed in different ways and through action
+engaged in the decision-design process. Adaption model is left close
+enough to optimizing decision and richer exploration can be achieved by
+challenging beliefs, preferences order and states of nature.
+Interactions can be managed around these parameters. And the
+encapsulation can be tracked and positioned with respect to learning
+challenges.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;Finally, not only the distance is generated away from a dominant design,
+fixation points and ingrained interdependencies, but it is also key to
+enable the constant transformational dialog between these two.&lt;/p&gt;
+&lt;p&gt;Performance of decision design is then substantiated through the
+heuristics presented earlier and the necessity of interacting through
+them. It will target multiple parameters in engineering design and
+constraints.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;model-synthesis&#34;&gt;Model synthesis&lt;/h3&gt;
+&lt;p&gt;Below, the figure
+&lt;a href=&#34;#fig:modelADM&#34; data-reference-type=&#34;ref&#34; data-reference=&#34;fig:modelADM&#34;&gt;2&lt;/a&gt;
+represents, with C-K formalism, the different designed decision
+categories and the knowledge used. We specify the different &lt;strong&gt;wishful
+decisions&lt;/strong&gt; and the enabling knowledge hacked to design new decisions
+and new states of nature.
+Following customs in C-K theory, the dominant design is left on the left
+of the concept tree where we have put the wishful decision by
+optimization ($d_{opt}$). A variation to the optimization can be then to
+design by considering a wishful decision by genericity ($d^{gen}$). It
+considers as many states of nature possible by defining an envelop of
+consequences that the decision should be ready to address. Then, hacking
+the states of nature, opens a new branch with two new designed decisions
+categories: wishful decision by best choice hacking and all choices
+hacking. The first tackles what could be the dominant, what is more
+obvious, the sure thing principle. The second shifts the decision
+problem in a new environment.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-ambidextrous-decision-making-by-deciding-into-the-unknown-with-design&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://mleglatin.github.io/img/modelADM.png&#34; data-caption=&#34;Ambidextrous decision-making by deciding into the unknown with design&#34;&gt;
+
+
+  &lt;img src=&#34;https://mleglatin.github.io/img/modelADM.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Ambidextrous decision-making by deciding into the unknown with design
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The table
+&lt;a href=&#34;#table:modelADMtab&#34; data-reference-type=&#34;ref&#34; data-reference=&#34;table:modelADMtab&#34;&gt;[table:modelADMtab]&lt;/a&gt;,
+brings the comparison between the newly designed model of mutual
+conditioning of exploration/exploitation and the former derived from the
+literature. Several items have to be further specified given the chosen
+descriptors used for the anomaly detection. We have discussed the
+fixation effects and necessary anchoring to exploitation parameters
+facilitating the management of exploration. The mutual conditioning
+between exploration and exploitation will channel learning, dealing with
+interdependencies. Therefore, it will also require looking beyond the
+cognitive dimension of decision-designing. Organization design, the
+mirroring dynamic as well as action modes organizing &lt;em&gt;decisional
+ambidexterity&lt;/em&gt; will have to be taken into account to fully cover the
+anomalies identified with all descriptors.
+These incomplete model features presented in the following table will be
+discussed in the [following chapter]
+(https://mleglatin.github.io/phd/part4/chapter9/).
+The organizational metabolism can then be discussed in more detail to
+sustain organizational change and learning.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Model descriptors&lt;/th&gt;
+&lt;th&gt;Non-mutual conditioning&lt;/th&gt;
+&lt;th&gt;Mutual conditioning extended model&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Model of coordination and collective action&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;1. Not necessarily on the same continuum, exploration and exploitation call for two dissociate action regimes.&lt;br&gt;2. Balancing is left as a paradox at different levels of analysis: structure (centralization, distribution), time and individuals.&lt;/td&gt;
+&lt;td&gt;1. Exploration and exploitation are mutually used to support extended decision-making. &lt;br&gt;2. The balancing paradox is dealt by design operators valuing mutual benefits of exploration and exploitation. It is organized through interactive decision-design practices. &lt;br&gt;(&lt;strong&gt;To be completed. See next chapter&lt;/strong&gt;)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Generative processes&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;3. The nature of generative processes supporting exploration appears quite free, random and sometimes even foolishness-based. &lt;br&gt;3. Generativity of the product development may not be sustained by (temporary) organizations (floating issue).&lt;br&gt;4. The performance and reference are light structured: reduced to a selection issue or sometimes to complex interactionist phenomenon.&lt;/td&gt;
+&lt;td&gt;3. Generative processes target the exploration/exploitation bone of contention and associated decision-making.&lt;br&gt;4. Generativity is articulated around design fixations and interdependencies for better interactive value management with other (silent) decision-designer.&lt;br&gt;5. Performance is repositioned on the transformative feature of decision-design where its criteria are redefined. &lt;br&gt;(&lt;strong&gt;To be completed. See next chapter&lt;/strong&gt;)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Environment cognition&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;6. One-way interaction: Environment to Organization.&lt;br&gt;7. The environment structures the response, nature and distribution of generative processes.&lt;br&gt;8. The environment is used to augment the product development requirements.&lt;/td&gt;
+&lt;td&gt;6. The environment is managed through decision-design.&lt;br&gt;7. The decision-design addresses environment-induced fixations.&lt;br&gt;8. The environment awareness developed through decision-design targets also (potential) interdependencies and future exploitation features. &lt;br&gt;(&lt;strong&gt;To be completed. See next chapter&lt;/strong&gt;)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Organization design&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;9. Organization design is pre-conceived or uncontrolled. &lt;br&gt;10. Organization design creates gaps for managing generative processes and the dynamics of their organizational ties.&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;See next chapter&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;chapter-synthesis-designing-decisions-for-cognitive-ambidexterity&#34;&gt;Chapter synthesis: designing decisions for cognitive ambidexterity&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;We have used the requirements listed in the previous chapter after
+detecting and specifying the anomalies in several cases. We have then
+proposed to start anew by coming back to the beginning of our literature
+review.&lt;/p&gt;
+&lt;p&gt;The canonical model of decision theory (Wald &lt;a href=&#34;#ref-Wald1949&#34;&gt;1949&lt;/a&gt;,
+&lt;a href=&#34;#ref-Wald1945a&#34;&gt;1945&lt;/a&gt;) is mobilized to consider the problems-solving
+with uncertainty described in the seminal paper (March
+&lt;a href=&#34;#ref-March1991&#34;&gt;1991&lt;/a&gt;). As we had repeatedly tested the edges of the
+literature models of non-mutual conditioning between exploration and
+exploitation, we have used the teachings of design theory to extend
+decision theory into the unknown.&lt;/p&gt;
+&lt;p&gt;It allowed specifying different decision categories and heuristics
+playing with decision problem parameters and formulation. The model
+proposed an &lt;strong&gt;extended risk management&lt;/strong&gt; as the uncertainty is increased
+by design but at the same time uses exploitation core specified by
+fixation effects, biases of bounded rationality and interdependencies to
+ground exploration and manage its generativity and value.&lt;/p&gt;
+&lt;p&gt;We have also made reference to the previous anomalies and made sense of
+them with the help of the decision ambidexterity. They fall into several
+designed decision categories in the unknown and they let clarifying what
+has been missed or what was in the blind spot of models of
+ambidexterity.&lt;/p&gt;
+&lt;p&gt;The following chapter complements the gaps left in the model’s
+description as we had specified several organizational descriptors to
+detect the anomalies. We will define further decisional ambidexterity
+with our concern for strategic management and organizational learning
+and change.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;div id=&#34;refs&#34; class=&#34;references hanging-indent&#34; markdown=&#34;1&#34;&gt;
+&lt;div id=&#34;ref-Cully2015&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Cully, Antoine, Jeff Clune, Danesh Tarapore, and Jean-Baptiste Mouret.
+2015. “Robots that can adapt like animals.” &lt;em&gt;Nature&lt;/em&gt; 521 (7553): 503–7.
+&lt;a href=&#34;https://doi.org/10.1038/nature14422&#34;&gt;https://doi.org/10.1038/nature14422&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Epstein1984&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Epstein, R, C E Kirshnit, R P Lanza, and L C Rubin. 1984. “Insight in
+the pigeon: antecedents and determinants of an intelligent performance.”
+&lt;em&gt;Nature&lt;/em&gt; 308 (5954): 61–62. &lt;a href=&#34;https://doi.org/10.1038/308061a0&#34;&gt;https://doi.org/10.1038/308061a0&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Epstein1990&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Epstein, Robert. 1990. “Generativity Theory and Creativity.” In
+&lt;em&gt;Theories of Creativity&lt;/em&gt;, edited by Mark A. Runco and Robert S. Albert,
+116–40. Sage Publications.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Farjoun2010&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Farjoun, Moshe. 2010. “Beyond dualism: Stability and change as a
+duality.” &lt;em&gt;Academy of Management Review&lt;/em&gt; 35 (2): 202–25.
+&lt;a href=&#34;https://doi.org/10.5465/AMR.2010.48463331&#34;&gt;https://doi.org/10.5465/AMR.2010.48463331&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Fourcade2013&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Fourcade, Marion, and Rakesh Khurana. 2013. “From social control to
+financial economics: the linked ecologies of economics and business in
+twentieth century America.” &lt;em&gt;Theory and Society&lt;/em&gt; 42 (2): 121–59.
+&lt;a href=&#34;https://doi.org/10.1007/s11186-012-9187-3&#34;&gt;https://doi.org/10.1007/s11186-012-9187-3&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Giocoli2013&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Giocoli, Nicola. 2013. “From Wald to Savage: Homo Economicus Becomes a
+Bayesian Statistician.” &lt;em&gt;Journal of the History of the Behavioral
+Sciences&lt;/em&gt; 49 (1): 63–95. &lt;a href=&#34;https://doi.org/10.1002/jhbs.21579&#34;&gt;https://doi.org/10.1002/jhbs.21579&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Hatchuel2009&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Hatchuel, Armand, and Benoit Weil. 2009. “C-K design theory: An advanced
+formulation.” &lt;em&gt;Research in Engineering Design&lt;/em&gt; 19 (4): 181–92.
+&lt;a href=&#34;https://doi.org/10.1007/s00163-008-0043-4&#34;&gt;https://doi.org/10.1007/s00163-008-0043-4&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-VonHippel2016&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Hippel, Eric von, and Georg von Krogh. 2016. “CROSSROADS—Identifying
+Viable ‘Need–Solution Pairs’: Problem Solving Without Problem
+Formulation.” &lt;em&gt;Organization Science&lt;/em&gt; 27 (1): 207–21.
+&lt;a href=&#34;https://doi.org/doi:10.1287/orsc.2015.1023&#34;&gt;https://doi.org/doi:10.1287/orsc.2015.1023&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-LeGlatin2017a&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Le Glatin, Mario, Pascal Le Masson, and Benoît Weil. 2017. “Generative
+action and preference reversal in exploratory project management.” &lt;em&gt;CERN
+IdeaSquare Journal of Experimental Innovation&lt;/em&gt; 1 (2): 39–46.
+&lt;a href=&#34;https://doi.org/10.5170/cij.2017.539&#34;&gt;https://doi.org/10.5170/cij.2017.539&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-LeMasson2018&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Le Masson, Pascal, Armand Hatchuel, Mario Le Glatin, and Benoit Weil.
+2018. “Designing Decisions in the Unknown: A Generative Model.”
+&lt;em&gt;European Management Review&lt;/em&gt;. &lt;a href=&#34;https://doi.org/10.1111/emre.12289&#34;&gt;https://doi.org/10.1111/emre.12289&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Lumineau2016&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Lumineau, Fabrice, and Alain Verbeke. 2016. “Let’s give opportunism the
+proper back seat.” &lt;em&gt;Academy of Management Review&lt;/em&gt; 41 (4): 739–41.
+&lt;a href=&#34;https://doi.org/10.5465/amr.2015.0410&#34;&gt;https://doi.org/10.5465/amr.2015.0410&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-March1991&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;March, James G. 1991. “Exploration and exploitation in organizational
+learning.” &lt;em&gt;Organization Science&lt;/em&gt; 2: 71–87.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-March2006&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;March, James G. 2006. “Rationality, foolishness, and adaptive
+intelligence.” &lt;em&gt;Strategic Management Journal&lt;/em&gt; 27 (3): 201–14.
+&lt;a href=&#34;https://doi.org/10.1002/smj.515&#34;&gt;https://doi.org/10.1002/smj.515&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Nguyen2015&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Nguyen, AM, J Yosinski, and J Clune. 2015. “Innovation engines:
+Automated creativity and improved stochastic optimization via deep
+learning.” &lt;em&gt;Proceedings of the 2015 on Genetic&lt;/em&gt;.
+&lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2754703&#34;&gt;http://dl.acm.org/citation.cfm?id=2754703&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Nonaka2016&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Nonaka, Ikujiro, Ayano Hirose, and Yusaku Takeda. 2016.
+“‘Meso’-Foundations of Dynamic Capabilities: Team-Level Synthesis and
+Distributed Leadership as the Source of Dynamic Creativity.” &lt;em&gt;Global
+Strategy Journal&lt;/em&gt; 6 (3): 168–82. &lt;a href=&#34;https://doi.org/10.1002/gsj.1125&#34;&gt;https://doi.org/10.1002/gsj.1125&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Oury1983&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Oury, Jean-Marc, and Christian Schmidt. 1983. &lt;em&gt;Economie politique de la
+vigilance&lt;/em&gt;. Paris: Calmann-Lévy.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Raiffa1968&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Raiffa, H. 1968. &lt;em&gt;Decision Analysis: Introductory Lectures on Choices
+Under Uncertainty&lt;/em&gt;. Mcgraw-Hill College.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Savage1954&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Savage, Leonard. 1954. &lt;em&gt;The foundations of statistics&lt;/em&gt;. 2. New York.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Sutcliffe2012&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Sutcliffe, Kathleen M., and Marlys K. Christianson. 2012. “Managing the
+Unexpected.” In &lt;em&gt;The Oxford Handbook of Positive Organizational
+Scholarship&lt;/em&gt;. &lt;a href=&#34;https://doi.org/10.1093/oxfordhb/9780199734610.013.0064&#34;&gt;https://doi.org/10.1093/oxfordhb/9780199734610.013.0064&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Wald1945a&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Wald, Abraham. 1945. “Statistical Decision Functions Which Minimize the
+Maximum Risk.” &lt;em&gt;The Annals of Mathematics&lt;/em&gt; 46 (2): 265.
+&lt;a href=&#34;https://doi.org/10.2307/1969022&#34;&gt;https://doi.org/10.2307/1969022&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Wald1949&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;———. 1949. “Statistical Decision Functions.” &lt;em&gt;Annals of Mathematical
+Statistics&lt;/em&gt; 20 (2): 165–205. &lt;a href=&#34;https://doi.org/10.1214/aoms/1177730030&#34;&gt;https://doi.org/10.1214/aoms/1177730030&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;It is considered as foundational for decision-theory, as (Savage
+
+&lt;a href=&#34;#ref-Savage1954&#34;&gt;1954&lt;/a&gt;) derived his model from it, as well as the
+management variant of (Raiffa 
+&lt;a href=&#34;#ref-Raiffa1968&#34;&gt;1968&lt;/a&gt;). In (Giocoli
+
+&lt;a href=&#34;#ref-Giocoli2013&#34;&gt;2013&lt;/a&gt;), the model’s trajectory over time is drawn
+showing the structuring role of Bayesian probability theory, as well
+as its diffusion in management education (Fourcade and Khurana
+
+&lt;a href=&#34;#ref-Fourcade2013&#34;&gt;2013&lt;/a&gt;). &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
     </item>
     
@@ -43,10 +1297,814 @@
       <link>https://mleglatin.github.io/phd/part4/chapter9/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://mleglatin.github.io/phd/part4/chapter9/</guid>
-      <description>&lt;div class=&#34;alert alert-warning&#34;&gt;
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The more any quantitative social indicator is used for social
+decision-making, the more subject it will be to corruption pressures and
+the more apt it will be to distort and corrupt the social processes it
+is intended to monitor.&lt;/em&gt; (Campbell 
+&lt;a href=&#34;#ref-Campbell1979&#34;&gt;1979&lt;/a&gt;, 85)
+&lt;strong&gt;Donald T. Campbell&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In this second modelling chapter, we have to fill in the gaps for the
+model requirements we have defined for ourselves at the end of the
+
+&lt;a href=&#34;https://mleglatin.github.io/phd/part3/chapter6/&#34;&gt;anomaly detection chapter&lt;/a&gt;. The definition and specification of decisional ambidexterity in
+the previous chapter addressed some of the descriptors used earlier in
+our methodological approach. The organizational dimension was not fully
+discussed as we have mainly stressed the decision-designing to revisit
+the mutual conditioning between exploration and exploitation in order to
+start anew with organizational ambidexterity.&lt;/p&gt;
+&lt;p&gt;Recalling our review on project based management, interactionism and
+organization design, we will build upon limitations previously
+identified to complete our decisional ambidexterity model.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Work in progress&amp;hellip;
+    First, we discuss the question of simultaneity where (exploration)
+project management should consider also the change management (Pollack
+&lt;a href=&#34;#ref-Pollack2017&#34;&gt;2017&lt;/a&gt;; Hornstein &lt;a href=&#34;#ref-Hornstein2015&#34;&gt;2015&lt;/a&gt;). It will
+enable us to take into account the mirroring hypothesis (Colfer and
+Baldwin &lt;a href=&#34;#ref-Colfer2016&#34;&gt;2016&lt;/a&gt;) and its dynamics as fixation effects
+and interdependencies are seen in engineering design and organizational
+dimensions. Second, we will come back to concept organizational
+metabolism (Hatchuel, Weil, and Le Masson &lt;a href=&#34;#ref-Hatchuel2006&#34;&gt;2006&lt;/a&gt;;
+Segrestin et al. &lt;a href=&#34;#ref-Segrestin2017&#34;&gt;2017&lt;/a&gt;) allowing overcoming the
+iterations of traditional double bind of structure and processes.
   &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;beyond-dichotomy-simultaneity&#34;&gt;Beyond dichotomy: simultaneity&lt;/h2&gt;
+&lt;p&gt;The different cases presented in the anomaly detection chapter revealed
+several tensions associated with the encapsulation of generative
+processes and their potential free-floating across organizations (Lenfle
+
+&lt;a href=&#34;#ref-Lenfle2016&#34;&gt;2016&lt;/a&gt;). Decisional ambidexterity allows focusing on
+the micro-foundations of exploration/exploitation dichotomy: revisiting
+the decision-making by considering decision-design permits touching upon
+one of the key aspects of coordination and collective action organizing
+for innovation. The way action is engaged, the way decisions are made,
+and the way organization members network (Christiansen and Varnes
+
+&lt;a href=&#34;#ref-Christiansen2007&#34;&gt;2007&lt;/a&gt;) can be captured through the
+decision-design in the C-K formalism.&lt;/p&gt;
+&lt;p&gt;The transformation, due to exploration, or the one faced in exploitation
+because of the unexpected, can imply an active role for
+decision-designers as they play on states of nature, the degrees of
+beliefs and the cost functions will be redefined. Consequently, at the
+project management level depending on the framing imposed to the
+decision-design and the underlying engineering brief, the
+interdependencies can be controlled or even avoided depending on the
+aimed independence level. The latter will contribute to the innovation
+potential of attraction at the organizational level: how business units
+will host, support, redesign their organizations or recombine their
+capabilities for such projects. As we remember, we are not interested in
+spin-off and other ad-hoc phenomena, we want the organization to
+regenerate itself &amp;ldquo;within its boundaries&amp;rdquo; by relying on its
+organizational metabolism.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    We start discussing the implications of decisional ambidexterity for
+project management, as it will design decisions at the project level
+that can quickly address several interdependencies reaching out for
+permanent organizations. Then, the mirroring hypothesis gives an idea of
+the relationships behind revisited design rules and interdependencies
+and their organization. Modularity/genericity is an answer corresponding
+to one decision category but doesn’t allow getting a full picture.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;project-management-product-or-organizational-change&#34;&gt;Project management: product or organizational change?&lt;/h3&gt;
+&lt;h4 id=&#34;uncertaintyunknown-buffer-to-manage-the-ecosystem-relationship&#34;&gt;Uncertainty/Unknown buffer to manage the ecosystem relationship&lt;/h4&gt;
+&lt;p&gt;We had specified that the project-based organization was probably an
+efficient way of organizing the firm to face uncertainties. Projects can
+be seen as uncertainty buffers (Davies, Manning, and Söderlund
+
+&lt;a href=&#34;#ref-Davies2018&#34;&gt;2018&lt;/a&gt;, 971):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;integrate cross-functional resources and knowledge to cope with high
+uncertainty, complexity and change&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;However, we remember that when pushing this form into the unknown
+reveals several difficulties that are exacerbated in cases where the
+organization’s identity and boundaries are tied by market rigidities
+tightly linked to product engineering. Zodiac Aerospace is a proper
+example of such pattern.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The Icing Conditions Detection case was a vehicle to shape the unknown,
+an example of decisional ambidexterity, by playing on preferences’ order
+to value the unknown and manage the ecosystem. It built its own autonomy
+through public funding and legitimation with key industrial players. It
+allowed more flexibility compared to a traditional exploration that
+would have been fully hosted by an engineering or product development
+department with a functional form. Just like in the two other cases
+analysed previously, the projects were sponsored by middle and top
+management, sometimes even having a key isolated position from other
+routines. It gives freedom to operate.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The relationship to the environment and the ways projects engage with it
+relocates organizational adaptation and learning at the project level in
+a temporary organization, whereas organizational ambidexterity would
+have a tendency to materialise it in a permanent organization.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    In a sense, enforcing institutionalization (O’Connor
+&lt;a href=&#34;#ref-OConnor2016&#34;&gt;2016&lt;/a&gt;) of innovation function or organizational
+ambidexterity could be dangerous for the firm’s cohesion and coherent
+action. Specially, if it is not sustained by clear managerial action and
+engineering at the project level that clearly embeds the change
+management and adaptation to the environment. Decisional ambidexterity
+allows then reconciliating this change of locus.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4 id=&#34;a-vehicle-for-change-which-manageable-parameters&#34;&gt;A vehicle for change: which manageable parameters?&lt;/h4&gt;
+&lt;p&gt;The necessity of change appears as the interdependencies have shifted
+(Stan and Puranam 
+&lt;a href=&#34;#ref-Stan2017&#34;&gt;2017&lt;/a&gt;). It is deep down what makes
+management a reality. Organizing collective action is necessary only at
+the wake of novelty forcing a transformational experience.
+If the project brings some novelty through decisional ambidexterity it
+will rely on existing interdependencies (exploitation) to generate new
+alternatives. The mutual conditioning is required to surface and manage
+interdependencies.&lt;/p&gt;
+&lt;p&gt;When discussing the interface between design and manufacturing
+activities in (Adler 
+&lt;a href=&#34;#ref-Adler1995&#34;&gt;1995&lt;/a&gt;), the author targets the
+cruciality of coordination mechanisms around interdependencies defined
+by the new product development. Mutual adjustment and interaction models
+will vary depending on the analysability of product/process fit. It is
+key to be able to reflect the organizational change required for the
+engineering interdependencies as they will be directly used as
+springboards to articulate the mutual conditioning between exploration
+and exploitation.&lt;/p&gt;
+&lt;p&gt;As new decisions are designed along projects trajectories, they can
+phase out compared to established organizations. It forces to conform
+the project to the host and permanent organization. It can even
+(implicitly) consider that the host or integrating BU would not change.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the Design Thinking projects, as well as the BC seat platform, when
+transferring the designed products and made decisions, they faced the
+exploitation regime in permanent organizations with established
+engineering design rules. The learning and organizational change was not
+on the menu of the project nor handover with the redesign of
+decision-making.&lt;/p&gt;
+&lt;p&gt;For instance, ADT did try to refine designs, but it was rather an
+optimization effort instead of playing on states of nature to envision
+the required change in engineering constraints, product interfaces,
+standards, regulations, market segmentation, business models, etc. For
+the seat platform, the learning and design rules evolution came after
+relying on late and repeated mechanical tests which confirmed previously
+discussed but underestimated numerical simulations.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    In order to embed the organizational change management within project
+management (Pollack &lt;a href=&#34;#ref-Pollack2017&#34;&gt;2017&lt;/a&gt;; Hornstein
+&lt;a href=&#34;#ref-Hornstein2015&#34;&gt;2015&lt;/a&gt;), we must then clarify how the engineering
+interdependencies and fixation effects are dealt with at the
+organizational level. In (Stjerne and Svejenova
+&lt;a href=&#34;#ref-Stjerne2016&#34;&gt;2016&lt;/a&gt;), the work at the boundaries of temporary
+organizations lets overcoming the dialectics of temporary and permanent
+organizing. It brings a multi-level perspective we propose to channel
+through decision design: decisional ambidexterity.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;mirroring-hypothesis-a-static-view&#34;&gt;Mirroring hypothesis: a static view&lt;/h3&gt;
+&lt;p&gt;We had identified in the literature the mirroring hypothesis (Colfer and
+Baldwin 
+&lt;a href=&#34;#ref-Colfer2016&#34;&gt;2016&lt;/a&gt;). We could a priori use decisional
+ambidexterity in exploration project management that considers existing
+product design architecture as a starting point. It would involve a
+number of design rules reflecting the managerial technology. Behind the
+scenes, sensemaking interprets and adapts to make actual practice
+(Christiansen and Varnes 
+&lt;a href=&#34;#ref-Christiansen2009&#34;&gt;2009&lt;/a&gt;) giving some
+flexibility to the rules. So the (partial) mirroring is obtained through
+established technologies of organizing which can have different levels
+of independence, hence clustering the sub-organizations for product
+sub-systems.&lt;/p&gt;
+&lt;h4 id=&#34;modularity&#34;&gt;Modularity&lt;/h4&gt;
+&lt;p&gt;Modularity and loosed coupling (Sanchez and Mahoney
+
+&lt;a href=&#34;#ref-Sanchez1996&#34;&gt;1996&lt;/a&gt;) can then be the purpose of decision-design in
+order to be able to adapt easily and reached strategic flexibility.
+Instead of being seen as an adaptation to the environment turbulences,
+it could also be actively co-designed from the product engineering
+perspective. Having such approach to modularity could also be envisioned
+temporarily before reintegration (Siggelkow and Levinthal
+
+&lt;a href=&#34;#ref-Siggelkow2003&#34;&gt;2003&lt;/a&gt;).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the BC seat platform project, the aim was to define an architecture
+and organize modularity. However, such effort was not reached and
+practices of exploitation took over. The existing interdependencies as
+well as evolving standards with the modularity choices taken were not
+made clear to stakeholders to redefine its mirroring.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Platform engineering, or designing a &lt;em&gt;wishful decision by genericity&lt;/em&gt;,
+is an exploration effort as per which exploitation constraints and
+parameters can be built upon to define new design rules, and
+consequently organize engineering departments, manufacturing as well as
+supply chain.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Therefore, in the knowledge space defined in our C-K modelling of
+decisional ambidexterity, it would be useful to add the organizational
+partial mirroring of interdependencies as these will require to be
+transformed due to the product engineering practice. These are decision
+parameters that can be resurfaced and explicitly related to organization
+design.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4 id=&#34;stress-testing-absorbing-uncertaintyunknown&#34;&gt;Stress testing: absorbing uncertainty/unknown?&lt;/h4&gt;
+&lt;p&gt;The perspective of modularity and genericity, which is one of the
+decisions $d^{gen}$ in our model, brings the possibility of managing
+double unknown situations (Kokshagina et al.
+
+&lt;a href=&#34;#ref-Kokshagina2016a&#34;&gt;2016&lt;/a&gt;) specially through adapted portfolio
+management. In a similar way, (Hooge et al. 
+&lt;a href=&#34;#ref-Hooge2014&#34;&gt;2014&lt;/a&gt;), and
+closer to our concern for decision-design, they showcase the anomaly of
+willing designing a generic technology to bridge a gap between distant
+fields and technologies, by opposition to the common evolutionary
+strategies. Difficulties are raised regarding the sophisticated
+organizational patterns, and capacity to reuse and connect existing
+technologies.&lt;/p&gt;
+&lt;p&gt;Consequently, when considering how the mirroring of interdependencies
+enacted by members of the organization, the knowledge mobilised in
+decision-design will require a precise understanding of the levels of
+independence between elements, boundaries and purpose of each group of
+other decision-designers involved.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Genericity and modularity will allow absorbing uncertainty quite easily,
+but once the unknown slips through sub-systems, their
+inter-relationships are heavily discussed. Decisional-ambidexterity
+should then be able to specify and support these dynamics. In that
+sense, the mirroring hypothesis is too static and perhaps only looking
+at robustness and adaptive flexibility as the unknown is usually seen as
+exogenous.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;endogenizing-the-unknown-dynamically-designing-projects-and-organizations&#34;&gt;Endogenizing the unknown: dynamically designing projects and organizations&lt;/h2&gt;
+&lt;p&gt;Decisional ambidexterity encourages then to fully endogenize the unknown
+into project management to address how it can be shaped into
+organizations through the dynamics of interdependencies mirroring
+exploitation product engineering.&lt;/p&gt;
+&lt;p&gt;We then propose to make organization design part of the decision-design
+model with underlying interdependencies and fixation effects. It will
+help specifying the nature of decisions covering contingencies that may
+lie in the intricacies of interdependencies. These should effectively be
+redesigned depending on the generativity of processes used to propose
+new alternatives. The latter being one of the issues at stake revealed
+by the biases induced by organizational ambidexterity and its model of
+non-mutual conditioning against innovation initiatives.&lt;/p&gt;
+&lt;p&gt;The model of &lt;strong&gt;decisional ambidexterity&lt;/strong&gt; for mutual conditioning
+between exploration and exploitation focuses now on decision-designing
+as well as organization. Consequently, this &lt;strong&gt;technology of organizing&lt;/strong&gt;
+that simultaneously aims at supporting innovation project management and
+change management, will spread out and ripple through established
+processes and structures and hence contributing to the &lt;strong&gt;metabolism of
+an innovative organization&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    We first discuss organization design in the unknown and how to overcome
+organization design fixations. Generative learning sustained through
+decision design can support disentanglement of interdependencies and
+fixations. Then, we introduce the necessity to overtake the duality of
+structure and processes. We focus on how decisional ambidexterity can
+sustain organizational metabolism.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;organization-design-in-the-unknown-and-against-organizational-fixation&#34;&gt;Organization design in the unknown and against organizational fixation&lt;/h3&gt;
+&lt;p&gt;Organization design requires to be thought differently at the light of
+decisional ambidexterity, as we force to bring the unknown and its
+management at the level of projects and interactions around
+decision-making, now decision-designing. The potential of transformation
+and attraction, channelled through extended decision spaces, gives a new
+flavour to the organization design features specially for
+interdependencies and fixations effects.&lt;/p&gt;
+&lt;h4 id=&#34;the-unknown-organization-design&#34;&gt;The unknown organization design&lt;/h4&gt;
+&lt;p&gt;The difficulty for standard organization design is when considering
+unknown information of unknown value, as the necessity to establish
+relationships between agents is hard to justify (Puranam, Raveendran,
+and Knudsen 
+&lt;a href=&#34;#ref-Puranam2012a&#34;&gt;2012&lt;/a&gt;). And it is not only by having
+people together that they will be able to solve new problems, let aside
+formulating new problems themselves. When trying to foresee the future
+of organization design when facing the unknown, the importance of having
+a new method for normative field becomes critical (Puranam
+
+&lt;a href=&#34;#ref-Puranam2012&#34;&gt;2012&lt;/a&gt;). The methodology developed over several
+decades in design theory and reasoning can fortuitously support such
+initiative.&lt;/p&gt;
+&lt;p&gt;By considering the importance of action, interaction and decision in
+organizations, we can centralize such key phenomena into organization
+design. The contributions of (silent) decision-designers continuously
+referring to exploitation will help valuing exploration and vice-versa.
+The multiple interactions required to make sense of decisions, product
+design and engineering design rules become quite attractive for
+organizational studies.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;For the Design Thinking projects, concepts wouldn’t fit BUs or even
+multi-BU prospects. Engineering rules had to change, product lines and
+BUs respective boundaries were contested through the designed and
+selected concepts by ADT, group VP of Strategy and Business Development,
+and during multi-BU workshops. The confrontation and adaptation would
+only rely on a separation of exploration/exploitation regimes.
+Generative processes were guided by product design objectives, as well
+as environment perspectives (user value and empathy) but failed to
+address the potential organization redesign.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Placing the unknown right at the centre of organization design can
+probably overcome caveats of simple solutions or adjustments that only
+have a concern for: balance of hierarchical control, individual autonomy
+and spontaneous cooperation (Keidel 
+&lt;a href=&#34;#ref-Keidel1994&#34;&gt;1994&lt;/a&gt;). A
+&lt;strong&gt;technology of organizing&lt;/strong&gt; could then substantiate the &lt;em&gt;generative
+learning&lt;/em&gt; (Senge 
+&lt;a href=&#34;#ref-Senge1990&#34;&gt;1990&lt;/a&gt;) by deriving from the decisional
+ambidexterity model. Such device could help have a better understanding
+of required organization design and its &lt;em&gt;generative fit&lt;/em&gt; (Avital and
+Te’eni 
+&lt;a href=&#34;#ref-Avital2009&#34;&gt;2009&lt;/a&gt;; Van de Ven, Ganco, and Hinings
+
+&lt;a href=&#34;#ref-VandeVen2013&#34;&gt;2013&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Learning can then be overseen in our model as it will have to be
+challenged as interdependencies will be unlocked, reinforced or
+reconfigured depending on how the decision-designers explore
+exploitation and exploit exploration.&lt;/p&gt;
+&lt;h4 id=&#34;managing-interdependencies-and-organization-fixation-effects&#34;&gt;Managing interdependencies and organization fixation effects&lt;/h4&gt;
+&lt;p&gt;In the context of meta-organizations (Gulati, Puranam, and Tushman
+
+&lt;a href=&#34;#ref-Gulati2012&#34;&gt;2012&lt;/a&gt;) and also open-innovation, rethinking of
+organization design can not be seen as fully transposed to problem/task
+decomposition by leadership (Lakhani, Lifshitz-Assaf, and Tushman
+
+&lt;a href=&#34;#ref-Lakhani2013&#34;&gt;2013&lt;/a&gt;). We have seen that the identity of
+organization can be so strong due to engineering and regulations, that
+problem formulation in exploration project management can escape from
+the attraction of organization competence. So, trying to keeping it
+together, and build new coherence through the transformation triggered
+by design activities, requires to shift the locus of change down to the
+micro-level of interdependencies and fixation effects.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the Icing Conditions detection, the BU manager ended up having a
+valuable exploration project recognized in the industrial ecosystem but
+at odds with the organization. Again, we have a case where the
+exploration was driven by several expansive decisions changing the game
+but the interdependencies with systems engineering mastered with the
+business have to be reworked. The transferred unfinished but flight
+tested product should be seen as a learning device rather than fit for
+development.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Fixation effects could be associated to the state-of-art in product
+development, and the gradual convergence towards a common consensus,
+which may be biased.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The constitution of new path will have to emerge through the
+interactions created by discussing the value of designed decisions and
+concepts anchored to dominant design. These interactions will support
+the organization change that is required to support new business
+development (Simon and Tellier &lt;a href=&#34;#ref-Simon2018&#34;&gt;2018&lt;/a&gt;): resources and
+development of capabilities mobilized around a project. It confirms the
+networking dimension that can be organized around alleged decision
+meetings (Christiansen and Varnes &lt;a href=&#34;#ref-Christiansen2007&#34;&gt;2007&lt;/a&gt;).
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;sustaining-metabolisms-regenerating-the-organization&#34;&gt;Sustaining metabolisms: regenerating the organization&lt;/h3&gt;
+&lt;p&gt;As discussed in the anomalies specification (chapter
+&lt;a href=&#34;#chap:anomalies_spec&#34; data-reference-type=&#34;ref&#34; data-reference=&#34;chap:anomalies_spec&#34;&gt;[chap:anomalies_spec]&lt;/a&gt;),
+embedding change management within project management calls for
+phenomena rippling across structures and processes, as we propose to do
+with centrality of action, decision and design for organizing. The
+biological metaphor of metabolisms allows targeting &amp;ldquo;processes&amp;rdquo; that are
+tied by the double bind of structure and processes. It puts the emphasis
+on the &lt;em&gt;actionable knowledge&lt;/em&gt; and relationships (Segrestin et al.
+
+&lt;a href=&#34;#ref-Segrestin2017&#34;&gt;2017&lt;/a&gt;), instead of separating management of
+structure and process. The constructs of regenerative capabilities and
+recombination of routines in organization can be then further
+substantiated with decisional ambidexterity and organizational
+metabolism.&lt;/p&gt;
+&lt;h4 id=&#34;regenerative-dynamic-capabilities&#34;&gt;Regenerative dynamic capabilities&lt;/h4&gt;
+&lt;p&gt;The difficulty associated with the innovation function distributed
+across projects (Gemünden, Lehner, and Kock 
+&lt;a href=&#34;#ref-Gemunden2018&#34;&gt;2018&lt;/a&gt;)
+goes to the distributed nature of capabilities. Making the sum won’t be
+representative of the overall capabilities available in underlying host
+functional departments. However, by considering they will be organizing
+their trajectory around decision-design with supplying departments,
+other business units, as well as external players, can create a pivotal
+force for stakeholders to understand in which direction change should
+occur.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;For the BC seat platform project, in the early stages of defining the
+extent and features of genericity, several stakeholders took part in
+designing concepts, even marginally, but also to designing what had to
+be decided. The sense made out of those meetings, and its contribution
+to generating alternatives, represents a capability to regenerate seat
+engineering. Unfortunately, a similar effort was not sustained when
+switching from exploration to exploitation due to a strong divide
+enforced by ambidexterity.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As teams and organization will cope with these different temporalities,
+first locally at the project level, and then at the program level (Simon
+and Tellier 
+&lt;a href=&#34;#ref-Simon2016&#34;&gt;2016&lt;/a&gt;), it gives us confidence on the value
+of our model. Temporary-organizing will reach a meta-equilibrium during
+when designing-decisions, as they make sense and rethink the new
+coordination mechanisms supporting the new product development. We
+contribute then to the idea of having regenerative capabilities
+(Ambrosini, Bowman, and Collier 
+&lt;a href=&#34;#ref-Ambrosini2009&#34;&gt;2009&lt;/a&gt;, S15)
+supported by decisional ambidexterity.&lt;/p&gt;
+&lt;h4 id=&#34;recombining-routines&#34;&gt;Recombining routines&lt;/h4&gt;
+&lt;p&gt;In a similar way, the idea of recombining routines (Cohendet and Simon
+
+&lt;a href=&#34;#ref-Cohendet2016&#34;&gt;2016&lt;/a&gt;) fostered by a single project, can be the
+occasion to rethink product design rules that have been fixated for some
+time. In their case, they specify the importance of meetings held,
+prototypes and proof of concepts that were tailored and managed by
+project manager to make a case for a radical product concept, at odds
+with exploitation regime. Resurfacing interdependencies and design
+fixation with such practices can be a means to make tacit the designing
+of decisions and learning mechanisms that can be mapped with C-K theory
+as we did in the previous chapter.&lt;/p&gt;
+&lt;p&gt;What is also stimulating here is that, innovation management does
+necessarily have to supported by additional routines. Within a set of
+routines, they can be reconfigured to create &lt;em&gt;more&lt;/em&gt; value, as if the
+scales and units changed in nature. It is what we tried to picture with
+the Pareto front and reaching out for alternatives (see
+p.&lt;a href=&#34;#fig:explorationregimesb&#34; data-reference-type=&#34;ref&#34; data-reference=&#34;fig:explorationregimesb&#34;&gt;[fig:explorationregimesb]&lt;/a&gt;).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In Design Thinking cases, some concepts actually implied recombining
+routines across business units who were traditionally segregated by the
+market and engineering standards. Focusing on the product and design
+rules would only force adaptation, whereas the obstacle was rather on
+elevating interactions on the how and its legitimacy for users, but also
+the remaining effort: change in sales pitch, market channel, one-time
+qualification, evolving standards and certification forms, etc.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Finally, it would be such contextuality that could be associated with
+contextual ambidexterity but detailed in its interaction modes
+(Birkinshaw and Gupta 
+&lt;a href=&#34;#ref-Birkinshaw2013&#34;&gt;2013&lt;/a&gt;). It would now make
+more sense with the limitations on the nature and dichotomy of
+exploration/exploitation regimes discussed in the very same paper and in
+(Gupta, Smith, and Shalley 
+&lt;a href=&#34;#ref-Gupta2006&#34;&gt;2006&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;The networking effect (Christiansen and Varnes
+
+&lt;a href=&#34;#ref-Christiansen2007&#34;&gt;2007&lt;/a&gt;) can easily be structured around the
+dialogue interdependent and fixation knots. It encourages channelling
+the access to (distant) knowledge, legitimize the mutual conditioning
+between exploration and exploitation (Simon and Tellier
+
+&lt;a href=&#34;#ref-Simon2011a&#34;&gt;2011&lt;/a&gt;). But here again, we insist on the technology of
+organizing collective action through decisional ambidexterity
+facilitating the grounding of such interactive patterns.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    So far, we have proposed then to embed the organization design within
+our decisional ambidexterity. We have emphasized the need to organize
+the decision-design around exploitation constraints such as
+interdependencies and fixation effects, not only at the product
+engineering level, but also at the organizational level. Routines and
+capabilities can be articulated around the designed decision to sustain
+the &lt;em&gt;metabolism&lt;/em&gt; triggered by associated concepts. These elements
+contribute to making its &lt;em&gt;innovation potential of attraction&lt;/em&gt; dragging
+along not only a cognitive fit, but also an organizational generative
+fit.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;full-model-synthesis&#34;&gt;Full model synthesis&lt;/h3&gt;
+&lt;p&gt;We have then specified the interest of having organization design
+embedded in the designing of decisions, by considering that
+organizations are part of the knowledge required to enact decision
+concepts. Consequently, we propose simply to represent in the C-K
+formalism what makes decision and its hypotheses with organizational
+ties and mirroring: interdependencies and fixation effects. They are the
+translation at the organizational level that can be easily disturbed by
+generative processes: i.e. where tension and anomalies come from between
+models of ambidexterity and exploration project management. In other
+words, we insist once again on the link between actionable knowledge and
+relationships, and how it can metabolize innovation in the organization
+with its structure and processes.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-decisional-ambidexterity-decision-designing-and-organization-design&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://mleglatin.github.io/img/modelADMb.png&#34; data-caption=&#34;Decisional ambidexterity: decision-designing and organization design&#34;&gt;
+
+
+  &lt;img src=&#34;https://mleglatin.github.io/img/modelADMb.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Decisional ambidexterity: decision-designing and organization design
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Listing the engineering design fixations, interdependencies and built-in
+product architecture, will help addressing the regenerative dynamic
+capabilities and recombination of routines required to manage the
+organizational metabolism. The change management will then be steered
+through the inter-relationships bearing generative learning triggered by
+the collective decision-designing. It is again the mutual conditioning
+of exploration and exploitation which allows simply measuring change.
+In the following table
+&lt;a href=&#34;#table:modelADMtabfull&#34; data-reference-type=&#34;ref&#34; data-reference=&#34;table:modelADMtabfull&#34;&gt;[table:modelADMtabfull]&lt;/a&gt;,
+we can complete the model synthesis with the descriptors derived from
+previous literature review. We remember the synthetic literature model
+of non-mutual conditioning enabling its comparison with
+decisional-ambidexterity model which blends the conditioning between
+exploration and exploitation. It allows overcoming biases induced by
+organization ambidexterity and its limitations such as neglect of
+organization design fixations revealed by exploration project
+management.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Model descriptors&lt;/th&gt;
+&lt;th&gt;Non-mutual conditioning&lt;/th&gt;
+&lt;th&gt;Mutual conditioning extended model&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Model of coordination and collective action&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;1. Not necessarily on the same continuum, exploration and exploitation call for two dissociate action regimes. &lt;br&gt;2.Balancing is left as a paradox at different levels of analysis: structure (centralization, distribution), time and individuals.&lt;/td&gt;
+&lt;td&gt;1. Exploration and exploitation are mutually used to support extended decision-making. &lt;br&gt;2. The balancing paradox is dealt by design operators valuing mutual benefits of exploration and exploitation. Decision-designers interactively unlock and manage (new) interdependencies and (organizational) design fixations. A form of governance may be required to orchestrate and sustain such practice.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Generative processes&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;3. The nature of generative processes supporting exploration appears quite free, random and sometimes even foolishness-based. &lt;br&gt;4. Generativity of the product development may not be sustained by (temporary) organizations (floating issue).&lt;br&gt;5. The performance and reference is light structured: reduced to a selection issue or sometimes to complex interactionist phenomenon.&lt;/td&gt;
+&lt;td&gt;3. Generative processes target the exploration/exploitation bone of contention and associated decision-making.&lt;br&gt;4. Generativity is articulated around design fixations and interdependencies for better interactive value management with other (silent) decision-designer.&lt;br&gt;5. Performance is repositioned on the transformative feature of decision-design where its criteria are redefined. Managing the organizational mirroring of interdependencies and fixations is part of the performance assessment.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Environment cognition&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;6. One-way interaction: Environment to Organization.&lt;br&gt;7. The environment structures the response, nature and distribution of generative processes.&lt;br&gt;8. The environment is used to augment the product development requirements.&lt;/td&gt;
+&lt;td&gt;6. The environment is managed through the design of decision to realize designed states of nature.&lt;br&gt;7. The decision-design addresses environment-induced fixations.&lt;br&gt;8. The environment awareness developed through decision-design targets also (potential) interdependencies, future exploitation features, and organization design fixations induced by environment.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Organization design&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;9. Organization design is pre-conceived or uncontrolled. &lt;br&gt;10. Organization design creates gaps for managing generative processes and the dynamics of their organizational ties.&lt;/td&gt;
+&lt;td&gt;9. Organization design is simultaneously managed with decision-design in project management as it has explored exploitation interdependencies and fixations.&lt;br&gt;10. Relationships and actionable knowledge are concurrently managed through decisional-ambidexterity thus embedding the organizational change management.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;chapter-synthesis-decisional-ambidexterity-and-organization-design&#34;&gt;Chapter synthesis: decisional ambidexterity and organization design&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This chapter has extended the first version of decisional ambidexterity
+model with our concern for organization design and change management. We
+are then able to satisfy the requirements defined in &lt;a href=&#34;https://mleglatin.github.io/phd/part3/chapter7/&#34;&gt;chapter 7&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We re-use the idea of simultaneity of change management with project
+management (Pollack &lt;a href=&#34;#ref-Pollack2017&#34;&gt;2017&lt;/a&gt;) to endogenize the unknown
+further with decision-design perspective. Organization design and
+regenerating capabilities were included as knowledge elements required
+to generate new decision concepts and enabling the organization of
+collective action supporting them. We can then manage a metabolism
+sustaining innovation effort through organizational change. Our model
+should be considered as basis for &lt;strong&gt;technology of organizing&lt;/strong&gt; to
+orchestrate and channel interactions for decision-designers contribution
+to exploration project management and dynamically mirrored
+organizational change.&lt;/p&gt;
+&lt;p&gt;The anomalies were discussed at the light of decisional ambidexterity.
+The case studies reveal several features of decisional ambidexterity and
+why they were misunderstood given models of ambidexterity.&lt;/p&gt;
+&lt;p&gt;Consequently, we have a full model of mutual conditioning between
+exploration and exploitation capable of explaining the descriptors
+reconciling with the identified literature models’ limitations: model of
+coordination and collective action, and the innovation potential of
+attraction (generative processes, environment cognition, organization
+design).&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;div id=&#34;refs&#34; class=&#34;references hanging-indent&#34; markdown=&#34;1&#34;&gt;
+&lt;div id=&#34;ref-Adler1995&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Adler, Paul S. 1995. “Interdepartmental Interdependence and
+Coordination: The Case of the Design/Manufacturing Interface.”
+&lt;em&gt;Organization Science&lt;/em&gt; 6 (2): 147–67.
+&lt;a href=&#34;https://doi.org/10.1287/orsc.6.2.147&#34;&gt;https://doi.org/10.1287/orsc.6.2.147&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Ambrosini2009&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Ambrosini, Véronique, Cliff Bowman, and Nardine Collier. 2009. “Dynamic
+Capabilities: An Exploration of How Firms Renew their Resource Base.”
+&lt;em&gt;British Journal of Management&lt;/em&gt; 20 (SUPP. 1): S9–S24.
+&lt;a href=&#34;https://doi.org/10.1111/j.1467-8551.2008.00610.x&#34;&gt;https://doi.org/10.1111/j.1467-8551.2008.00610.x&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Avital2009&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Avital, Michel, and Dov Te’eni. 2009. “From generative fit to generative
+capacity: exploring an emerging dimension of information systems design
+and task performance.” &lt;em&gt;Information Systems Journal&lt;/em&gt; 19 (4): 345–67.
+&lt;a href=&#34;https://doi.org/10.1111/j.1365-2575.2007.00291.x&#34;&gt;https://doi.org/10.1111/j.1365-2575.2007.00291.x&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Birkinshaw2013&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Birkinshaw, Julian, and Kamini Gupta. 2013. “Clarifying the distinctive
+contribution of ambidexterity to the field of organization studies.”
+&lt;em&gt;The Academy of Management Perspectives&lt;/em&gt; 27 (4): 287–98.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Campbell1979&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Campbell, Donald T. 1979. “Assessing the impact of planned social
+change.” &lt;em&gt;Evaluation and Program Planning&lt;/em&gt; 2 (1): 67–90.
+&lt;a href=&#34;https://doi.org/10.1016/0149-7189(79)90048-X&#34;&gt;https://doi.org/10.1016/0149-7189(79)90048-X&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Christiansen2007&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Christiansen, John K., and Claus J. Varnes. 2007. “Making decisions on
+innovation: Meetings or networks?” &lt;em&gt;Creativity and Innovation
+Management&lt;/em&gt; 16 (3): 282–98.
+&lt;a href=&#34;https://doi.org/10.1111/j.1467-8691.2007.00441.x&#34;&gt;https://doi.org/10.1111/j.1467-8691.2007.00441.x&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Christiansen2009&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;———. 2009. “Formal rules in product development: Sensemaking of
+structured approaches.” &lt;em&gt;Journal of Product Innovation Management&lt;/em&gt; 26
+(5): 502–19. &lt;a href=&#34;https://doi.org/10.1111/j.1540-5885.2009.00677.x&#34;&gt;https://doi.org/10.1111/j.1540-5885.2009.00677.x&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Cohendet2016&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Cohendet, Patrick, and Laurent Simon. 2016. “Always Playable:
+Recombining Routines for Creative Efficiency at Ubisoft Montreal’s Video
+Game Studio.” &lt;em&gt;Organization Science&lt;/em&gt; 27 (3): 614–32.
+&lt;a href=&#34;https://doi.org/10.1287/orsc.2016.1062&#34;&gt;https://doi.org/10.1287/orsc.2016.1062&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Colfer2016&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Colfer, Lyra J., and Carliss Y. Baldwin. 2016. “The mirroring
+hypothesis: Theory, evidence, and exceptions.” &lt;em&gt;Industrial and Corporate
+Change&lt;/em&gt; 25 (5): 709–38. &lt;a href=&#34;https://doi.org/10.1093/icc/dtw027&#34;&gt;https://doi.org/10.1093/icc/dtw027&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Davies2018&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Davies, Andrew, Stephan Manning, and Jonas Söderlund. 2018. “When
+neighboring disciplines fail to learn from each other: The case of
+innovation and project management research.” &lt;em&gt;Research Policy&lt;/em&gt; 47 (5):
+965–79. &lt;a href=&#34;https://doi.org/10.1016/j.respol.2018.03.002&#34;&gt;https://doi.org/10.1016/j.respol.2018.03.002&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Gemunden2018&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Gemünden, Hans Georg, Patrick Lehner, and Alexander Kock. 2018. “The
+project-oriented organization and its contribution to innovation.”
+&lt;em&gt;International Journal of Project Management&lt;/em&gt; 36 (1): 147–60.
+&lt;a href=&#34;https://doi.org/10.1016/j.ijproman.2017.07.009&#34;&gt;https://doi.org/10.1016/j.ijproman.2017.07.009&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Gulati2012&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Gulati, Ranjay, Phanish Puranam, and Michael Tushman. 2012.
+“Meta-organization design: Rethinking design in interorganizational and
+community contexts.” &lt;em&gt;Strategic Management Journal&lt;/em&gt; 33 (6): 571–86.
+&lt;a href=&#34;https://doi.org/10.1002/smj.1975&#34;&gt;https://doi.org/10.1002/smj.1975&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Gupta2006&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Gupta, Anil K, Ken G Smith, and Christina E Shalley. 2006. “The
+Interplay Between Exploration and Exploitation.” &lt;em&gt;Academy of Management
+Journal&lt;/em&gt; 49 (4): 693–706. &lt;a href=&#34;https://doi.org/10.5465/amj.2006.22083026&#34;&gt;https://doi.org/10.5465/amj.2006.22083026&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Hatchuel2006&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Hatchuel, Armand, Benoît Weil, and Pascal Le Masson. 2006. “Building
+innovation capabilities. The development of design-oriented
+organizations.” In &lt;em&gt;Innovation, Learning and Macro Institutional Change:
+Patterns of Knowledge Changes&lt;/em&gt;, edited by J T Hage, 1–26. Oxford,
+England: Oxford University Press.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Hooge2014&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Hooge, Sophie, Olga Kokshagina, Pascal Le Masson, Kevin Levillain,
+Benoit Weil, Vincent Fabreguettes, and Nathalie Popiolek. 2014.
+“Designing generic technologies in Energy Research: learning from two
+CEA technologies for double unknown management.” In &lt;em&gt;European Academy of
+Management - Euram 2014&lt;/em&gt;, 33. Valencia, Spain.
+&lt;a href=&#34;https://hal-mines-paristech.archives-ouvertes.fr/hal-00987214&#34;&gt;https://hal-mines-paristech.archives-ouvertes.fr/hal-00987214&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Hornstein2015&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Hornstein, Henry A. 2015. “The integration of project management and
+organizational change management is now a necessity.” &lt;em&gt;International
+Journal of Project Management&lt;/em&gt; 33 (2): 291–98.
+&lt;a href=&#34;https://doi.org/10.1016/j.ijproman.2014.08.005&#34;&gt;https://doi.org/10.1016/j.ijproman.2014.08.005&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Keidel1994&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Keidel, R. W. 1994. “Rethinking organizational design.” &lt;em&gt;Academy of
+Management Perspectives&lt;/em&gt; 8 (4): 12–28.
+&lt;a href=&#34;https://doi.org/10.5465/AME.1994.9412071698&#34;&gt;https://doi.org/10.5465/AME.1994.9412071698&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Kokshagina2016a&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Kokshagina, Olga, Pascal Le Masson, Benoit Weil, and Patrick Cogez.
+2016. “Portfolio Management in Double Unknown Situations: Technological
+Platforms and the Role of Cross-Application Managers.” &lt;em&gt;Creativity and
+Innovation Management&lt;/em&gt; 25 (2): 270–91.
+&lt;a href=&#34;https://doi.org/10.1111/caim.12121&#34;&gt;https://doi.org/10.1111/caim.12121&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Lakhani2013&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Lakhani, Karim R., Hila Lifshitz-Assaf, and Michael Tushman. 2013. “Open
+Innovation and Organizational Boundaries: The Impact of Task
+Decomposition and Knowledge Distribution on the Locus of Innovation.” In
+&lt;em&gt;Handbook of Economic Organization&lt;/em&gt;, edited by Anna Grandori, 355–82. 1.
+Cheltenham, UK: Edward Elgar.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Lenfle2016&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Lenfle, Sylvain. 2016. “Floating in Space? On the Strangeness of
+Exploratory Projects.” &lt;em&gt;Project Management Journal&lt;/em&gt; 47 (2): 15.
+&lt;a href=&#34;https://doi.org/10.1002/pmj.21584&#34;&gt;https://doi.org/10.1002/pmj.21584&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-OConnor2016&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;O’Connor, Gina Colarelli. 2016. “Institutionalizing corporate
+entrepreneurship as the firm’s innovation function: reflections from a
+longitudinal research program.” In &lt;em&gt;Handbook of Research on Corporate
+Entrepreneurship&lt;/em&gt;, edited by Shaker Zahra, Donald Neubaum, and James
+Hayton, 145–74. Northampton, MA, USA: Edward Elgar Publishing.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Pollack2017&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Pollack, Julien. 2017. “Change Management as an Organizational and
+Project Capability.” In &lt;em&gt;Cambridge Handbook of Organizational Project
+Management&lt;/em&gt;, edited by Shankar Sankaran, Ralf Muller, and Nathalie
+Drouin, 236–49. Cambridge: Cambridge University Press.
+&lt;a href=&#34;https://doi.org/10.1017/9781316662243.021&#34;&gt;https://doi.org/10.1017/9781316662243.021&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Puranam2012&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Puranam, Phanish. 2012. “A Future for the Science of Organization
+Design.” &lt;em&gt;Journal of Organization Design&lt;/em&gt; 1 (1): 18.
+&lt;a href=&#34;https://doi.org/10.7146/jod.6337&#34;&gt;https://doi.org/10.7146/jod.6337&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Puranam2012a&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Puranam, Phanish, Marlo Raveendran, and Thorbjørn Knudsen. 2012.
+“Organization Design: The Epistemic Interdependence Perspective.”
+&lt;em&gt;Academy of Management Review&lt;/em&gt; 37 (3): 419–40.
+&lt;a href=&#34;https://doi.org/10.5465/amr.2010.0535&#34;&gt;https://doi.org/10.5465/amr.2010.0535&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Sanchez1996&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Sanchez, Ron, and Joseph T. Mahoney. 1996. “Modularity, Flexibility, and
+Knowledge Management in Product and Organization Design.” &lt;em&gt;Strategic
+Management Journal&lt;/em&gt; 17: 63–76.
+&lt;a href=&#34;https://doi.org/10.1017/CBO9781107415324.004&#34;&gt;https://doi.org/10.1017/CBO9781107415324.004&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Segrestin2017&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Segrestin, Blanche, Franck Aggeri, Albert David, and Pascal Le Masson.
+2017. “Armand Hatchuel and the Refoundation of Management Research:
+Design Theory and the Epistemology of Collective Action.” In &lt;em&gt;The
+Palgrave Handbook of Organizational Change Thinkers&lt;/em&gt;, 1–15.
+&lt;a href=&#34;https://doi.org/10.1007/978-3-319-49820-1&#34;&gt;https://doi.org/10.1007/978-3-319-49820-1&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Senge1990&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Senge, Peter. 1990. “Leaders’ new role: building learning
+organizations.” &lt;em&gt;MIT Sloan Management Review&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Siggelkow2003&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Siggelkow, Nicolaj, and Daniel A. Levinthal. 2003. “Temporarily Divide
+to Conquer: Centralized, Decentralized, and Reintegrated Organizational
+Approaches to Exploration and Adaptation.” &lt;em&gt;Organization Science&lt;/em&gt; 14
+(6): 650–69. &lt;a href=&#34;https://doi.org/10.1287/orsc.14.6.650.24840&#34;&gt;https://doi.org/10.1287/orsc.14.6.650.24840&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Simon2011a&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Simon, Fanny, and Albéric Tellier. 2011. “How do actors shape social
+networks during the process of new product development?” &lt;em&gt;European
+Management Journal&lt;/em&gt; 29 (5): 414–30.
+&lt;a href=&#34;https://doi.org/10.1016/j.emj.2011.05.001&#34;&gt;https://doi.org/10.1016/j.emj.2011.05.001&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Simon2016&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;———. 2016. “Balancing contradictory temporality during the unfold of
+innovation streams.” &lt;em&gt;International Journal of Project Management&lt;/em&gt; 34
+(6): 983–96. &lt;a href=&#34;https://doi.org/10.1016/j.ijproman.2016.05.004&#34;&gt;https://doi.org/10.1016/j.ijproman.2016.05.004&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Simon2018&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;———. 2018. “The ambivalent influence of a business developer’s social
+ties in a multinational company.” &lt;em&gt;International Journal of
+Entrepreneurship and Innovation Management&lt;/em&gt; 22 (1-2): 166–87.
+&lt;a href=&#34;https://doi.org/10.1504/IJEIM.2018.089718&#34;&gt;https://doi.org/10.1504/IJEIM.2018.089718&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Stan2017&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Stan, Mihaela, and Phanish Puranam. 2017. “Organizational adaptation to
+interdependence shifts: The role of integrator structures.” &lt;em&gt;Strategic
+Management Journal&lt;/em&gt; 38 (5): 1041–61. &lt;a href=&#34;https://doi.org/10.1002/smj.2546&#34;&gt;https://doi.org/10.1002/smj.2546&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Stjerne2016&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Stjerne, Iben Sandal, and Silviya Svejenova. 2016. “Connecting Temporary
+and Permanent Organizing: Tensions and Boundary Work in Sequential Film
+Projects.” &lt;em&gt;Organization Studies&lt;/em&gt; 37 (12): 1771–92.
+&lt;a href=&#34;https://doi.org/10.1177/0170840616655492&#34;&gt;https://doi.org/10.1177/0170840616655492&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-VandeVen2013&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Van de Ven, Andrew H., Martin Ganco, and C. R. (BOB) Hinings. 2013.
+“Returning to the Frontier of Contingency Theory of Organizational and
+Institutional Designs.” &lt;em&gt;The Academy of Management Annals&lt;/em&gt; 7 (1):
+393–440. &lt;a href=&#34;https://doi.org/10.1080/19416520.2013.774981&#34;&gt;https://doi.org/10.1080/19416520.2013.774981&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 </description>
     </item>
