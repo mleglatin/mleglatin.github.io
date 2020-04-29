@@ -3,17 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mleglatin.github.io/</loc>
-    <lastmod>2020-04-01T17:32:59+02:00</lastmod>
+    <loc>https://mleglatin.github.io/authors/</loc>
+    <lastmod>2020-04-29T18:00:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mleglatin.github.io/post/notes_to_myself/</loc>
-    <lastmod>2020-04-01T17:32:59+02:00</lastmod>
+    <loc>https://mleglatin.github.io/categories/</loc>
+    <lastmod>2020-04-29T18:00:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mleglatin.github.io/tags/covid19/</loc>
+    <lastmod>2020-04-29T18:00:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mleglatin.github.io/authors/mario/</loc>
+    <lastmod>2020-04-29T18:00:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mleglatin.github.io/</loc>
+    <lastmod>2020-04-29T18:00:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mleglatin.github.io/post/online-phd-manuscript/</loc>
+    <lastmod>2020-04-29T18:00:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mleglatin.github.io/tags/phd/</loc>
+    <lastmod>2020-04-29T18:00:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mleglatin.github.io/categories/phd/</loc>
+    <lastmod>2020-04-29T18:00:50+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://mleglatin.github.io/post/</loc>
+    <lastmod>2020-04-29T18:00:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mleglatin.github.io/tags/</loc>
+    <lastmod>2020-04-29T18:00:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mleglatin.github.io/post/notes_to_myself/</loc>
     <lastmod>2020-04-01T17:32:59+02:00</lastmod>
   </url>
   
@@ -29,11 +69,6 @@
   
   <url>
     <loc>https://mleglatin.github.io/authors/armand-hatchuel/</loc>
-    <lastmod>2020-03-26T18:18:52+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mleglatin.github.io/authors/</loc>
     <lastmod>2020-03-26T18:18:52+01:00</lastmod>
   </url>
   
@@ -63,11 +98,6 @@
   </url>
   
   <url>
-    <loc>https://mleglatin.github.io/authors/mario/</loc>
-    <lastmod>2020-03-26T18:18:52+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mleglatin.github.io/authors/mario-le-glatin/</loc>
     <lastmod>2020-03-26T18:18:52+01:00</lastmod>
   </url>
@@ -84,11 +114,6 @@
   
   <url>
     <loc>https://mleglatin.github.io/publication/</loc>
-    <lastmod>2020-03-26T18:18:52+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mleglatin.github.io/tags/</loc>
     <lastmod>2020-03-26T18:18:52+01:00</lastmod>
   </url>
   
@@ -225,11 +250,6 @@
   <url>
     <loc>https://mleglatin.github.io/tags/routine/</loc>
     <lastmod>2020-03-26T17:45:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mleglatin.github.io/categories/</loc>
-    <lastmod>2020-03-26T17:04:40+01:00</lastmod>
   </url>
   
   <url>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mario | Mario LE GLATIN</title>
-    <link>https://mleglatin.github.io/authors/mario/</link>
-      <atom:link href="https://mleglatin.github.io/authors/mario/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mario</description>
+    <title>PhD | Mario LE GLATIN</title>
+    <link>https://mleglatin.github.io/tags/phd/</link>
+      <atom:link href="https://mleglatin.github.io/tags/phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>PhD</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright><lastBuildDate>Wed, 29 Apr 2020 18:00:50 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Mario</title>
-      <link>https://mleglatin.github.io/authors/mario/</link>
+      <title>PhD</title>
+      <link>https://mleglatin.github.io/tags/phd/</link>
     </image>
     
     <item>
@@ -60,20 +60,6 @@
 &lt;/figure&gt;
 
 &lt;p&gt;Somehow, COVID19 managed to put me back behind my keyboard for academic topics.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Website Announcement &amp; Content Roadmap</title>
-      <link>https://mleglatin.github.io/post/website-announcement/</link>
-      <pubDate>Thu, 26 Mar 2020 17:04:40 +0100</pubDate>
-      <guid>https://mleglatin.github.io/post/website-announcement/</guid>
-      <description>&lt;p&gt;A new start for my personal website.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;First clean up the website, template and format&lt;/li&gt;
-&lt;li&gt;Upload and convert the original PhD Dissertation from December 2018 (LateX) into a readable document type in Markdown, through Hugo/Academic.&lt;/li&gt;
-&lt;li&gt;We will see then how it goes&amp;hellip;&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     

@@ -5,12 +5,63 @@
     <link>https://mleglatin.github.io/post/</link>
       <atom:link href="https://mleglatin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright><lastBuildDate>Wed, 01 Apr 2020 17:32:59 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright><lastBuildDate>Wed, 29 Apr 2020 18:00:50 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>https://mleglatin.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Online PhD Manuscript</title>
+      <link>https://mleglatin.github.io/post/online-phd-manuscript/</link>
+      <pubDate>Wed, 29 Apr 2020 18:00:50 +0200</pubDate>
+      <guid>https://mleglatin.github.io/post/online-phd-manuscript/</guid>
+      <description>&lt;p&gt;After playing several hours with 
+&lt;a href=&#34;https://pandoc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pandoc&lt;/a&gt;, I have managed to translate from the several &amp;lsquo;&#39;&#39;.tex&amp;rsquo;&amp;rsquo;&amp;rsquo; files I had written and compiled for my PhD in management (defended in December 2018).&lt;/p&gt;
+&lt;p&gt;You can have a look over here &amp;ndash;&amp;gt; 
+&lt;a href=&#34;https://mleglatin.github.io/phd/&#34;&gt;PhD dissertation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[&lt;strong&gt;29th April 2020&lt;/strong&gt;]: the search function is not very efficient yet. I will try to make it work soon.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Next step&lt;/strong&gt;: dive back into my case studies to prepare an article on ambidexterity. The 
+&lt;a href=&#34;https://mleglatin.github.io/project/ambidexterity-exploration-exploitation/&#34;&gt;associated project&lt;/a&gt; will be updated as I reposition previous works such as the article presented at EURAM 2018 on how ambidexterity can kill innovation (see 
+&lt;a href=&#34;https://mleglatin.github.io/publication/pub-leglatin2018a/&#34;&gt;publication&lt;/a&gt;).&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-if-the-candy-thing-doesnt-work-out-remember-you-always-have-the-dark-damp-hole-in-the-ground-to-come-back-brnew-yorker&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://media.newyorker.com/cartoons/5e908b9cdb395c0009acbff8/master/w_600,c_limit/A24121-dailycartoon.jpg&#34; data-caption=&#34;If the candy thing doesn&amp;rsquo;t work out, remember you always have the dark, damp hole in the ground to come back (New Yorker)&#34;&gt;
+
+
+  &lt;img src=&#34;https://media.newyorker.com/cartoons/5e908b9cdb395c0009acbff8/master/w_600,c_limit/A24121-dailycartoon.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;If the candy thing doesn&amp;rsquo;t work out, remember you always have the dark, damp hole in the ground to come back&lt;/em&gt; &lt;br&gt;(New Yorker)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Somehow, COVID19 managed to put me back behind my keyboard for academic topics.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Notes_to_myself</title>
@@ -62,9 +113,6 @@ pandoc --filter pandoc-citeproc draftfile.md -t markdown_mmd -o draftfile_withBe
 &lt;li&gt;Upload and convert the original PhD Dissertation from December 2018 (LateX) into a readable document type in Markdown, through Hugo/Academic.&lt;/li&gt;
 &lt;li&gt;We will see then how it goes&amp;hellip;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas auctor consequat cursus. Pellentesque volutpat vel nunc id ultrices. Nullam ac elit sit amet tellus faucibus maximus eu vitae eros. Nulla elementum suscipit mauris, vitae dapibus lorem porta at. Aenean ultricies non sem in faucibus. Nunc nec dignissim arcu, a pretium nisl. Nulla consequat a risus sed molestie. Praesent ac justo turpis. Nam hendrerit, felis non volutpat lobortis, eros mauris porttitor risus, id imperdiet nisl lectus at nisl. 
-Suspendisse eleifend ligula non ex tempus, non malesuada neque cursus. Donec quis gravida tellus. Mauris et ex et felis pulvinar lobortis nec at lectus. Vivamus pharetra posuere dignissim. Aenean iaculis, massa ut fringilla varius, ipsum nibh venenatis elit, et dignissim ante sem vitae dui. Donec felis nisl, egestas vel neque et, convallis porta lacus. In ac blandit lorem, vel maximus ligula. Aliquam non varius erat, a venenatis eros. Donec enim leo, pellentesque at malesuada vitae, accumsan eu ex. Ut laoreet ante tellus, vitae ultrices purus eleifend vel. Fusce maximus pulvinar aliquet. Duis at lacus accumsan, blandit velit in, aliquam tellus. 
-Curabitur pellentesque lorem magna, quis commodo dui dictum et. Etiam feugiat posuere risus sed sagittis. Quisque a velit nisi. Morbi ut dignissim odio. Fusce in lacus nulla. Nunc nibh nibh, eleifend et sapien et, pretium egestas massa. Fusce aliquet efficitur urna, sit amet egestas ipsum convallis sed. Etiam eleifend, eros ac maximus auctor, neque eros sollicitudin ipsum, a mattis ipsum nibh vitae dolor. In hac habitasse platea dictumst. Maecenas mattis erat et diam sagittis, eu euismod tortor laoreet.&lt;/p&gt;
 </description>
     </item>
     

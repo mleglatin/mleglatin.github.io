@@ -17,11 +17,583 @@
       <link>https://mleglatin.github.io/phd/part5/chapter11/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://mleglatin.github.io/phd/part5/chapter11/</guid>
-      <description>&lt;div class=&#34;alert alert-warning&#34;&gt;
+      <description>&lt;p&gt;Keeping up with our research agenda, now that we have validated our
+model with two comparable case studies, we engage with the presentation
+of how the researcher intervened in the firm to test &lt;em&gt;in vivo&lt;/em&gt; the model
+of decisional ambidexterity. It allows us to further specify the
+subtleties of the model and the management requirements revealed by the
+mutual conditioning between exploration and exploitation.&lt;/p&gt;
+&lt;p&gt;We show how the project trajectory was set and guided with design of
+decisions constantly articulated with fixations and interdependencies so
+that the engineering practice encapsulated in the project could be
+largely grounded and supported by stakeholders. Furthermore, we exhibit
+how this R&amp;amp;T funded project aiming for a potentially new product
+embedding TRL6 technologies, managed its organizational ties to find
+sufficient echoes inducing the regeneration of engineering capabilities
+enabling future new product development.&lt;/p&gt;
+&lt;p&gt;We come back on a management device we often referred to inter-BU cases
+such as the Design Thinking cases, the Lower Deck and the Connected
+Cabin. The Multi-BU committee, created in 2012 by a former CEO, was an
+opportunity to foster top-down projects as well as some bottom-up
+projects requiring strong sponsorship enabling corporate
+entrepreneurship.&lt;/p&gt;
+&lt;p&gt;It is not a case study comparable to others, as it cannot be identified
+as project on its own. However, it is rather a &lt;em&gt;governance body for
+radical innovation&lt;/em&gt;. This locus of innovation within the conglomerate of
+SMEs can be analysed through the lens of decisional ambidexterity and we
+propose to specify some of its characteristics.&lt;/p&gt;
+&lt;p&gt;This chapter further tests our model of decisional ambidexterity and
+continues justifying its validity to extend models of ambidexterity and
+exploration project management presented in the literature review. These
+series of arguments provide us strong foundations to go into the
+
+&lt;a href=&#34;https://mleglatin.github.io/phd/part5/chapter12/&#34;&gt;following chapter&lt;/a&gt;
+where we present the researcher’s contribution to the quality
+management system for &lt;em&gt;Design and Develop&lt;/em&gt; and &lt;em&gt;Innovation&lt;/em&gt; processes
+(EN9100).&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Work in progress&amp;hellip;
+    &lt;p&gt;In the first section, we start by presenting one of the researcher’s
+intervention at Zodiac Oxygen Systems Europe for a funded exploration on
+hypoxia protection device for pilots.&lt;/p&gt;
+&lt;p&gt;In the second section, we give more detail on the Multi-BU management
+with respect to decisional ambidexterity. It is not an intervention but
+it clearly shows the importance of heuristics at work to design
+decisions.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;hypoxia-probing-and-structuring-the-ecosystem-interdependencies&#34;&gt;Hypoxia: probing and structuring the ecosystem interdependencies&lt;/h2&gt;
+&lt;p&gt;The case presentation (see 
+&lt;a href=&#34;https://mleglatin.github.io/phd/part2/chapter5/#hypoxia-protection---researchers-intervention&#34;&gt;section&lt;/a&gt;) gave a first global picture of the project’s
+trajectory and context. The specificity of this case is that the
+researcher actively participated to the project on the R&amp;amp;T manager’s
+request.&lt;/p&gt;
+&lt;p&gt;Below, we propose to present what was specifically done to implement
+heuristics of decisional ambidexterity and its induced effects. We
+picture the trajectory with the global descriptors in Figure
+&lt;a href=&#34;#fig:HypoxiaTraj&#34; data-reference-type=&#34;ref&#34; data-reference=&#34;fig:HypoxiaTraj&#34;&gt;2&lt;/a&gt;,
+as well as the phenomena relative to model of coordination and
+collective action, and its innovation potential of attraction.&lt;/p&gt;
+&lt;h3 id=&#34;organizational-context-and-project-target&#34;&gt;Organizational context and project target&lt;/h3&gt;
+&lt;p&gt;The Zodiac Oxygen Systems Europe (ZOSE), whose Engineering and Product
+Development board is common with its twin sister BU in the United States
+(ZOSU) is one of the two market leaders in pilot, cabin crew and
+passenger oxygen masks in addition to oxygen tanks. In the past decades,
+with ageing patents, an increase of replacement parts providers with an
+&lt;em&gt;Parts Manufacturer Approval&lt;/em&gt; (PMA), the risk of obsolescence and market
+share losses became higher to the point that Engineering Director
+included it in its roadmap and practices the necessity to think of
+market regeneration.&lt;/p&gt;
+&lt;p&gt;One of ZOSE flagship product, EROS mask (see Figure
+&lt;a href=&#34;#fig:EROSmask&#34; data-reference-type=&#34;ref&#34; data-reference=&#34;fig:EROSmask&#34;&gt;1&lt;/a&gt;
+below) along with an equivalent product offered by the competition (B/E
+Aerospace), are provided to aircraft manufacturers on catalogue. They
+are issued with a TSO (Technical Standard Order) that allows to certify
+a piece of equipment with sufficient autonomy over the aircraft
+manufacturer. It induces then several design rules with associated
+qualification standards.&lt;/p&gt;
+&lt;p&gt;The equipment was originally developed upon transferred and licensed
+technologies from the US to support equipment design and supply for
+Dassault (Darrieulat 
+&lt;a href=&#34;#ref-Darrieulat1993&#34;&gt;1993&lt;/a&gt;). Later, in the 1960s,
+the engineering department developed its own capabilities and winning
+its contracts on its own. In a pure entrepreneurial spirit, Georges
+Gutman, then development engineer, created a oxygen regulator solving
+several limitations such as having oxygen on demand, making breathing
+more comfortable.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-eros-pilot-oxygen-mas&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://mleglatin.github.io/img/EROSmask.jpg&#34; data-caption=&#34;EROS Pilot Oxygen mas&#34;&gt;
+
+
+  &lt;img src=&#34;https://mleglatin.github.io/img/EROSmask.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    EROS Pilot Oxygen mas
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Improvements were made including the innovation of having an
+expandable/retractable harness to adjust with the single push of a
+button the mask to any face whilst guaranteeing a perfect fit and air
+tightness. Smoke and fire protection with fogging prevention were also
+developed with a fixed or removable lens attached on the oro-nasal
+piece.&lt;/p&gt;
+&lt;p&gt;Given a historical and established dominant design, market players have
+put on the top of their priorities the urgency of reinforcing safety and
+preparing for the unexpected with new designs. Indeed, several threats
+of obsolescence due to ageing patents had been identified, and the
+aviation ecosystem was concerned by some isolated cases of hypoxia&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;,
+usually due to other equipment failure. A CleanSky2 project, with Airbus
+as partner, made a call for proposal considering the new safety
+regulation requiring extended mask wear whenever a pilot is alone on
+duty in the cockpit.&lt;/p&gt;
+&lt;p&gt;It was then a proposal to rethink the ergonomics and features of the
+oxygen mask for this new restrictive requirement. Indeed, several
+feedback had pointed out that pilots were not following the rule because
+of the discomfort caused by the mask on their face. However, ensuring a
+pilot safety, whilst alone in a cockpit, is a first step before removing
+the copilot position. The flight engineer was removed several decades
+ago, so it appears to think of one-man cockpit before even examine
+unmanned commercial aircrafts.&lt;/p&gt;
+&lt;h3 id=&#34;project-trajectory&#34;&gt;Project trajectory&lt;/h3&gt;
+&lt;p&gt;As explained in the case presentation (see 
+&lt;a href=&#34;https://mleglatin.github.io/phd/part2/chapter5/#hypoxia-protection---researchers-intervention&#34;&gt;section&lt;/a&gt;), the researcher had first
+proposed a C-K mapping of the Open Innovation Challenge in order to
+position the proposed concepts relatively to the dominant design. And,
+as he was familiar with the R&amp;amp;T manager who was first in charge of the
+project, he was requested to support their exploration and their
+methodology.&lt;/p&gt;
+&lt;p&gt;They had already been working for 6 months on the project. Several
+brainstorming sessions, workshops with industrial designers were held
+and digital mock-ups had been generated. However, they were confronted
+with a dilemma. They were expected to provide a product concept to
+Airbus: a product requirement had been issued largely inspired by the
+general pilot oxygen mask but with some changed words calling for
+innovative design. For instance, the word &lt;em&gt;mask&lt;/em&gt; was replaced by
+&lt;em&gt;device&lt;/em&gt;, the adjective &lt;em&gt;disruptive&lt;/em&gt; had been added on some
+requirements, and they also referred to a future cockpit without clearly
+specifying its characteristics.&lt;/p&gt;
+&lt;p&gt;The researcher supported them in clustering their previously generated
+concepts, and in creating meaning around new product categories. The
+clustering was eased by the use of C-K theory. But, more importantly,
+the researcher insisted on the team’s ability to discuss the future
+decision of committing to a product design and development. So, the
+interactions with the client should explicitly rely on the extent of
+their design effort provided and their capabilities, as well as the
+necessity to discuss fixations and interdependencies. They were
+encouraged to present the design method, the clustering and how they
+made sense of the uncertainties and the unknown surrounding the
+ill-defined problem.&lt;/p&gt;
+&lt;p&gt;The figure
+&lt;a href=&#34;#fig:HypoxiaTraj&#34; data-reference-type=&#34;ref&#34; data-reference=&#34;fig:HypoxiaTraj&#34;&gt;2&lt;/a&gt;
+below shows the trajectory of the project. Initially, the concept could
+have been simply an extreme optimization ($d^+$) of the existing mask.
+It was a simple and easy way to identify action necessary for legacy
+products. It would allow anchoring to the dominant design and
+established product roadmap.&lt;/p&gt;
+&lt;p&gt;The necessity of wearing the mask for extended periods of time actually
+ensures that before an actual emergency, the pilot is wearing the mask
+in a standby mode, so the researcher pushed forward the nuance of
+prevention to counterbalance the emergency mode. It created a category
+discriminant to make sense of the generated concepts through
+brainstormings and industrial design.&lt;/p&gt;
+&lt;p&gt;Consequently, it allowed to consider two other concepts to decide that
+would fall under genericity ($d^{gen}$) and alternative situation
+($d^{alt}$) as they wished for an evolving regulation where the nuance
+between prevention and emergency is specified. Finally, since the future
+cockpit is yet undefined, the potential threat of a guaranteed air tight
+cockpit would make oxygen mask pointless ($d^*$)? Furthermore, without
+fully exploring such disruption, they took into account nearby equipment
+that could be integrated with the oxygen device ($d^{alt}$).&lt;/p&gt;
+&lt;p&gt;All of the designed decisions where mapped through C-K with the project
+team input, and iteratively discussed so that they would gain in
+familiarity with the model. The researcher also encouraged to come up
+with means of avoiding isolation of the project within the engineering
+department. The project manager also repeatedly came to ask specific
+questions to the researcher at the beginning as the heuristics were not
+made clear enough; so some short sessions were quite randomly set at the
+beginning with him and his lead engineer, to give some guidance to think
+of the different decisions categories and the required engineering
+design.&lt;/p&gt;
+&lt;p&gt;In the following subsections, we offer more detail on the benefits of
+decisional ambidexterity and its practice through the researcher’s
+intervention.&lt;/p&gt;
+&lt;h3 id=&#34;a-conservative-client-asking-for-radical-innovation&#34;&gt;A conservative client asking for radical innovation&lt;/h3&gt;
+&lt;h4 id=&#34;paradoxical-request&#34;&gt;Paradoxical request&lt;/h4&gt;
+&lt;p&gt;We stated that the team was facing a dilemma when the researcher was
+called. The request made by the client was a mix of encouraged
+innovative design, but at the same time heavily constrained by mimetic
+requirements from existing dominant design. It created a lot of
+confusion and they were quite lost on ranking critical to quality
+requirements. They also doubted on the client for knowing what they were
+expecting from the product design.&lt;/p&gt;
+&lt;p&gt;The request was already ambidextrous in itself but perhaps in the wrong
+way as it was prescribed in an almost client-supplier relationship
+(Airbus to ZOSE). The team had the expectation that Airbus knew their
+need, and symmetrically ZOSE would engineer whatever is physically
+possible as long as it sustains and extends the product line. Reaching
+out for methodical innovative design, managed value management and
+project-based concern for engineering capabilities are clearly
+formulated despite being an open-ended exploration project funded by
+CleanSky2 program.&lt;/p&gt;
+&lt;p&gt;This is where decisional ambidexterity can help specifying the nuances
+between pure exploitation (prescription, engineering and development)
+and exploration. Decisional ambidexterity overcomes paradoxical tension
+of non-mutual conditioning.&lt;/p&gt;
+&lt;h4 id=&#34;exploiting-for-exploration&#34;&gt;Exploiting for exploration&lt;/h4&gt;
+&lt;p&gt;From the perspective of C-K theory, having such specified dominant
+design makes it easier to build the rest of the concepts. So, the
+researcher did it whilst also re-using some of the mapping made for Open
+Innovation Challenge. The researcher then encouraged the project members
+to anchor the value of the generated concept to established requirement
+by specifying the distant and its nature.&lt;/p&gt;
+&lt;p&gt;It allowed to make a design document presenting three main concepts
+categories, with a digital mock-up each, stressing how they came about
+these options. The researcher had insisted on the necessity to explain
+their method, their line of thought and its decision parameters so that
+they could better discuss underlying hypotheses that Airbus may be
+deliberately or not hiding: interactions with other projects, cockpit
+elements, physical constraints, or just a vision for their future
+cockpit.&lt;/p&gt;
+&lt;p&gt;It has also forced Airbus to be more specific and answer questions that
+they did not expected to. For example, several debates gravitated around
+the head clearance (i.e. distance between the cockpit sealing and
+pilot’s head top) as some design features encouraged the use of
+surrounding space for prevention. The concepts considering the
+integration with other cockpit elements such as the seat (engineering
+knowledge and capability exist at Zodiac Seats France), forced Airbus to
+solicit FAA/EASA to start thinking carefully about potential evolution
+of regulations.&lt;/p&gt;
+&lt;h3 id=&#34;opening-the-project-routines-to-the-organization&#34;&gt;Opening the project routines to the organization&lt;/h3&gt;
+&lt;h4 id=&#34;stress-tested-proof-of-concepts&#34;&gt;Stress-tested proof of concepts&lt;/h4&gt;
+&lt;p&gt;The concept categories presented and the design method were really
+helpful in discussing the unknown fraction of the project, but also key
+to articulate the interdependencies of the future product and
+technologies. Due to the nature of the requirements demanded by the
+client, several interdependencies could have been easily challenged.&lt;/p&gt;
+&lt;p&gt;With the project manager’s support, the researcher encouraged the need
+to specify ripples caused by different generated features. The purpose
+was to find knowledge interactions and conjunctions triggered by the
+designed decisions. The manager organized open weekly meetings inviting
+several representatives from quality, purchasing, testing, prototyping,
+repair shop and other engineering sub-units. The aim of these sessions
+was to identify fixations held by these sub-organizations and the
+interdependent ties maintained by their engineering or management
+practices. Consequently, the project team was able to specify further
+the different concept categories.&lt;/p&gt;
+&lt;h4 id=&#34;looking-for-organizational-echoes&#34;&gt;Looking for organizational echoes&lt;/h4&gt;
+&lt;p&gt;Nevertheless, the most stimulating side-effect of this practice was not
+the manoeuvre of the project trajectory to provide a well-defined and
+methodological approach to the client to co-explore the unknown. It was
+the reflexion of these practices in BU sub-organizations. The
+interactions organized around decision parameters, product design
+features and requirements were the occasion to regenerate their
+capabilities.&lt;/p&gt;
+&lt;p&gt;The Engineering Director launched several side mini-projects within some
+of his engineering units to address radical changes in product
+architecture. These have proven the technical feasibility of some
+features envisioned in the decision categories, and some opened new
+perspectives for product lines. For example, the air regulator has
+always been integrated in the oro-nasal piece because of pressure losses
+between the system and mouth/nose. Distancing the regulator through a
+hose was unimaginable however interactions during the open-meetings to
+update and consult BU stakeholders and prototyping allowed reconsidering
+its engineering and interfaces between sub-units. It also invited them
+to think of product systems and cockpit integration differently, and
+opened possibilities to change the engineering organization.&lt;/p&gt;
+&lt;p&gt;And finally, despite having been made fun of at the beginning of the
+project by other BU members, some of the originally generated concepts
+were indeed seen as coming out of the blue. These concepts were in the
+end grounded with exploitation regime and the distance created by
+exploration was sustained by knowledge identification, generation, and
+initiated organizational, generative learning and change. Decisional
+ambidexterity helped stimulating organizational metabolism.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-from-decisional-tension-to-satisfy-requirements-to-organizational-echoes&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://mleglatin.github.io/img/HypoxiaTraj.png&#34; data-caption=&#34;From decisional tension to satisfy requirements to organizational echoes&#34;&gt;
+
+
+  &lt;img src=&#34;https://mleglatin.github.io/img/HypoxiaTraj.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    From decisional tension to satisfy requirements to organizational echoes
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;decisional-ambidexterity-analysis&#34;&gt;Decisional ambidexterity analysis&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Model descriptors&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Non-mutual conditioning&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Mutual conditioning&lt;/strong&gt; extended model&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Model of coordination and collective action&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Originally, the project was organized in a non-mutual conditioning fashion. An upstream and isolated project from exploitation regime.&lt;/td&gt;
+&lt;td&gt;The research-intervention with a practice of decisional ambidexterityemphasized the absolute necessity to make explicit reference to exploitation parameters to generate alternatives and design concepts into the unknown. The project team mirrored the patterns with client and BU departments.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Generative processes&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;The first sessions aiming at framing the scope and generating concepts were conducted without a clear conditioning with exploitation regime. The direction of search and generativity was ambiguous and encourage the R&amp;amp;T manager to look for methodological advice.&lt;/td&gt;
+&lt;td&gt;Decision ambidexterity was practiced with clustering of concepts through C-K theory, definition of decision categories. It helped framing previously generated concepts and organize further exploration based on exploitation features and hacking constraints.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Environment cognition&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;At first, the exploration environment was defined by Airbus with a paradoxical and ill-defined problem. Several issues relative to certification, and acceptation by pilots but struggled in formulating concepts to the client.&lt;/td&gt;
+&lt;td&gt;Decisional ambidexterity practice allowed clarifying means of collective action to gradually uncover unknown environments (certification evolution, client needs, system integrations) since they addressed the nature and importance of interdependencies (head clearance, prevention/emergency, seat and cockpit, etc.).&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Organization design&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;At first, the project was isolated from the rest of the BU and could have been kept out of product development portfolio even to a point of creating a new product line. This risk of incoherence for the BU competencies and market segmentation was sensed by the R&amp;amp;T manager who was more inclined to regenerate.&lt;/td&gt;
+&lt;td&gt;Working on the mutual conditioning of exploration by exploitation parameters helped organizing learning and disentangling interdependencies, and organization design fixations. For instance, the air regulator is integrated in the oro-nasal piece, and both are mirrored two engineering sub-units working tightly. Questioning it through the designed alternatives, opening the project to stakeholders, and prototyping, facilitated the launch of an internal side project to think of how it could be made and integrated differently. It encouraged to work other engineering interdependencies with other engineering sub-units.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;mbu-committees-a-steering-committee-looking-for-purpose&#34;&gt;MBU Committees: a steering committee looking for purpose&lt;/h2&gt;
+&lt;p&gt;The Multi-BU committee was established by the ExCom to launch top-down
+projects as well as to offer a place for bottom-up initiatives. It was
+created in 2012 hosting to steer key projects whose strategic interest
+was acknowledged by the ExCom. For instance, the fuel cell development
+was initiated by the former CEO as the greener aircraft initiative
+became more and more important in the aviation sector. A project team
+was constituted and hosted by Zodiac Oxygen Systems Europe as a
+potential growth driver and technology transfers. The project aimed at
+developing the technology for aircraft use with the promise of having
+multiple sources to be reuse across the aircraft (electrical power,
+water and heating). The project was conducted in partnership with two
+aircraft manufacturers and funded by European programs.&lt;/p&gt;
+&lt;p&gt;The MBU committee also hosted numerous other projects that would call
+less for a new BU, but rather insist on inter-BU collaboration; others
+were rather intra-BU bearing a strategic interest as it was developing a
+&lt;em&gt;game-changing&lt;/em&gt; technologies.&lt;/p&gt;
+&lt;p&gt;As we explain, in the case presentation (see 
+&lt;a href=&#34;https://mleglatin.github.io/phd/part2/chapter5/#multiBU-committee&#34;&gt;section&lt;/a&gt;), the committee with its
+quarterly meetings was a locus of innovation to give a chance to
+entrepreneurial spirit&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    We propose to discuss some features of this MBU activity at the light of
+decisional ambidexterity, since it hosted several projects we have
+discussed previously such as the Lower Deck and the Connected Cabin. We
+specify the nature of the discussions held in these meetings, the impact
+of project’s trajectory and how it relates to decision-designing.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;organizational-context-and-ecosystem&#34;&gt;Organizational context and ecosystem&lt;/h3&gt;
+&lt;p&gt;First of all, it is important to understand that the MBU committee was
+set at a time when the homogenization of the conglomerate of SMEs was
+barely starting. The re-branding of business units was starting and the
+rate of mergers &amp;amp; acquisitions was diminishing.&lt;/p&gt;
+&lt;p&gt;The business units were exploiting their respective niches, and ZA as a
+group already covered a wide range of equipment and systems across the
+aircraft. The former CEO as well as other ExCom members, are all
+engineers and have a propensity for technical discussions. Niches were
+segregated with a variety of technologies, with high entry barriers. BU
+managers and the ExCom helped identifying M&amp;amp;A targets to be the first
+entrant to gain a strong foothold on these markets. The pattern had been
+reproduced across all existing ZA market segments.&lt;/p&gt;
+&lt;p&gt;The ExCom, as reported by the former CEO, wanted to leave a strong
+responsibility at each BU level, with Profits &amp;amp; Losses reporting, a
+certain financial autonomy with a holding consolidation. They avoided
+imposing projects to BUs. The MBU committee was then a means to drive
+exploration for BUs through technological development. Some technical
+barriers (engineering, certification, market interest, supply chain,
+etc.) would be extensively studied so that one or several BUs would take
+it onboard. If necessary they arbitrate on the project’s allocation
+depending on how the ExCom judges the BU capacity to sustain the
+development. The former CEO also saw the MBU as a management device to
+overcome the limited &lt;em&gt;bandwidth&lt;/em&gt; of BU and Divisions managers. It is
+also the role of branch executives (ExCom members) to seize and support
+these initiatives.&lt;/p&gt;
+&lt;h3 id=&#34;managing-exploration-added-value-for-the-conglomerate&#34;&gt;Managing exploration added value for the conglomerate&lt;/h3&gt;
+&lt;p&gt;The committee was a locus for discussion, where top management met with
+middle management, engineers, designers and marketers. All ExCom members
+were former engineers, including middle management and BU managers. As
+confirmed by the former CEO, he encouraged debate on the quality of
+models and input data used to make decisions on the technologies,
+products to be developed. The VP of Business Development and Strategy
+would usually question the Intellectual Property and aircraft
+manufacturers’ risk of claiming primacy. The former group CEO and branch
+CEOs would dig into the details of the project, questioning engineering
+topics, partnerships, competition, market shares, suppliers and
+potential launch customers.&lt;/p&gt;
+&lt;p&gt;Whenever they felt the model was stress-tested enough given their
+knowledge on the topic or insight they had from their interactions with
+other executives inside/outside the firm, they would delegate the
+responsibility to the BU.&lt;/p&gt;
+&lt;h3 id=&#34;advantages-conditions-and-limitations---former-ceos-feedback-to-the-researcher&#34;&gt;Advantages, conditions and limitations - former CEO’s feedback to the researcher&lt;/h3&gt;
+&lt;p&gt;Among the limitations we can find in the MBU device, some can be seen by
+reflecting on the difference between two cases such as the Connected
+Cabin and the Lower Deck. These two show that despite benefiting from
+the same context, they did not hold similar results. Of course we could
+go on listing numerous reasons, but they were treated alike during MBU
+and additional ExCom meetings. In other words, the same discussion on
+hypotheses, input data and modelling was heavily challenged by board
+members. Such pattern has been reported for executives not familiar with
+topics (Loch, Mähring, and Sommer 
+&lt;a href=&#34;#ref-Loch2017&#34;&gt;2017&lt;/a&gt;), but here, the
+ExCom is made exclusively of engineers who have cultivated over their
+careers a deep interest for technologies and applied sciences. They also
+have market and ecosystem knowledge through other firm’s corporate
+governance participation and external networks (consortia, group of
+industrial partners, conferences, etc.). For example, the former CEO had
+good knowledge for both topics before they were launched as actual
+projects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;For the lower deck, he was aware of the decline of the air freight
+and its share in commercial cargo area. He was already convinced by
+the market interest and value for airline yield management, to the
+point that when the results of the market study were presented, he
+cut through the presentation to address technical and engineering
+issues. He would be more interested in securing the concept on that
+issue to gain autonomy from aircraft manufacturer and raise the
+entry barrier as they knew competition (B/E Aerospace) had been
+consulted for a similar project.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;For the connected cabin, he challenged a lot the value proposition
+as he was asking for proof of legitimacy for ZA to organize such
+service market platform. In an interview in May 2018, a year after
+the AIX 2017, he told the researcher he tried to encourage Zodiac
+Data Systems BU manager to develop a technological advantage
+securing the nascent market. It was another way of scouting for
+different scenarios and testing the fixations of different BUs as
+well as interdependent engineered product between BUs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Despite having same discussion goals to &lt;em&gt;define what makes rationality&lt;/em&gt;
+collectively with project representatives and potential stakeholders, it
+appears that the steering committee could benefit from a technology of
+organizing, by opposition to &lt;em&gt;fostering a culture of curiosity and sound
+debate&lt;/em&gt;&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; to sustain innovation.&lt;/p&gt;
+&lt;p&gt;It appears then that several conditions can only be surfaced through
+engineering design, project-based management and change management and
+its active management around a model such as decisional ambidexterity.
+Interactions and networking are not sufficient. Indeed, the former CEO
+recognized the interest of having a practice to specify the model
+testing, rationality testing practice on countless occasions. He was
+very receptive to the decisional ambidexterity model and even felt it
+was natural. The formalization is a real plus for a set of heuristics
+that may not be acknowledged by everyone. Otherwise, he believes that it
+is a widespread practice which counters procedural practices fixating
+rationality. He also insisted on the danger of such mechanistic models
+of thought (e.g. rational choice theory, operations research) which can
+be the best way to go to the wall.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;chapter-synthesis-a-reconciliatory-model-for-ambidexterity&#34;&gt;Chapter synthesis: a reconciliatory model for ambidexterity&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;We show in this chapter how the researcher intervened in a project to
+seed decisional ambidexterity. It reveals the significance to understand
+the practice of design reasoning, modelling and formalization to discuss
+the potential decisions and its categories. Coming back to the Multi-BU
+committee we referred to in previous chapters, we also reveal how some
+behaviours and practices relate to decisional ambidexterity and how it
+could further benefit from it.&lt;/p&gt;
+&lt;p&gt;The researcher specified several different heuristics and supported the
+team to effectively address the decision-design to address the
+difficulty faced when dealing with a paradoxical request putting in
+tension exploitation regime and exploration incentives. The work
+conducted with them allowed to translate the engineering design work
+with its mirroring for client relationship management, product
+integration and internal engineering capabilities and organization
+design. The methodological approach constantly addressed the mirroring
+dynamics of the unknown in order to support generative learning and
+capabilities regeneration.&lt;/p&gt;
+&lt;p&gt;The Multi-BU committee with the heuristics and culture fostered by the
+ExCom can be considered from the perspective of decisional
+ambidexterity. It wasn’t a decision meeting place, but rather networking
+(Christiansen and Varnes &lt;a href=&#34;#ref-Christiansen2007&#34;&gt;2007&lt;/a&gt;). However, this
+networking benefited some systematic debate on the modelling,
+hypothesis, problem formulation and value management. It allowed to
+sustain a culture of curiosity and generative learning developing
+vigilance for project management. But, we also point out that the
+debates held in these meetings could also have benefited from a
+technology of organization where decision-design could have been better
+structured. For instance, we would have helped to systematically address
+the interactions and the disentanglement of interdependencies in order
+to overcome (organization) fixations effects rising from the
+conglomerate of SMEs sustaining their respective niche markets.&lt;/p&gt;
+&lt;p&gt;Finally, in this chapter we have given further proof that the model of
+decisional ambidexterity helps in managing the mutual conditioning
+between exploration and exploitation, supporting decision-making in the
+unknown for innovative design and interrelated change management.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;div id=&#34;refs&#34; class=&#34;references hanging-indent&#34; markdown=&#34;1&#34;&gt;
+&lt;div id=&#34;ref-Christiansen2007&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Christiansen, John K., and Claus J. Varnes. 2007. “Making decisions on
+innovation: Meetings or networks?” &lt;em&gt;Creativity and Innovation
+Management&lt;/em&gt; 16 (3): 282–98.
+&lt;a href=&#34;https://doi.org/10.1111/j.1467-8691.2007.00441.x&#34;&gt;https://doi.org/10.1111/j.1467-8691.2007.00441.x&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Darrieulat1993&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Darrieulat, Olivier. 1993. “Intertechnique : un sous-traitant
+indépendant.” &lt;em&gt;Histoire, économie &amp;amp; Société&lt;/em&gt; 12 (1): 137–63.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Loch2017&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Loch, Christoph, Magnus Mähring, and Svenja Sommer. 2017. “Supervising
+Projects You Don’t (Fully) Understand.” &lt;em&gt;California Management Review&lt;/em&gt;
+59 (2): 45–67. &lt;a href=&#34;https://doi.org/10.1177/0008125617697944&#34;&gt;https://doi.org/10.1177/0008125617697944&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;See for instance Helios Airways Flight 522 &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Among ZA values, Entrepreneurship is put to the fore in order to
+honour the historical fits of engineering of several engineers and
+managers, but also to cultivate it. As it is usually acknowledged
+among managers, people will be given the occasion to pitch their
+concepts and given the opportunity to demonstrate its value for the
+firm &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;The words in italic are extract of the former CEO’s interview
+conducted on September 4, 2018 &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
     </item>
     
@@ -30,11 +602,738 @@
       <link>https://mleglatin.github.io/phd/part5/chapter12/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://mleglatin.github.io/phd/part5/chapter12/</guid>
-      <description>&lt;div class=&#34;alert alert-warning&#34;&gt;
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The heart of a good work is a puzzle and an idea.&lt;/em&gt;
+&lt;strong&gt;Andrew Abbott&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In the previous chapters, we have given further proof of the usefulness
+of a model of mutual causality between exploration and exploitation:
+decisional ambidexterity. The role of decision-designers and the
+technology of organizing are sustained by interactions with the
+decision-design in the unknown, mapping, categorizing oriented towards
+by interdependencies and fixation effects. We have also sketched by
+contrast the usefulness of having an engineering-oriented approach to
+it: considering methodological approaches and objects to effectively
+organize collective action.&lt;/p&gt;
+&lt;p&gt;We present in this chapter several other contributions of the researcher
+to adapt process management and existing R&amp;amp;T and Innovation practices in
+Zodiac Aerospace. The initiative was part of a global program on Quality
+Management System and for Operational Excellence following issues
+encountered by a few BUs. The CTO was the process leader for &lt;em&gt;Design &amp;amp;
+Develop&lt;/em&gt;, a key process for &lt;em&gt;Program Management&lt;/em&gt;. He fought to have an
+&lt;em&gt;Innovate&lt;/em&gt; process, which finally was allocated by the Chief Operations
+Officer despite not being directly linked with operations in the short
+term.&lt;/p&gt;
+&lt;p&gt;It was an occasion to reinforce the value of innovation practices as
+potential contributor and enhancer to operational issues. In other
+words, we can think that operational issues faced in manufacturing
+engineering and quality engineering, can be rooted in design choices.
+This processual view can then be seen as an occasion to work around the
+mutual causality between exploration and exploitation, instead of only
+separating an innovation process and management as a totally isolated
+regime compared to other organizational concerns.&lt;/p&gt;
+&lt;p&gt;The diagram below
+(Fig.&lt;a href=&#34;#fig:globalZAOS&#34; data-reference-type=&#34;ref&#34; data-reference=&#34;fig:globalZAOS&#34;&gt;1&lt;/a&gt;)
+gives a global picture of the 3 main pillars (Drive, Execute, and
+Support).&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-zodiac-aerospace-operational-system-3-main-pillars-sustained-by-13-major-processes&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://mleglatin.github.io/img/globalZAOS.png&#34; data-caption=&#34;Zodiac Aerospace Operational System: 3 main pillars sustained by 13 major processes&#34;&gt;
+
+
+  &lt;img src=&#34;https://mleglatin.github.io/img/globalZAOS.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Zodiac Aerospace Operational System: 3 main pillars sustained by 13 major processes
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Work in progress&amp;hellip;
+    &lt;p&gt;In the first section, we start by presenting the procedures written for
+the ZAOS with the researcher’s contributions. They cover the &lt;em&gt;Design &amp;amp;
+Develop&lt;/em&gt; and &lt;em&gt;Innovate&lt;/em&gt; processes. The first defines a traditional new
+product development, a representation of an exploitation regime, with a
+strong influence from the optimization of project management. The second
+process is then seen as upstream, and the researcher tried to distil it
+in the model of decisional ambidexterity.&lt;/p&gt;
+&lt;p&gt;Then, we discuss the feedback gained from several R&amp;amp;T managers community
+workshops where the procedures were reviewed and where the researcher
+had the occasion to discuss his model of decisional ambidexterity.
+Similarly to the ZAOS procedures, these contributions show the issues of
+surfacing an organizational metabolism against the duality of processes
+and structure.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;group-procedures-design--develop-and-innovate&#34;&gt;Group procedures: Design &amp;amp; Develop and Innovate&lt;/h2&gt;
+&lt;p&gt;Following some quality and delay issues, corporate teams had launched
+programs of &lt;em&gt;operational excellence&lt;/em&gt; across the group. Originally, it
+was formalized in key requirements for operations (supply chain,
+manufacturing, industrialization, customer management). Later, it was
+formalized into an update of the quality management system to prescribe
+a set of key principles and procedures. The movement initiated for
+critical process then moved &amp;ldquo;upstream&amp;rdquo; to tackle &lt;em&gt;Design &amp;amp; Develop&lt;/em&gt; and
+&lt;em&gt;Innovate&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The researcher had first participated to the &lt;em&gt;Program Management&lt;/em&gt;
+procedures writing to identify how R&amp;amp;T activities could be articulated
+(TRL assessment for risk management, technology acquisition and
+integration and multi-BU projects). Then, an even more active
+contribution was made to &lt;em&gt;Design &amp;amp; Develop&lt;/em&gt;. It was an occasion to
+contribute and gain sufficient knowledge on exploitation regime.
+Consequently, it helped formulate proposals for management devices
+instilled by decisional ambidexterity in &lt;em&gt;Innovate&lt;/em&gt; procedures.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;We present the linear view of designing and developing products in the
+ZAOS. It is part of a more global processual perspective of the
+exploitation regime that tries to avoid referring to organization
+structures. Innovation is then placed as an upstream process, we discuss
+its interface and assumptions.&lt;/p&gt;
+&lt;p&gt;Then, we show the &lt;em&gt;Innovate&lt;/em&gt; procedure and how the researcher tried
+accommodating decisional ambidexterity by introducing the governance
+construct for road-mapping activities.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;design--development-procedures&#34;&gt;Design &amp;amp; Development procedures&lt;/h3&gt;
+&lt;p&gt;In the figure below, we present the overall process of &lt;em&gt;Develop &amp;amp;
+Sustain&lt;/em&gt; with inputs/outputs from other processes, as well as suppliers
+and customers of different processes: Design &amp;amp; Develop, Perform
+industrialization, Perform maintainability engineering for repair, and
+Maintain continued airworthiness.&lt;/p&gt;
+&lt;p&gt;The overall perspective of designing and developing makes several
+assumptions on the linearity of the process. Customer have need, voiced
+to the business unit through bidding teams and programs framing the
+undertaking waterfalled to different underlying processes (see
+figure.&lt;a href=&#34;#fig:globalZAOS&#34; data-reference-type=&#34;ref&#34; data-reference=&#34;fig:globalZAOS&#34;&gt;1&lt;/a&gt;).
+As we see below in
+Figure.&lt;a href=&#34;#fig:DesignDevelopProcessCard&#34; data-reference-type=&#34;ref&#34; data-reference=&#34;fig:DesignDevelopProcessCard&#34;&gt;2&lt;/a&gt;,
+the suppliers/customers in bold purple letters are other processes
+providing and expecting actions and deliverables (note: circular
+references are possible because of iterations).&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-zaos---design--develop-process-card-sipoc-view---supplier-input-process-output-customer&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://mleglatin.github.io/img/DesignDevelopProcessCard.png&#34; data-caption=&#34;ZAOS - Design &amp;amp; Develop process card (SIPOC view - Supplier Input Process Output Customer)&#34;&gt;
+
+
+  &lt;img src=&#34;https://mleglatin.github.io/img/DesignDevelopProcessCard.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    ZAOS - Design &amp;amp; Develop process card (SIPOC view - Supplier Input Process Output Customer)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Given several inputs and interactions with other processes,
+responsibility, accountability, support, consultation and information
+are distributed among functional activities (jobs), with some overlap,
+interactions but with a global movement forward, the sub-processes are
+the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Create Technical Proposal&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Analyse Customer Needs &amp;amp; Capture Requirements&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Perform Preliminary Design Analysis&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create Detailed Design Data&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Perform Verification and Qualification&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Obtain or Support Certification&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Configuration Management&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This exploitation regime is heavily dependent on the client’s demand and
+makes the assumption the client knows to some extent how to formulate
+requirements to a congruent business unit (bidding and engineering team)
+capable to discuss and support in the formulation of engineering
+specifications and rules to conduct product development.&lt;/p&gt;
+&lt;p&gt;Numerous debates during writing workshops (for program management,
+develop &amp;amp; sustain, as well as innovation) took place because of
+differences in organization design. The struggle was hard to adopt the
+view of the quality management system which enforces a strong processual
+view. The process should be high-level enough to be transposable between
+business units. The compromise found to avoid specificities was to add
+some depth to the processes for organizations to better identify with
+maturity matrices.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-zaos---design--develop-sequential-view&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://mleglatin.github.io/img/RTinterfaceProc.png&#34; data-caption=&#34;ZAOS - Design &amp;amp; Develop sequential view&#34;&gt;
+
+
+  &lt;img src=&#34;https://mleglatin.github.io/img/RTinterfaceProc.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    ZAOS - Design &amp;amp; Develop sequential view
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;project-based-management-principles&#34;&gt;Project-based management principles&lt;/h4&gt;
+&lt;p&gt;Project management principles are induced by the framing and management
+of overarching programs. They impose the breakdown of the activities in
+work packages supported by team. Resources are picked among whatever
+organization is in place following the matrix-form (Galbraith
+
+&lt;a href=&#34;#ref-Galbraith1971&#34;&gt;1971&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Resources are allocated depending on customer requirements and derived
+specifications. What is rather surprising in the writing of these
+activities and responsibilities is the implicit reference to the
+necessary competencies and capabilities to continuously be able to
+develop new products and cope with adaptation to change&lt;/p&gt;
+&lt;h4 id=&#34;rt-and-innovation-interface&#34;&gt;R&amp;amp;T and Innovation interface&lt;/h4&gt;
+&lt;p&gt;As we can see in the previous figure, they have linearized the R&amp;amp;T
+activities, through the TRL assessment (Mankins
+
+&lt;a href=&#34;#ref-Mankins2009&#34;&gt;2009&lt;/a&gt;). It corresponds to a stage-gate equivalent
+(Cooper 
+&lt;a href=&#34;#ref-Cooper2007&#34;&gt;2007&lt;/a&gt;). Of course, such linear and adaptive
+view is more appropriate for incremental innovation. Product development
+and engineering refers to a pool of technologies capable of being
+integrated as the TRL freezes the integration environment to measure the
+technology maturation. So, if the engineering rules for products remain
+stable enough and that these are made clear, it can be considered that
+maturity assessment will filter and perhaps bring adjustments to
+technologies.&lt;/p&gt;
+&lt;p&gt;Consequently, when it comes to major innovations initiatives, they would
+originate from another process that necessarily challenges or even
+by-passes traditional adaptive and maturation processes. From the
+researcher’s viewpoint and as discussed on multiple occasions with the
+CTO, the quality management system had to sanctuarise these processes in
+&lt;em&gt;Innovate&lt;/em&gt;. Indeed, &lt;em&gt;Design &amp;amp; Develop&lt;/em&gt; restricts its scope to a
+traditional exploitation regime with its lot of hypotheses on nature of
+risks, certainties, fixations and marginal correction of biases &amp;amp;
+heuristics.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;The structure of the ZAOS, with the cross-referencing of processes of
+different nature, forces to build coherence between them as well as
+delimiting their perimeter. The scope and the risk of leaving activities
+unmanaged was taken care of by the ZAOS project team. On some occasions,
+it was also circumvented by using maturity matrices to provide
+additional detail on how activities can be conducted with underlying
+competencies and capabilities.&lt;/p&gt;
+&lt;p&gt;Overall, &lt;em&gt;Design &amp;amp; Develop&lt;/em&gt; describes the exploitation regime fed by
+some optimizations that can be decided as they improve product design &amp;amp;
+development with technologies capable of being integrated.&lt;/p&gt;
+&lt;p&gt;From the decisional ambidexterity perspective, it provides enough ground
+to envision designing decisions capable of changing products, their
+development and required capability. Since, we face a traditional model
+of ambidexterity, decisional ambidexterity model is bound to be upstream
+but encourage to disentangle fixations effects and interdependencies.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;innovate-procedures&#34;&gt;Innovate procedures&lt;/h3&gt;
+&lt;p&gt;The &lt;em&gt;Innovate&lt;/em&gt; process was the last in being written in the ZAOS
+program. Some place had been made already for incremental innovation
+with more traditional R&amp;amp;T activities focusing on technology maturation
+made available to product development and program management.&lt;/p&gt;
+&lt;p&gt;A preliminary round between the CTO, his North America delegate, the
+Intellectual Property director, and the PhD Candidate was organized to
+provide an overall framing. This original draft helped giving some
+directions to the writing workshop participants. The main issue was
+defining whether or not the process should consider product design and
+innovation, in addition to technologies. And more common to other
+processes in the ZAOS, sub-processes and topics were reallocated and
+articulated differently under the umbrella of the agreed main processes
+after several iterations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Define, Implement and Maintain Product &amp;amp; Technology Road maps&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Manage Research &amp;amp; Technology Projects&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Manage patents and create patent landscape&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Innovate&lt;/em&gt; complements what exploitation doesn’t cover. In other words,
+it feeds exploration regime. It is regarded &lt;em&gt;upstream&lt;/em&gt; to provide
+technologies to improve continuously product along its roadmap. However,
+the group quickly insisted on approaching the subject with additional
+processes catching other forms of innovation. It was necessary due to
+the variety of products, sometimes relying on several common
+technologies (material, composite, flammability, electronics, EMI,
+etc.), and due to the value of design and layouts for cabin and seats
+equipment.&lt;/p&gt;
+&lt;p&gt;Consequently, the working group had to precise the articulation of other
+innovation streams and practices contributing to exploration and
+differing from the linear, continuous and adaptive view of innovation.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-zaos---innovate-process-card-sipoc-view&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://mleglatin.github.io/img/InnovateProcessCard.png&#34; data-caption=&#34;ZAOS - Innovate process card (SIPOC view)&#34;&gt;
+
+
+  &lt;img src=&#34;https://mleglatin.github.io/img/InnovateProcessCard.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    ZAOS - Innovate process card (SIPOC view)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;As we show, in the following paragraphs, decisional ambidexterity
+explains the nature of these innovation streams contributing in more
+complex ways and differing from traditional models of ambidexterity.&lt;/p&gt;
+&lt;h4 id=&#34;revisiting-the-innovation-funnel&#34;&gt;Revisiting the innovation funnel&lt;/h4&gt;
+&lt;p&gt;In order to provide a basis for discussion, the researcher used
+traditional ways of representing innovation. The famous funnel implies
+uncertainty reduction through a stage-gated with an hypothetical target
+and environment. It is rather fixated. He then proposed to use its
+parameters and assumptions to show that other innovations, differing
+from technology maturation could be considered:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Technologies and Products can be created but do not have yet a
+market&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Markets can be created but do not have yet a product or technology&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These two simple statements encourage after defining what the funnel
+is&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, to envision other scenarios and concepts to be decided. The
+figure
+&lt;a href=&#34;#fig:InnovationFunnel&#34; data-reference-type=&#34;ref&#34; data-reference=&#34;fig:InnovationFunnel&#34;&gt;5&lt;/a&gt;
+below incites to revisit the innovation funnel, not only to show the
+necessary feedback loops between gates to reach an a priori defined
+target, but also to show the porosity of the funnel and its
+elasticity/plasticity as new decisions rule its scope and curvature.&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-extending-the-innovation-funnel-with-decisional-ambidexterity&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://mleglatin.github.io/img/InnovationFunnel.png&#34; data-caption=&#34;Extending the Innovation Funnel with Decisional Ambidexterity&#34;&gt;
+
+
+  &lt;img src=&#34;https://mleglatin.github.io/img/InnovationFunnel.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Extending the Innovation Funnel with Decisional Ambidexterity
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The colour code identifies different types of concepts relying on a
+specific decision-making. The light blue refer to technologies and
+(design) concepts that can fit the environment and adjust with existing
+engineering design rules.&lt;/p&gt;
+&lt;p&gt;Dark blue is for new concepts that tend to modify the shape of the
+funnel. Some can be fully discarded (red-cross) because they are decided
+to be out of scope, e.g. they require escalating decision and involve
+strategic discussions challenging the overall model of business or
+firm’s identity.&lt;/p&gt;
+&lt;p&gt;Others may be left in a &lt;em&gt;parking lot&lt;/em&gt; (yellow) as the decision requires
+deeper value management to understand how to generate a future fit with
+organizations: e.g. the lower deck project.&lt;/p&gt;
+&lt;p&gt;Otherwise, the dark blue concepts may require to search or support
+suppliers in developing technologies, or inversely searching or
+co-innovating with customers and users to shape the future market. The
+Icing Conditions Detection project revealed several features of this
+interplay between technology and market design.&lt;/p&gt;
+&lt;h3 id=&#34;decision-design-and-innovation-governance&#34;&gt;Decision-design and Innovation governance&lt;/h3&gt;
+&lt;p&gt;Introducing such interactions touching upon organizational metabolism,
+the writing team had to provide a means to manage such decisions. They
+relied on existing practices, i.e. road mapping activities for
+technologies and products.&lt;/p&gt;
+&lt;p&gt;First, the group included the product road map as part of &lt;em&gt;Innovate&lt;/em&gt;
+whereas in the past it was absent and only focused on technologies
+(R&amp;amp;T). It allowed to be more representative of &lt;em&gt;less&lt;/em&gt; business units who
+focus rather on design features (cabin and seats), besides common topics
+such as materials.&lt;/p&gt;
+&lt;p&gt;Secondly, the main issue raised by writing workshop participants was the
+handover between innovation teams and product development and
+sales/marketing. The issue was not the handover dossier nor technical
+items, but rather to have some buy-in from them. Moreover, enforcing a
+top-down was not necessarily the solution according to participants’
+experiences.&lt;/p&gt;
+&lt;p&gt;With the CTO, they proposed to introduce a governance body to
+orchestrate the alignment and change of roadmaps for technologies and
+products. The American colleague (CTO’s delegate for the Americas) was
+not very comfortable with it as it has a stronger meaning than in France
+(more related to the firm’s Board). Nevertheless, due to the weight and
+twist they wanted to give to this management of decisions and concepts,
+they kept it. The procedure asks to organize meetings with BU
+stakeholders, invited experts from the group (if relevant), and the
+group CTO. Interactions in meetings are encouraged then to discuss what
+can change for the funnel and in between roadmaps. The point is to
+discuss what makes decision and position concepts accordingly. Experts
+can bring additional knowledge. And the CTO can spot opportunities
+outside of the BU, or find connections for multi-BU projects.&lt;/p&gt;
+&lt;p&gt;In other words, we insisted on the innovation potential of attraction,
+resurfacing rules for decisions on product engineering and development,
+in order to fit to them or redesign them with according knowledge and
+organizational change. The word metabolism wasn’t used but the
+interactions and the management device through this governance body is
+here to support such phenomenon.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;The &lt;em&gt;Innovate&lt;/em&gt; process defined as complement to the exploitation regime
+in &lt;em&gt;Design &amp;amp; Develop&lt;/em&gt; offers a first to reconsider a reductive model of
+ambidexterity for R&amp;amp;T activities and articulate other innovation
+streams. Decisional ambidexterity is used to condition exploration by
+exploitation parameters and constraints usually represented through a
+funnel.&lt;/p&gt;
+&lt;p&gt;Given the obstacles reported by R&amp;amp;T managers and innovation
+practitioners, they proposed to work on the articulation of their
+activities with exploitation regime. Bringing interactions and managing
+them around fixations effects and interdependencies through the lens of
+&lt;em&gt;decisional ambidexterity&lt;/em&gt;, allows to propose new means of actions for
+existing objects such as road maps. The decision design is distilled in
+the process and embodied by &lt;em&gt;governance&lt;/em&gt; of roadmaps during meetings.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;approach-and-validation-with-rt-managers&#34;&gt;Approach and validation with R&amp;amp;T Managers&lt;/h2&gt;
+&lt;p&gt;Former &lt;em&gt;Aérazur&lt;/em&gt; group of business units had their own quality
+management system and shared common practices as well similar
+technologies (fabric, composite material, injection moulding). When the
+R&amp;amp;T activities had been gradually established in 2013, they had set up
+an exchange group with the recently appointed R&amp;amp;T managers. In late
+2016, after a year without meetings, the group was set up again, and
+enlarged to other business units in France, i.e. not restricted to
+former &lt;em&gt;Aérazur&lt;/em&gt;. The researcher was already known to these managers,
+had worked with them on their management practice, and had consulted
+them to collect input for innovation procedures update (before and
+during ZAOS project).
+They held five meetings between 2017 and 2018 to discuss several topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Key Performance Indicators for R&amp;amp;T management&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Handover between R&amp;amp;T and other BU stakeholders&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Expertise and technologies knowledge access across BUs&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Decision-making and design practices for R&amp;amp;T and advanced concepts&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The agenda was set by the main organizer and the researcher. The group
+was consulted beforehand to adjust according to their interests and were
+requested to present their perspective on agenda’s topics.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;Below, we share feedbacks collected through the five workshops organized
+by the R&amp;amp;T managers community. The researcher consulted this group of
+people outside the procedure writing workshops.&lt;/p&gt;
+&lt;p&gt;The researcher tested also how decisional ambidexterity could be adapted
+to the process management perspective of the new quality management
+system in addition to complementary methods and practices.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;rethinking-evaluation-of-concepts&#34;&gt;Rethinking evaluation of concepts&lt;/h3&gt;
+&lt;p&gt;Several projects hosted in BU’s respective R&amp;amp;T departments struggled to
+beyond TRL6, i.e. the gate beyond which the Product Development
+engineering should take over. All BUs had a history of numerous product
+innovation, technology development, and most had been successful before
+delimiting an up-stream activity (R&amp;amp;T, Innovation or Advanced Concepts).
+Of course, many other projects had failed or led to high risks taking
+when developing products for clients.&lt;/p&gt;
+&lt;p&gt;As we have stressed earlier, TRL assessments consider environment being
+fixed, so entering the evaluation is made for a given target with its
+integration assumptions. Several discussions were oriented on how the
+environment could be shaped to create a generative fit, as they agreed
+it couldn’t be so deterministic for some technologies and products.&lt;/p&gt;
+&lt;p&gt;Following three meetings, one of the R&amp;amp;T managers reported he had
+several TRL6 technologies waiting to handover to product development and
+industrialisation. He had organized several meetings with stakeholders,
+but industrialisation and operations wouldn’t show up; after several
+attempts, projects went further with the support of a salesman. Such
+initiatives led to tensions between departments despite having verbal
+and signed agreement following the organized meetings (email and signing
+sheets).&lt;/p&gt;
+&lt;p&gt;Consequently, he proposed to create an interface for such meetings. The
+idea of having management device to channel interactions was
+acknowledged crucial. They made the parallel with brainstormings without
+a proper coach: rules and isolated brainwriting give voice to all ideas.
+An Excel spreadsheet was formalised to decide on concepts interest.
+Criteria were defined and given a weight by BU stakeholders. The
+objective was first to decide on the interest and value of concepts.&lt;/p&gt;
+&lt;p&gt;However, the second underlying objective was to envision the possibility
+of reviewing some criteria (with a poor value or ranking) in order to
+identify what had to change in the BU to enable the decision:
+engineering rules, client relationship, use cases, suppliers, technical
+feasibility, manufacturability, etc.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;They managed to emphasize the cruciality of discussing what makes
+decisions for R&amp;amp;T and innovation concepts to better work out the
+articulation with exploitation regime.&lt;/p&gt;
+&lt;p&gt;Paradoxically, decisional ambidexterity applied heuristics developed
+during the meetings allowed reconnecting innovation streams with the
+gaps created by traditional models of ambidexterity.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;the-augmented-proof-of-concept&#34;&gt;The augmented Proof of Concept&lt;/h3&gt;
+&lt;p&gt;During one of the meetings, they also took the opportunity to discuss
+the Hypoxia Protection project. The several practices of opening the
+project were presented such as discussing digital and physical mock-ups
+with stakeholders.&lt;/p&gt;
+&lt;p&gt;The point was to try to test the idea of revisiting the traditional
+proof of concept as defined in a TRL assessment. A prototype presented
+to stakeholders to check pre-defined criteria could lead to a
+standstill. So, they debated over how they could discuss the evolution
+of criteria thus enabling other concepts.&lt;/p&gt;
+&lt;p&gt;To do so, the researcher proposed to work on what an engineering model
+is. He took an external example (aircraft engine) which can be described
+with simple equations at a certain order in functional analysis. He
+insisted on specifying assumptions and impacts on engineering rules,
+interfaces between sub-systems and organization mirroring. Consequently,
+they could discuss how simple variations on equation parameters could
+radically engineering rules and organization. For instance, one can
+shift from a turbojet to a turbofan by playing on inlet cross section,
+and shift even to open rotor turbofans by making the cross section
+infinite. The first shift has a strong impact on mechanical gear and
+shaft system. The second shift changes the physics altogether, since
+part of the engine is unducted, so propellers’ equations have to be
+integrated. Such simple tricks in the model handling ripple out through
+an engineering organization as well as for an entire business unit and
+environment.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The discussions with R&amp;amp;T managers revealed their interest but also the
+difficulty to transpose to their BU and engineering the method. Indeed,
+formalizing their practice hasn’t been done systematically across the
+group and over the years. However, it also leaves some slack as well as
+risks and opportunities to innovate around the non-totally-explicit
+models of engineering. Such setting gives room for high levels of
+reconfigurability but with threats of leaving interdependencies and
+fixations in a blind spot.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;what-if-to-articulate-strategic-intent-and-organization-design&#34;&gt;&amp;ldquo;What If?&amp;rdquo; to articulate strategic intent and organization design&lt;/h3&gt;
+&lt;p&gt;Finally, the researcher discussed hacking to value emergent strategies.
+One R&amp;amp;T manager was very receptive and presented us his way of designing
+his strategy. His business unit has been facing market share losses and
+difficulties in opening new markets because of lowering entry barriers
+(known technology) and regulations.&lt;/p&gt;
+&lt;p&gt;New growth opportunities had to be found and these would be out of the
+aircraft industry. Sticking to the history of technology transfers and
+genericity to different systems integration, he developed alternatives.
+The methodology formalizing technology roadmaps definition and creation
+was used to identify hackable parameters. Indeed, he acknowledged
+presenting to his managing directors highly uncertain Net Present Value
+calculations and business models. However, his presentations aimed at
+showing how they could become true or less uncertain by identifying
+means of action to uncover the share of unknown. Another representative
+from another BU, shared a history of business plans requested by his
+local financial director who systematically requested them. He used
+these models to show the absurdity of such planning per se, and twisted
+to identify what had to be redesigned internally or in the environment
+to enable the business cases.&lt;/p&gt;
+&lt;p&gt;The meeting’s participants acknowledged such practices. In some way or
+another, they had performed similar hacking in their own fashion and
+with variations. For instance, one relied on formalized business plans
+for his financial director not only to &amp;ldquo;cheat&amp;rdquo; and gain his approval,
+but also to point at where the effort should be put to make these cases
+come true. As for the previous modelling effort for engineering and
+organizing, they stressed the difficulty in transposing across BUs. The
+R&amp;amp;T managers were more keen in having a set of heuristics and method to
+adapt and apply them to their specific practice.&lt;/p&gt;
+&lt;p&gt;There is no &lt;em&gt;one best way&lt;/em&gt; so it encouraged the researcher to find
+generic enough. We didn’t take the time to introduce decisional
+ambidexterity as it has been formalized here in the thesis’ manuscript
+or in 
+&lt;a href=&#34;https://mleglatin.github.io/publication/pub-lemasson2018/&#34;&gt;our publication&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;The meetings held with R&amp;amp;T managers from the French BUs were rich in
+debate to discuss management issues. During these meetings and the
+evolving agendas, we tried to test some declinations of decisional
+ambidexterity before its actual formalization.&lt;/p&gt;
+&lt;p&gt;We see that they came with their own practices and tricks to overcome
+limitations of traditional models of ambidexterity. However, they report
+on the difficulties to have a systematic way of playing on fixations
+effects and interdependencies to value their project’s portfolio. In
+other words, it encourages to work on a &lt;em&gt;baseline&lt;/em&gt; that would help them
+to reconciliate the tensions between the models organizational
+ambidexterity and exploration projects.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;chapter-synthesis-decisional-ambidexterity-enhancing-process-management&#34;&gt;Chapter synthesis: decisional ambidexterity enhancing process management&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;In this chapter, we have presented how the researcher contributed to the
+quality management system through the &lt;em&gt;Design &amp;amp; Develop&lt;/em&gt; and &lt;em&gt;Innovate&lt;/em&gt;
+processes. We tried to accommodate decisional ambidexterity within the
+processual perspective and it reveals some difficulties circumvented by
+the introduction of the notion of &lt;em&gt;governance&lt;/em&gt; for road-mapping
+activities.&lt;/p&gt;
+&lt;p&gt;The discussions during workshops with the R&amp;amp;T managers from French BUs
+reveal also the complexity for them to implement approaches extending
+limitations of traditional models of ambidexterity. They recognize the
+results of the thesis, they identify with patterns of decisional
+ambidexterity, but still struggle to implement or develop their own
+&lt;em&gt;technology of organizing&lt;/em&gt;. The disentanglement of fixations effects and
+interdependencies is complex and perhaps even chaotic. However, the
+interactive meetings proposed in the procedure to discuss and design
+decisions opened some possibilities, as some colleagues had implemented
+similar practices or were about to.&lt;/p&gt;
+&lt;p&gt;Our work trying to collect and propose means of formalizing decisional
+ambidexterity is not finished despite having tested ideas of
+implementation. The logics appear quite normal to them, as it was also
+recognized by the former CEO and discussed for the Multi-BU committee.&lt;/p&gt;
+&lt;p&gt;This chapter closes our work at Zodiac Aerospace and our testing of the
+decisional ambidexterity supporting its validation as an extension of
+models of ambidexterity. As shown here, it provides means of action to
+avoid the limitations we had extensively discussed in previous chapters
+when starting the PhD journey. The following chapters will discuss what
+we have achieved so far before concluding this thesis.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;div id=&#34;refs&#34; class=&#34;references hanging-indent&#34; markdown=&#34;1&#34;&gt;
+&lt;div id=&#34;ref-Cooper2007&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Cooper, By Robert G. 2007. “Managing Technology Development Projects.”
+&lt;em&gt;Stage-Gate&lt;/em&gt; 35 (1): 67–76.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Galbraith1971&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Galbraith, Jay R. 1971. “Matrix organization designs How to combine
+functional and project forms.” &lt;em&gt;Business Horizons&lt;/em&gt; 14 (1): 29–40.
+&lt;a href=&#34;https://doi.org/10.1016/0007-6813(71)90037-1&#34;&gt;https://doi.org/10.1016/0007-6813(71)90037-1&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;ref-Mankins2009&#34; markdown=&#34;1&#34;&gt;
+&lt;p&gt;Mankins, John C. 2009. “Technology readiness assessments: A
+retrospective.” &lt;em&gt;Acta Astronautica&lt;/em&gt; 65 (9): 1216–23.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;what the box is, to think out of it and it in comparison to &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
     </item>
     
