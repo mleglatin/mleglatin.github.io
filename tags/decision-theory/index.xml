@@ -5,12 +5,20 @@
     <link>https://mleglatin.github.io/tags/decision-theory/</link>
       <atom:link href="https://mleglatin.github.io/tags/decision-theory/index.xml" rel="self" type="application/rss+xml" />
     <description>decision theory</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright><lastBuildDate>Thu, 26 Mar 2020 18:18:52 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright><lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>decision theory</title>
       <link>https://mleglatin.github.io/tags/decision-theory/</link>
     </image>
+    
+    <item>
+      <title> L&#39;entreprise, l&#39;ingénieur et le pouvoir </title>
+      <link>https://mleglatin.github.io/publication/zarrouati-leglatin2021/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://mleglatin.github.io/publication/zarrouati-leglatin2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Designing Decisions in the Unknown: A Generative Model</title>
